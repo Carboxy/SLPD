@@ -9,7 +9,7 @@ SLPD: Slide-level Prototypical Distillation for WSIs
 </details>
 
 <div align="center">
-  <img width="100%" alt="SLPD Illustration" src=".SLPD_framework.PNG">
+  <img width="100%" alt="SLPD Illustration" src="./SLPD_framework.PNG">
 </div>
 
 <details>
