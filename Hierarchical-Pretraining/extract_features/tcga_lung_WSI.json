@@ -1,0 +1,5207 @@
+{
+  "100000": {
+    "slide_id": "TCGA-80-5608-01Z-00-DX1.CB85BA53-AF00-4C7D-8489-C2FF0F4F49AB",
+    "slide_index": 0,
+    "dataset_index": 100000
+  },
+  "100001": {
+    "slide_id": "TCGA-05-4417-01Z-00-DX1.6E534856-996F-4BD9-8AFC-7B1BF627E505",
+    "slide_index": 1,
+    "dataset_index": 100001
+  },
+  "100002": {
+    "slide_id": "TCGA-56-A4ZK-01Z-00-DX1.D6B1AC68-BF70-4C49-A5A1-233D6DA4AE27",
+    "slide_index": 2,
+    "dataset_index": 100002
+  },
+  "100003": {
+    "slide_id": "TCGA-78-7220-01Z-00-DX1.3df84ce0-4395-4c9e-ba62-76b55676a440",
+    "slide_index": 3,
+    "dataset_index": 100003
+  },
+  "100004": {
+    "slide_id": "TCGA-97-A4M0-01Z-00-DX1.BDDFB04C-2475-485A-9A85-C4B9EB15155E",
+    "slide_index": 4,
+    "dataset_index": 100004
+  },
+  "100005": {
+    "slide_id": "TCGA-77-8007-01Z-00-DX1.06f0e4a1-936d-4bc2-acbf-cfec25fed190",
+    "slide_index": 5,
+    "dataset_index": 100005
+  },
+  "100006": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX1.efde88cb-4766-4fb6-bed9-52b14059c7c1",
+    "slide_index": 6,
+    "dataset_index": 100006
+  },
+  "100007": {
+    "slide_id": "TCGA-92-7340-01Z-00-DX1.e0b0240c-9b6c-4da9-b9cb-bc634051fc45",
+    "slide_index": 7,
+    "dataset_index": 100007
+  },
+  "100008": {
+    "slide_id": "TCGA-77-A5G8-01Z-00-DX1.4F66CA44-C238-4293-882C-5357ABD7115F",
+    "slide_index": 8,
+    "dataset_index": 100008
+  },
+  "100009": {
+    "slide_id": "TCGA-34-5232-01Z-00-DX1.7483c36b-8473-439b-a726-2821ec834fc2",
+    "slide_index": 9,
+    "dataset_index": 100009
+  },
+  "100010": {
+    "slide_id": "TCGA-77-6845-01Z-00-DX1.1d8e2711-a82c-4d9b-97e2-d966417731b7",
+    "slide_index": 10,
+    "dataset_index": 100010
+  },
+  "100011": {
+    "slide_id": "TCGA-56-1622-01Z-00-DX1.d4178664-1e21-452f-9dbf-1b23467ddabc",
+    "slide_index": 11,
+    "dataset_index": 100011
+  },
+  "100012": {
+    "slide_id": "TCGA-85-6560-01Z-00-DX1.bf857c85-ebe7-4135-a4ec-038a57efc319",
+    "slide_index": 12,
+    "dataset_index": 100012
+  },
+  "100013": {
+    "slide_id": "TCGA-66-2765-01Z-00-DX1.c9d8b0f7-b2c8-45ea-8bd1-81e231fd6e91",
+    "slide_index": 13,
+    "dataset_index": 100013
+  },
+  "100014": {
+    "slide_id": "TCGA-46-3768-01Z-00-DX1.226f6cbc-f1f4-4df8-8366-c94fd78e037b",
+    "slide_index": 14,
+    "dataset_index": 100014
+  },
+  "100015": {
+    "slide_id": "TCGA-49-6743-01Z-00-DX4.5ea81023-1372-48ed-88a8-374e2394d7f7",
+    "slide_index": 15,
+    "dataset_index": 100015
+  },
+  "100016": {
+    "slide_id": "TCGA-50-7109-01Z-00-DX1.08f6420c-baa2-4e79-908e-ebbdeec503a6",
+    "slide_index": 16,
+    "dataset_index": 100016
+  },
+  "100017": {
+    "slide_id": "TCGA-85-7950-01Z-00-DX1.ddf7d987-7e4f-4327-83d5-0047e2806ed1",
+    "slide_index": 17,
+    "dataset_index": 100017
+  },
+  "100018": {
+    "slide_id": "TCGA-55-6983-01Z-00-DX1.8f940a64-1f1b-4e6e-99ea-418175be2b3f",
+    "slide_index": 18,
+    "dataset_index": 100018
+  },
+  "100019": {
+    "slide_id": "TCGA-55-A494-01Z-00-DX1.8C7C4BE0-791A-47CA-B0A8-1935366350E0",
+    "slide_index": 19,
+    "dataset_index": 100019
+  },
+  "100020": {
+    "slide_id": "TCGA-49-4506-01Z-00-DX3.a05a3969-bbef-48d8-86de-f51c8870afd6",
+    "slide_index": 20,
+    "dataset_index": 100020
+  },
+  "100021": {
+    "slide_id": "TCGA-55-6975-01Z-00-DX1.2762a872-b1c3-47fd-8ed5-b715a5b20163",
+    "slide_index": 21,
+    "dataset_index": 100021
+  },
+  "100022": {
+    "slide_id": "TCGA-22-5491-01Z-00-DX1.19908BEC-3DDA-4BCD-9EB1-0D2C4A1E5110",
+    "slide_index": 22,
+    "dataset_index": 100022
+  },
+  "100023": {
+    "slide_id": "TCGA-55-8508-01Z-00-DX1.96B173E2-A298-4017-9AEC-113E547A3272",
+    "slide_index": 23,
+    "dataset_index": 100023
+  },
+  "100024": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX4.48b4bbb5-4214-4bfb-91e8-bddfa2f03c92",
+    "slide_index": 24,
+    "dataset_index": 100024
+  },
+  "100025": {
+    "slide_id": "TCGA-33-4583-01Z-00-DX3.f802363d-0e77-450e-bf45-928629c66e23",
+    "slide_index": 25,
+    "dataset_index": 100025
+  },
+  "100026": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX2.cac5ed0a-98c3-4d37-a4f4-9596a061836a",
+    "slide_index": 26,
+    "dataset_index": 100026
+  },
+  "100027": {
+    "slide_id": "TCGA-55-7913-01Z-00-DX1.2295fcc5-70b0-412e-a1fd-b5366fce0739",
+    "slide_index": 27,
+    "dataset_index": 100027
+  },
+  "100028": {
+    "slide_id": "TCGA-50-5942-01Z-00-DX1.da1b1274-8740-4c79-adf9-25800913eafa",
+    "slide_index": 28,
+    "dataset_index": 100028
+  },
+  "100029": {
+    "slide_id": "TCGA-55-8089-01Z-00-DX1.da4d99ff-4a7c-45a3-b79c-039c0c9e9712",
+    "slide_index": 29,
+    "dataset_index": 100029
+  },
+  "100030": {
+    "slide_id": "TCGA-68-A59J-01Z-00-DX1.B143855E-2B30-4562-B809-68AA723F5BD9",
+    "slide_index": 30,
+    "dataset_index": 100030
+  },
+  "100031": {
+    "slide_id": "TCGA-L4-A4E6-01Z-00-DX1.1B537DE0-2CE3-4B90-9ED3-71F1F8747EE9",
+    "slide_index": 31,
+    "dataset_index": 100031
+  },
+  "100032": {
+    "slide_id": "TCGA-66-2759-01Z-00-DX1.10135ce3-22d5-4802-907d-057fe54f5554",
+    "slide_index": 32,
+    "dataset_index": 100032
+  },
+  "100033": {
+    "slide_id": "TCGA-77-8143-01Z-00-DX1.e844a7e1-ebba-4acb-8fe2-08aee2102848",
+    "slide_index": 33,
+    "dataset_index": 100033
+  },
+  "100034": {
+    "slide_id": "TCGA-49-4506-01Z-00-DX1.b13b8ef2-fd06-4309-a767-696a9afeaedd",
+    "slide_index": 34,
+    "dataset_index": 100034
+  },
+  "100035": {
+    "slide_id": "TCGA-44-5643-01Z-00-DX1.83fb7631-0ecb-4473-bfb2-c8daa2f87d35",
+    "slide_index": 35,
+    "dataset_index": 100035
+  },
+  "100036": {
+    "slide_id": "TCGA-55-6987-01Z-00-DX1.0c52b721-2209-4818-af8f-b22d37e6e81e",
+    "slide_index": 36,
+    "dataset_index": 100036
+  },
+  "100037": {
+    "slide_id": "TCGA-95-8039-01Z-00-DX1.38b07435-987d-495d-9940-ba5f20e6ef97",
+    "slide_index": 37,
+    "dataset_index": 100037
+  },
+  "100038": {
+    "slide_id": "TCGA-55-8299-01Z-00-DX1.6F652EC5-EBB8-499C-A66D-E0951FBFCAA2",
+    "slide_index": 38,
+    "dataset_index": 100038
+  },
+  "100039": {
+    "slide_id": "TCGA-96-8170-01Z-00-DX1.8283cd4c-f374-4320-88bd-36a462866d24",
+    "slide_index": 39,
+    "dataset_index": 100039
+  },
+  "100040": {
+    "slide_id": "TCGA-33-4533-01Z-00-DX2.2dad01a3-daa7-45d9-8c74-97ea5e707524",
+    "slide_index": 40,
+    "dataset_index": 100040
+  },
+  "100041": {
+    "slide_id": "TCGA-55-7724-01Z-00-DX1.31a194ac-62e3-4225-8e32-8c2a83dcdd10",
+    "slide_index": 41,
+    "dataset_index": 100041
+  },
+  "100042": {
+    "slide_id": "TCGA-49-4505-01Z-00-DX2.48df81e7-5a8e-4c5b-993a-6a54481a35e9",
+    "slide_index": 42,
+    "dataset_index": 100042
+  },
+  "100043": {
+    "slide_id": "TCGA-39-5011-01Z-00-DX1.be58f65a-0b90-4ba4-bc5f-df74d4a3df22",
+    "slide_index": 43,
+    "dataset_index": 100043
+  },
+  "100044": {
+    "slide_id": "TCGA-55-8087-01Z-00-DX1.548f2800-8caf-4c0e-a7b5-6d3d28315d9c",
+    "slide_index": 44,
+    "dataset_index": 100044
+  },
+  "100045": {
+    "slide_id": "TCGA-55-8301-01Z-00-DX1.2A66E0FC-84F2-4DF8-B06E-D7CDD7AA82C7",
+    "slide_index": 45,
+    "dataset_index": 100045
+  },
+  "100046": {
+    "slide_id": "TCGA-77-6844-01Z-00-DX1.5ace8702-ea00-4e0d-84e8-6615fc361f5a",
+    "slide_index": 46,
+    "dataset_index": 100046
+  },
+  "100047": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX5.19d6ae2f-feaa-4c38-9335-6bb549631f94",
+    "slide_index": 47,
+    "dataset_index": 100047
+  },
+  "100048": {
+    "slide_id": "TCGA-4B-A93V-01Z-00-DX1.C263DC1C-298D-47ED-AAF8-128043828530",
+    "slide_index": 48,
+    "dataset_index": 100048
+  },
+  "100049": {
+    "slide_id": "TCGA-55-7281-01Z-00-DX1.a92dafa4-3a65-4f5c-97f0-83aff231274a",
+    "slide_index": 49,
+    "dataset_index": 100049
+  },
+  "100050": {
+    "slide_id": "TCGA-05-4244-01Z-00-DX1.d4ff32cd-38cf-40ea-8213-45c2b100ac01",
+    "slide_index": 50,
+    "dataset_index": 100050
+  },
+  "100051": {
+    "slide_id": "TCGA-77-A5G3-01Z-00-DX1.7ED6F76A-333F-43DB-B8DF-86BF259DCEFB",
+    "slide_index": 51,
+    "dataset_index": 100051
+  },
+  "100052": {
+    "slide_id": "TCGA-62-A471-01Z-00-DX1.51A235BB-7F67-4C0D-8B15-2E26116D8822",
+    "slide_index": 52,
+    "dataset_index": 100052
+  },
+  "100053": {
+    "slide_id": "TCGA-22-4596-01Z-00-DX1.0B754257-5EBB-4ABF-A847-7EFA71C7D9E7",
+    "slide_index": 53,
+    "dataset_index": 100053
+  },
+  "100054": {
+    "slide_id": "TCGA-55-8511-01Z-00-DX1.8EDFB05B-5B59-46EA-973C-1048B1E284D2",
+    "slide_index": 54,
+    "dataset_index": 100054
+  },
+  "100055": {
+    "slide_id": "TCGA-18-3412-01Z-00-DX1.699A17A5-356B-42F8-815A-5DBD60293242",
+    "slide_index": 55,
+    "dataset_index": 100055
+  },
+  "100056": {
+    "slide_id": "TCGA-55-8096-01Z-00-DX1.c833417d-10c1-4430-a241-d6f5496e1cd9",
+    "slide_index": 56,
+    "dataset_index": 100056
+  },
+  "100057": {
+    "slide_id": "TCGA-22-4599-01Z-00-DX1.2178D5C0-A444-44F5-B878-F5D1FB2943C9",
+    "slide_index": 57,
+    "dataset_index": 100057
+  },
+  "100058": {
+    "slide_id": "TCGA-O2-A52V-01Z-00-DX1.561ADDAE-EC55-461A-84B5-535C93E39C56",
+    "slide_index": 58,
+    "dataset_index": 100058
+  },
+  "100059": {
+    "slide_id": "TCGA-85-8481-01Z-00-DX1.0f626863-3eb5-4b35-b4fe-22a03d767f15",
+    "slide_index": 59,
+    "dataset_index": 100059
+  },
+  "100060": {
+    "slide_id": "TCGA-18-4721-01Z-00-DX1.C4952E79-071A-49C5-8E28-474442832D4E",
+    "slide_index": 60,
+    "dataset_index": 100060
+  },
+  "100061": {
+    "slide_id": "TCGA-93-7347-01Z-00-DX1.a22b7163-07bd-4f6a-97c7-f1561c4d73cb",
+    "slide_index": 61,
+    "dataset_index": 100061
+  },
+  "100062": {
+    "slide_id": "TCGA-68-7756-01Z-00-DX1.15BEAECF-8C36-4761-85A8-EC9E54B61A0C",
+    "slide_index": 62,
+    "dataset_index": 100062
+  },
+  "100063": {
+    "slide_id": "TCGA-L9-A743-01Z-00-DX1.27ED2955-E8B5-4A3C-ADAA-82568ECCFB83",
+    "slide_index": 63,
+    "dataset_index": 100063
+  },
+  "100064": {
+    "slide_id": "TCGA-97-A4M7-01Z-00-DX1.111ED60D-6E4A-47E9-AFD0-C2A109DE2C60",
+    "slide_index": 64,
+    "dataset_index": 100064
+  },
+  "100065": {
+    "slide_id": "TCGA-05-4415-01Z-00-DX1.55E0C429-B308-4962-8DA9-41D7D3F7764E",
+    "slide_index": 65,
+    "dataset_index": 100065
+  },
+  "100066": {
+    "slide_id": "TCGA-56-8625-01Z-00-DX1.11AADFB3-33FF-4EAA-B423-CD0F07163747",
+    "slide_index": 66,
+    "dataset_index": 100066
+  },
+  "100067": {
+    "slide_id": "TCGA-77-8139-01Z-00-DX1.242d68e3-5ee0-4484-8403-e2ffd1ede20b",
+    "slide_index": 67,
+    "dataset_index": 100067
+  },
+  "100068": {
+    "slide_id": "TCGA-43-8115-01Z-00-DX1.1CFF45F8-6155-498C-AA52-269E6547FE0D",
+    "slide_index": 68,
+    "dataset_index": 100068
+  },
+  "100069": {
+    "slide_id": "TCGA-55-1596-01Z-00-DX1.de65522d-92ab-408e-9b7e-24210d386b97",
+    "slide_index": 69,
+    "dataset_index": 100069
+  },
+  "100070": {
+    "slide_id": "TCGA-94-A5I6-01Z-00-DX1.55C3DD79-D988-47FA-81FE-2BA20C291530",
+    "slide_index": 70,
+    "dataset_index": 100070
+  },
+  "100071": {
+    "slide_id": "TCGA-66-2770-01Z-00-DX1.c11eb894-06a2-4bd0-92da-70fe024b07f1",
+    "slide_index": 71,
+    "dataset_index": 100071
+  },
+  "100072": {
+    "slide_id": "TCGA-51-6867-01Z-00-DX1.5f3a0562-efbe-413f-8e13-9826aaefa298",
+    "slide_index": 72,
+    "dataset_index": 100072
+  },
+  "100073": {
+    "slide_id": "TCGA-97-7554-01Z-00-DX1.4107ca63-4642-42b9-b6f2-13778ecaf9a7",
+    "slide_index": 73,
+    "dataset_index": 100073
+  },
+  "100074": {
+    "slide_id": "TCGA-56-A4BX-01Z-00-DX1.60E64193-473C-4220-9E38-0F5D952BD157",
+    "slide_index": 74,
+    "dataset_index": 100074
+  },
+  "100075": {
+    "slide_id": "TCGA-43-3394-01Z-00-DX1.4c2f49b9-9dac-41d8-a62b-64c8928caa3c",
+    "slide_index": 75,
+    "dataset_index": 100075
+  },
+  "100076": {
+    "slide_id": "TCGA-75-6206-01Z-00-DX1.63230D94-7015-4247-936D-E7ACD6692AB3",
+    "slide_index": 76,
+    "dataset_index": 100076
+  },
+  "100077": {
+    "slide_id": "TCGA-37-4129-01Z-00-DX1.0b52aa1e-20d4-4084-8fa1-2f1b7f09dd5b",
+    "slide_index": 77,
+    "dataset_index": 100077
+  },
+  "100078": {
+    "slide_id": "TCGA-55-7728-01Z-00-DX1.1d47a5fe-cab5-4d5a-a62b-16f345334d25",
+    "slide_index": 78,
+    "dataset_index": 100078
+  },
+  "100079": {
+    "slide_id": "TCGA-44-A479-01Z-00-DX1.CA5654C6-A623-452E-A8AC-DB6279CA97B1",
+    "slide_index": 79,
+    "dataset_index": 100079
+  },
+  "100080": {
+    "slide_id": "TCGA-33-A5GW-01Z-00-DX3.7A1C5169-96C6-4ECB-81E1-1050EFE84B60",
+    "slide_index": 80,
+    "dataset_index": 100080
+  },
+  "100081": {
+    "slide_id": "TCGA-55-8085-01Z-00-DX1.ff220eba-3515-4d2e-b317-76337dd3d206",
+    "slide_index": 81,
+    "dataset_index": 100081
+  },
+  "100082": {
+    "slide_id": "TCGA-60-2696-01Z-00-DX1.17748315-09b2-4abd-97f1-93c9951b0a70",
+    "slide_index": 82,
+    "dataset_index": 100082
+  },
+  "100083": {
+    "slide_id": "TCGA-78-7149-01Z-00-DX1.1b83dbcb-0c9f-4e50-bb98-bf9a157052cf",
+    "slide_index": 83,
+    "dataset_index": 100083
+  },
+  "100084": {
+    "slide_id": "TCGA-55-A4DG-01Z-00-DX1.9CE9B7BE-48EF-44F1-9C25-F15700A3E5DE",
+    "slide_index": 84,
+    "dataset_index": 100084
+  },
+  "100085": {
+    "slide_id": "TCGA-77-8150-01Z-00-DX1.8ae93dac-2038-4426-9ddf-6fb857f6938a",
+    "slide_index": 85,
+    "dataset_index": 100085
+  },
+  "100086": {
+    "slide_id": "TCGA-60-2709-01Z-00-DX1.ded10e7c-c1ca-4402-be0e-f3978994d4af",
+    "slide_index": 86,
+    "dataset_index": 100086
+  },
+  "100087": {
+    "slide_id": "TCGA-55-7995-01Z-00-DX1.fef24d04-35a0-4f57-8f51-7ad602a78871",
+    "slide_index": 87,
+    "dataset_index": 100087
+  },
+  "100088": {
+    "slide_id": "TCGA-49-6742-01Z-00-DX2.2c6b4df0-867d-40c5-8bee-14e2d219224b",
+    "slide_index": 88,
+    "dataset_index": 100088
+  },
+  "100089": {
+    "slide_id": "TCGA-78-7539-01Z-00-DX1.b838d859-2fb7-48d1-a442-d366ac404099",
+    "slide_index": 89,
+    "dataset_index": 100089
+  },
+  "100090": {
+    "slide_id": "TCGA-33-4583-01Z-00-DX5.e2724cf8-d3fd-4ad2-9732-4ba02220d053",
+    "slide_index": 90,
+    "dataset_index": 100090
+  },
+  "100091": {
+    "slide_id": "TCGA-95-7567-01Z-00-DX1.982FF122-A440-4949-926C-B58AF8381090",
+    "slide_index": 91,
+    "dataset_index": 100091
+  },
+  "100092": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX6.631ec263-2df0-4d13-982b-14db382a2532",
+    "slide_index": 92,
+    "dataset_index": 100092
+  },
+  "100093": {
+    "slide_id": "TCGA-78-7167-01Z-00-DX1.f79e1a9b-a3eb-4c91-a1fd-7bb58b1620b1",
+    "slide_index": 93,
+    "dataset_index": 100093
+  },
+  "100094": {
+    "slide_id": "TCGA-85-8666-01Z-00-DX1.d856233a-beef-4da2-a724-759fe23e6227",
+    "slide_index": 94,
+    "dataset_index": 100094
+  },
+  "100095": {
+    "slide_id": "TCGA-22-5482-01Z-00-DX1.901F90D4-1F4E-4344-925B-37B7DD78B751",
+    "slide_index": 95,
+    "dataset_index": 100095
+  },
+  "100096": {
+    "slide_id": "TCGA-33-4583-01Z-00-DX4.efa9cdaf-3a6a-4e31-9826-e90f6f3420b7",
+    "slide_index": 96,
+    "dataset_index": 100096
+  },
+  "100097": {
+    "slide_id": "TCGA-33-4586-01Z-00-DX2.a9798fe4-8db9-41d7-8d00-eb2a9eef1bc0",
+    "slide_index": 97,
+    "dataset_index": 100097
+  },
+  "100098": {
+    "slide_id": "TCGA-63-A5MS-01Z-00-DX1.F58D7779-B8E0-4086-AF14-256B812F83CE",
+    "slide_index": 98,
+    "dataset_index": 100098
+  },
+  "100099": {
+    "slide_id": "TCGA-66-2727-01Z-00-DX1.cab55166-3a9a-4f2e-9f7a-33859ab32d12",
+    "slide_index": 99,
+    "dataset_index": 100099
+  },
+  "100100": {
+    "slide_id": "TCGA-44-6148-01Z-00-DX1.94c29c83-1085-458f-a0c9-3ffa8592cb98",
+    "slide_index": 100,
+    "dataset_index": 100100
+  },
+  "100101": {
+    "slide_id": "TCGA-37-A5EN-01Z-00-DX1.C389C26A-2B88-4DCA-9B32-FEECDFFC35A6",
+    "slide_index": 101,
+    "dataset_index": 100101
+  },
+  "100102": {
+    "slide_id": "TCGA-90-A4EE-01Z-00-DX1.3FC7A945-7D20-4A50-9D9E-436924F1A103",
+    "slide_index": 102,
+    "dataset_index": 100102
+  },
+  "100103": {
+    "slide_id": "TCGA-55-7911-01Z-00-DX1.081bc002-06ee-4218-a25f-26c0e6c4b333",
+    "slide_index": 103,
+    "dataset_index": 100103
+  },
+  "100104": {
+    "slide_id": "TCGA-05-4395-01Z-00-DX1.20205276-ca16-46b2-914a-fe5e576a5cf9",
+    "slide_index": 104,
+    "dataset_index": 100104
+  },
+  "100105": {
+    "slide_id": "TCGA-L9-A7SV-01Z-00-DX1.153B8E2D-54CE-4747-A22E-7A6ADCA03DB5",
+    "slide_index": 105,
+    "dataset_index": 100105
+  },
+  "100106": {
+    "slide_id": "TCGA-66-2756-01Z-00-DX1.e6bda67d-2647-4751-9c16-b711933a1d6c",
+    "slide_index": 106,
+    "dataset_index": 100106
+  },
+  "100107": {
+    "slide_id": "TCGA-MF-A522-01Z-00-DX1.4934A011-8C04-43B7-A358-16AA64BB6B0C",
+    "slide_index": 107,
+    "dataset_index": 100107
+  },
+  "100108": {
+    "slide_id": "TCGA-NC-A5HJ-01Z-00-DX1.0BC0D0C7-F3D3-463E-BA94-C4289D97F1D9",
+    "slide_index": 108,
+    "dataset_index": 100108
+  },
+  "100109": {
+    "slide_id": "TCGA-49-AAQV-01Z-00-DX1.4CC37621-C952-4684-96E3-9B97CDAD8056",
+    "slide_index": 109,
+    "dataset_index": 100109
+  },
+  "100110": {
+    "slide_id": "TCGA-37-5819-01Z-00-DX1.3647F836-7BB4-4D41-A85E-CFC0B5CBA216",
+    "slide_index": 110,
+    "dataset_index": 100110
+  },
+  "100111": {
+    "slide_id": "TCGA-60-2706-01Z-00-DX1.db003232-66ab-437e-81c7-f490310ca03a",
+    "slide_index": 111,
+    "dataset_index": 100111
+  },
+  "100112": {
+    "slide_id": "TCGA-37-4133-01Z-00-DX1.3dfcb0df-6f4b-4df7-9d04-085b36e03024",
+    "slide_index": 112,
+    "dataset_index": 100112
+  },
+  "100113": {
+    "slide_id": "TCGA-63-A5MG-01Z-00-DX1.EC6B6782-C52F-42B5-AD91-AB718B7EE1A6",
+    "slide_index": 113,
+    "dataset_index": 100113
+  },
+  "100114": {
+    "slide_id": "TCGA-56-7221-01Z-00-DX1.f897f1ee-2796-4183-9312-f47871383327",
+    "slide_index": 114,
+    "dataset_index": 100114
+  },
+  "100115": {
+    "slide_id": "TCGA-55-8094-01Z-00-DX1.8dc29615-e124-4f17-81a1-c0b20c38d12c",
+    "slide_index": 115,
+    "dataset_index": 100115
+  },
+  "100116": {
+    "slide_id": "TCGA-86-8054-01Z-00-DX1.2c4c08f6-be1c-46d1-a719-5983cade0c54",
+    "slide_index": 116,
+    "dataset_index": 100116
+  },
+  "100117": {
+    "slide_id": "TCGA-35-5375-01Z-00-DX1.10708170-750A-451B-BC10-0B4042540033",
+    "slide_index": 117,
+    "dataset_index": 100117
+  },
+  "100118": {
+    "slide_id": "TCGA-37-4130-01Z-00-DX1.37ccfdfe-fc20-4809-8dc7-e342242d0bfa",
+    "slide_index": 118,
+    "dataset_index": 100118
+  },
+  "100119": {
+    "slide_id": "TCGA-64-1676-01Z-00-DX1.3B8F1FAC-0FB2-45DE-AFA1-6ED451A4A61B",
+    "slide_index": 119,
+    "dataset_index": 100119
+  },
+  "100120": {
+    "slide_id": "TCGA-62-A46P-01Z-00-DX1.9136CC96-51B9-4FEB-8BCF-2C3676C708B1",
+    "slide_index": 120,
+    "dataset_index": 100120
+  },
+  "100121": {
+    "slide_id": "TCGA-98-A53I-01Z-00-DX1.B245E2C2-8D75-45EE-8930-44CFFF8B2106",
+    "slide_index": 121,
+    "dataset_index": 100121
+  },
+  "100122": {
+    "slide_id": "TCGA-22-5472-01Z-00-DX1.1E2A1D5E-C7D3-449E-910F-1199A396804C",
+    "slide_index": 122,
+    "dataset_index": 100122
+  },
+  "100123": {
+    "slide_id": "TCGA-86-8075-01Z-00-DX1.171bd8bd-af24-4770-b24b-732e675efd75",
+    "slide_index": 123,
+    "dataset_index": 100123
+  },
+  "100124": {
+    "slide_id": "TCGA-38-4629-01Z-00-DX1.d00cc280-5370-4b9f-9655-6c35deb94647",
+    "slide_index": 124,
+    "dataset_index": 100124
+  },
+  "100125": {
+    "slide_id": "TCGA-NJ-A4YP-01Z-00-DX1.148BFF66-4DC7-468C-8783-97F27C2E1245",
+    "slide_index": 125,
+    "dataset_index": 100125
+  },
+  "100126": {
+    "slide_id": "TCGA-95-7948-01Z-00-DX1.FF1AEF38-19E5-4475-87C8-B318204FEF1D",
+    "slide_index": 126,
+    "dataset_index": 100126
+  },
+  "100127": {
+    "slide_id": "TCGA-96-A4JK-01Z-00-DX1.DD4071B6-75CA-475D-B742-925EA6BE9F0A",
+    "slide_index": 127,
+    "dataset_index": 100127
+  },
+  "100128": {
+    "slide_id": "TCGA-56-8504-01Z-00-DX1.032AF45F-89C3-4265-8287-A455780DA887",
+    "slide_index": 128,
+    "dataset_index": 100128
+  },
+  "100129": {
+    "slide_id": "TCGA-46-6026-01Z-00-DX1.e0248ea6-ae04-4960-95a8-f39b8e168a38",
+    "slide_index": 129,
+    "dataset_index": 100129
+  },
+  "100130": {
+    "slide_id": "TCGA-55-A492-01Z-00-DX1.31B23842-7F8B-4311-88DF-C51CB4F54AED",
+    "slide_index": 130,
+    "dataset_index": 100130
+  },
+  "100131": {
+    "slide_id": "TCGA-93-7348-01Z-00-DX1.d657dc43-ca6c-404a-8ebe-6e6b78a8d1d1",
+    "slide_index": 131,
+    "dataset_index": 100131
+  },
+  "100132": {
+    "slide_id": "TCGA-49-6742-01Z-00-DX1.23e8883f-0ecc-4359-a8b5-75d49f43a08b",
+    "slide_index": 132,
+    "dataset_index": 100132
+  },
+  "100133": {
+    "slide_id": "TCGA-60-2713-01Z-00-DX1.8cc5fb8d-be9c-4f25-b088-85e1feff834a",
+    "slide_index": 133,
+    "dataset_index": 100133
+  },
+  "100134": {
+    "slide_id": "TCGA-75-7027-01Z-00-DX1.AC91B34F-DF67-4F95-B145-079A71A54E83",
+    "slide_index": 134,
+    "dataset_index": 100134
+  },
+  "100135": {
+    "slide_id": "TCGA-J2-8194-01Z-00-DX1.7700924D-B6AF-46A7-A7D7-B5C17A66C5F7",
+    "slide_index": 135,
+    "dataset_index": 100135
+  },
+  "100136": {
+    "slide_id": "TCGA-99-7458-01Z-00-DX1.10ea0b2c-c763-40d1-83a4-3d4ae957fdb0",
+    "slide_index": 136,
+    "dataset_index": 100136
+  },
+  "100137": {
+    "slide_id": "TCGA-NC-A5HL-01Z-00-DX1.E40E17C1-42BA-4C02-AA01-0E2891B3174A",
+    "slide_index": 137,
+    "dataset_index": 100137
+  },
+  "100138": {
+    "slide_id": "TCGA-97-8177-01Z-00-DX1.4c2ddf48-40d3-4fa0-8b5f-0485e8270ac7",
+    "slide_index": 138,
+    "dataset_index": 100138
+  },
+  "100139": {
+    "slide_id": "TCGA-33-4532-01Z-00-DX1.32ab8c26-7cdc-4e55-8c70-5a35d83f81a2",
+    "slide_index": 139,
+    "dataset_index": 100139
+  },
+  "100140": {
+    "slide_id": "TCGA-43-A56V-01Z-00-DX1.AA93FE03-FA7D-42C4-A118-B98C2400D9DA",
+    "slide_index": 140,
+    "dataset_index": 100140
+  },
+  "100141": {
+    "slide_id": "TCGA-86-7701-01Z-00-DX1.a8a6e71e-9fa9-42c6-a186-0ac7526e9960",
+    "slide_index": 141,
+    "dataset_index": 100141
+  },
+  "100142": {
+    "slide_id": "TCGA-99-AA5R-01Z-00-DX1.4DE7FC30-D338-49CE-B8D9-EB0F34A3DD0B",
+    "slide_index": 142,
+    "dataset_index": 100142
+  },
+  "100143": {
+    "slide_id": "TCGA-46-6025-01Z-00-DX1.05600f09-0b48-448c-b305-cb881970fc52",
+    "slide_index": 143,
+    "dataset_index": 100143
+  },
+  "100144": {
+    "slide_id": "TCGA-80-5611-01Z-00-DX1.31920706-8AF4-46D2-B1D4-7DD5AF4AAC77",
+    "slide_index": 144,
+    "dataset_index": 100144
+  },
+  "100145": {
+    "slide_id": "TCGA-22-4613-01Z-00-DX1.4BC3B7B8-99E7-4744-8F5A-089ECCDE144E",
+    "slide_index": 145,
+    "dataset_index": 100145
+  },
+  "100146": {
+    "slide_id": "TCGA-33-A5GW-01Z-00-DX2.8E12990B-CA60-4C94-9309-9A0DA6C63588",
+    "slide_index": 146,
+    "dataset_index": 100146
+  },
+  "100147": {
+    "slide_id": "TCGA-37-4135-01Z-00-DX1.3f193ee1-530c-4f37-a669-56af75bba8db",
+    "slide_index": 147,
+    "dataset_index": 100147
+  },
+  "100148": {
+    "slide_id": "TCGA-44-7661-01Z-00-DX1.baf72abd-edb9-4f56-beb3-f5138aa50930",
+    "slide_index": 148,
+    "dataset_index": 100148
+  },
+  "100149": {
+    "slide_id": "TCGA-79-5596-01Z-00-DX1.FE977268-C9D7-4812-887C-C9FF9943C127",
+    "slide_index": 149,
+    "dataset_index": 100149
+  },
+  "100150": {
+    "slide_id": "TCGA-50-5068-01Z-00-DX2.0492A5C6-09CB-424B-BE20-10A1CBEA2E57",
+    "slide_index": 150,
+    "dataset_index": 100150
+  },
+  "100151": {
+    "slide_id": "TCGA-77-7338-01Z-00-DX1.52f2f410-a5cb-47e8-a4f9-242616a21e8e",
+    "slide_index": 151,
+    "dataset_index": 100151
+  },
+  "100152": {
+    "slide_id": "TCGA-22-4593-01Z-00-DX1.B573D1D5-88CE-4989-8A18-F9545E8ACA82",
+    "slide_index": 152,
+    "dataset_index": 100152
+  },
+  "100153": {
+    "slide_id": "TCGA-43-6773-01Z-00-DX1.a05f9597-51b5-4a5a-9936-c61535b115bb",
+    "slide_index": 153,
+    "dataset_index": 100153
+  },
+  "100154": {
+    "slide_id": "TCGA-98-A53D-01Z-00-DX1.C83DC622-2C62-40D6-AC07-E8275D414B22",
+    "slide_index": 154,
+    "dataset_index": 100154
+  },
+  "100155": {
+    "slide_id": "TCGA-78-8662-01Z-00-DX1.754A4C57-B5FA-4077-99E4-F6EFA6459410",
+    "slide_index": 155,
+    "dataset_index": 100155
+  },
+  "100156": {
+    "slide_id": "TCGA-37-3783-01Z-00-DX1.08a2c536-e48d-416c-bcad-9db7b2c04c1a",
+    "slide_index": 156,
+    "dataset_index": 100156
+  },
+  "100157": {
+    "slide_id": "TCGA-77-7335-01Z-00-DX1.DDE20A50-7303-4A2D-936A-D02FE15A0752",
+    "slide_index": 157,
+    "dataset_index": 100157
+  },
+  "100158": {
+    "slide_id": "TCGA-33-4533-01Z-00-DX5.b26513d1-9454-4332-b7d4-126ea4ff6b7a",
+    "slide_index": 158,
+    "dataset_index": 100158
+  },
+  "100159": {
+    "slide_id": "TCGA-56-5898-01Z-00-DX1.d539fc8b-ae31-4820-8c2e-5cf587958eb3",
+    "slide_index": 159,
+    "dataset_index": 100159
+  },
+  "100160": {
+    "slide_id": "TCGA-55-1594-01Z-00-DX1.bd90c500-7c0b-4c45-a3f7-2d9177384b1d",
+    "slide_index": 160,
+    "dataset_index": 100160
+  },
+  "100161": {
+    "slide_id": "TCGA-68-8251-01Z-00-DX1.9d453881-d5b3-4527-93fa-799f34ba2c8f",
+    "slide_index": 161,
+    "dataset_index": 100161
+  },
+  "100162": {
+    "slide_id": "TCGA-85-7696-01Z-00-DX1.d8756b4c-819f-4a5c-b148-125b8c6b3c27",
+    "slide_index": 162,
+    "dataset_index": 100162
+  },
+  "100163": {
+    "slide_id": "TCGA-S2-AA1A-01Z-00-DX1.4B5D5FAE-8305-4D2D-B245-584589352886",
+    "slide_index": 163,
+    "dataset_index": 100163
+  },
+  "100164": {
+    "slide_id": "TCGA-NJ-A4YF-01Z-00-DX1.4A3DE76A-9F1E-4766-A013-5E7E3A665071",
+    "slide_index": 164,
+    "dataset_index": 100164
+  },
+  "100165": {
+    "slide_id": "TCGA-62-A470-01Z-00-DX1.3983A979-E756-413C-941A-C8B83AD3BBA7",
+    "slide_index": 165,
+    "dataset_index": 100165
+  },
+  "100166": {
+    "slide_id": "TCGA-37-4132-01Z-00-DX1.5e5a564d-6561-48e7-a3a2-81a523392d8b",
+    "slide_index": 166,
+    "dataset_index": 100166
+  },
+  "100167": {
+    "slide_id": "TCGA-NC-A5HG-01Z-00-DX1.129E83E5-1C4D-4B31-8750-64D10A65267F",
+    "slide_index": 167,
+    "dataset_index": 100167
+  },
+  "100168": {
+    "slide_id": "TCGA-56-8624-01Z-00-DX1.18DFDAB8-1701-4E15-9321-7D99CD15E4B0",
+    "slide_index": 168,
+    "dataset_index": 100168
+  },
+  "100169": {
+    "slide_id": "TCGA-97-7937-01Z-00-DX1.6db4b2ff-722c-4bb8-b12f-15f1a38b4ab1",
+    "slide_index": 169,
+    "dataset_index": 100169
+  },
+  "100170": {
+    "slide_id": "TCGA-97-7553-01Z-00-DX1.e31eec5e-0053-407a-b057-9b87555b122d",
+    "slide_index": 170,
+    "dataset_index": 100170
+  },
+  "100171": {
+    "slide_id": "TCGA-MP-A4TE-01Z-00-DX1.B4680570-FD2E-47A5-8D50-A508CEB6A62C",
+    "slide_index": 171,
+    "dataset_index": 100171
+  },
+  "100172": {
+    "slide_id": "TCGA-56-8201-01Z-00-DX1.883903fb-d70d-4c72-be76-6788b1bc3b35",
+    "slide_index": 172,
+    "dataset_index": 100172
+  },
+  "100173": {
+    "slide_id": "TCGA-38-4631-01Z-00-DX1.5e0c873a-9c4c-4e0b-bf2e-e3cd8b760761",
+    "slide_index": 173,
+    "dataset_index": 100173
+  },
+  "100174": {
+    "slide_id": "TCGA-83-5908-01Z-00-DX1.381c8f82-61a0-4e9d-982d-1ad0af7bead9",
+    "slide_index": 174,
+    "dataset_index": 100174
+  },
+  "100175": {
+    "slide_id": "TCGA-35-4123-01Z-00-DX1.990553a8-657e-49ec-9782-e6d30a4c4909",
+    "slide_index": 175,
+    "dataset_index": 100175
+  },
+  "100176": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX5.6380c697-c81b-48c8-863c-ea1cdd097464",
+    "slide_index": 176,
+    "dataset_index": 100176
+  },
+  "100177": {
+    "slide_id": "TCGA-43-2581-01Z-00-DX1.0d1203cf-9ac9-49a2-8bd0-063ceae7b1d3",
+    "slide_index": 177,
+    "dataset_index": 100177
+  },
+  "100178": {
+    "slide_id": "TCGA-35-4122-01Z-00-DX1.2ac022e4-e796-49e5-9a24-f0ff3f76a527",
+    "slide_index": 178,
+    "dataset_index": 100178
+  },
+  "100179": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX1.c9beef33-2d53-4fcb-8293-f083d9fedddc",
+    "slide_index": 179,
+    "dataset_index": 100179
+  },
+  "100180": {
+    "slide_id": "TCGA-33-A5GW-01Z-00-DX1.6F0833B7-EDAB-4DF4-83D9-393D8ADBFCF3",
+    "slide_index": 180,
+    "dataset_index": 100180
+  },
+  "100181": {
+    "slide_id": "TCGA-71-8520-01Z-00-DX1.EAE99132-A397-4B4D-8B09-CBB774A7B62F",
+    "slide_index": 181,
+    "dataset_index": 100181
+  },
+  "100182": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX2.341d7ff7-15e1-44f1-8818-b117fe98ca99",
+    "slide_index": 182,
+    "dataset_index": 100182
+  },
+  "100183": {
+    "slide_id": "TCGA-78-7542-01Z-00-DX1.2ee042a6-11ee-4668-b254-44144fca4234",
+    "slide_index": 183,
+    "dataset_index": 100183
+  },
+  "100184": {
+    "slide_id": "TCGA-55-8614-01Z-00-DX1.043DE2B5-A453-4570-8830-99170450658C",
+    "slide_index": 184,
+    "dataset_index": 100184
+  },
+  "100185": {
+    "slide_id": "TCGA-NJ-A4YG-01Z-00-DX1.507BAE41-5EE9-4657-AAD1-AD456750BA2F",
+    "slide_index": 185,
+    "dataset_index": 100185
+  },
+  "100186": {
+    "slide_id": "TCGA-NK-A5CX-01Z-00-DX1.CA1C230C-7A29-491B-A124-7D3B600DAFB7",
+    "slide_index": 186,
+    "dataset_index": 100186
+  },
+  "100187": {
+    "slide_id": "TCGA-37-3789-01Z-00-DX1.d7a4923e-988e-45e9-a64e-30c983740614",
+    "slide_index": 187,
+    "dataset_index": 100187
+  },
+  "100188": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX7.4bdde497-03d9-4e15-a00e-595baa3947b5",
+    "slide_index": 188,
+    "dataset_index": 100188
+  },
+  "100189": {
+    "slide_id": "TCGA-49-AAR9-01Z-00-DX1.B6A9966E-89B8-404B-8ABC-1F8F8553D4DA",
+    "slide_index": 189,
+    "dataset_index": 100189
+  },
+  "100190": {
+    "slide_id": "TCGA-39-5039-01Z-00-DX1.29f1281d-93d7-4499-bfce-19eeeb1870a4",
+    "slide_index": 190,
+    "dataset_index": 100190
+  },
+  "100191": {
+    "slide_id": "TCGA-22-5477-01Z-00-DX1.D4CA03F8-FFA8-4926-B93C-EBFDC6791B1F",
+    "slide_index": 191,
+    "dataset_index": 100191
+  },
+  "100192": {
+    "slide_id": "TCGA-18-5592-01Z-00-DX1.41BD6380-A3A0-4ED1-8752-42BBC3B4680C",
+    "slide_index": 192,
+    "dataset_index": 100192
+  },
+  "100193": {
+    "slide_id": "TCGA-85-7697-01Z-00-DX1.b33aa550-81b0-4fab-8243-d041b0beaab5",
+    "slide_index": 193,
+    "dataset_index": 100193
+  },
+  "100194": {
+    "slide_id": "TCGA-44-A47F-01Z-00-DX1.C1EC3F2D-33C8-483B-9DDA-2F01B5FED618",
+    "slide_index": 194,
+    "dataset_index": 100194
+  },
+  "100195": {
+    "slide_id": "TCGA-21-5784-01Z-00-DX1.E50E7F4B-BE37-4171-94A7-E824CFF4B3BB",
+    "slide_index": 195,
+    "dataset_index": 100195
+  },
+  "100196": {
+    "slide_id": "TCGA-49-4501-01Z-00-DX3.b6c2cc84-1c94-4816-92e7-8cf4446ac9ac",
+    "slide_index": 196,
+    "dataset_index": 100196
+  },
+  "100197": {
+    "slide_id": "TCGA-38-4632-01Z-00-DX1.5E05F85C-53BC-4280-8E7F-8B9DECEF849F",
+    "slide_index": 197,
+    "dataset_index": 100197
+  },
+  "100198": {
+    "slide_id": "TCGA-49-4514-01Z-00-DX3.3b247c08-3069-4100-9df4-734895adb954",
+    "slide_index": 198,
+    "dataset_index": 100198
+  },
+  "100199": {
+    "slide_id": "TCGA-64-5781-01Z-00-DX1.81474D4D-6B48-473F-BAA9-ABD75C9223C3",
+    "slide_index": 199,
+    "dataset_index": 100199
+  },
+  "100200": {
+    "slide_id": "TCGA-73-4675-01Z-00-DX1.1027587f-8ec4-4b8c-8768-ff7b669683e0",
+    "slide_index": 200,
+    "dataset_index": 100200
+  },
+  "100201": {
+    "slide_id": "TCGA-55-A490-01Z-00-DX1.07D77502-7216-4C23-9BB8-8DE99AECC920",
+    "slide_index": 201,
+    "dataset_index": 100201
+  },
+  "100202": {
+    "slide_id": "TCGA-96-7545-01Z-00-DX1.AAEDB4A3-4E12-40E7-BE9F-A8F4ADA61C23",
+    "slide_index": 202,
+    "dataset_index": 100202
+  },
+  "100203": {
+    "slide_id": "TCGA-44-6778-01Z-00-DX1.5e932267-cc68-4a8e-a660-fe2cc0c59ff4",
+    "slide_index": 203,
+    "dataset_index": 100203
+  },
+  "100204": {
+    "slide_id": "TCGA-55-6985-01Z-00-DX1.428ad69e-c0ea-445e-8d38-fa2dab6eb81f",
+    "slide_index": 204,
+    "dataset_index": 100204
+  },
+  "100205": {
+    "slide_id": "TCGA-44-7659-01Z-00-DX1.818bf5b3-b4c1-4d23-a6ae-98d5015eb8c1",
+    "slide_index": 205,
+    "dataset_index": 100205
+  },
+  "100206": {
+    "slide_id": "TCGA-56-5897-01Z-00-DX1.776271b1-77a9-4653-8ed3-13294c9fc056",
+    "slide_index": 206,
+    "dataset_index": 100206
+  },
+  "100207": {
+    "slide_id": "TCGA-56-7823-01Z-00-DX1.354861d2-79f1-4b70-a74e-20cb0f78468e",
+    "slide_index": 207,
+    "dataset_index": 100207
+  },
+  "100208": {
+    "slide_id": "TCGA-85-A50M-01Z-00-DX1.CFB67271-FC1B-4BA0-95DB-51D859D68D18",
+    "slide_index": 208,
+    "dataset_index": 100208
+  },
+  "100209": {
+    "slide_id": "TCGA-95-A4VP-01Z-00-DX1.1B145AC0-2471-4974-BBB6-C88BDF0BE8BD",
+    "slide_index": 209,
+    "dataset_index": 100209
+  },
+  "100210": {
+    "slide_id": "TCGA-66-2787-01Z-00-DX1.5a4bb006-181e-417c-9868-4767f68f691a",
+    "slide_index": 210,
+    "dataset_index": 100210
+  },
+  "100211": {
+    "slide_id": "TCGA-63-A5MR-01Z-00-DX1.CCF83112-AEEA-4F76-A43F-2AADE321CE68",
+    "slide_index": 211,
+    "dataset_index": 100211
+  },
+  "100212": {
+    "slide_id": "TCGA-69-7978-01Z-00-DX1.90a2bf2f-18e2-4bfe-b858-d2de619e2493",
+    "slide_index": 212,
+    "dataset_index": 100212
+  },
+  "100213": {
+    "slide_id": "TCGA-44-7667-01Z-00-DX1.2be2e379-7368-4fa7-a619-ace84febecb3",
+    "slide_index": 213,
+    "dataset_index": 100213
+  },
+  "100214": {
+    "slide_id": "TCGA-50-5939-01Z-00-DX1.745D7503-0744-46B1-BC89-EBB8FCE2D55C",
+    "slide_index": 214,
+    "dataset_index": 100214
+  },
+  "100215": {
+    "slide_id": "TCGA-50-5066-01Z-00-DX1.e161df31-84a4-40a4-a6a2-748b60820f77",
+    "slide_index": 215,
+    "dataset_index": 100215
+  },
+  "100216": {
+    "slide_id": "TCGA-J2-A4AG-01Z-00-DX1.487780B8-18E7-494A-8054-5637239870EB",
+    "slide_index": 216,
+    "dataset_index": 100216
+  },
+  "100217": {
+    "slide_id": "TCGA-44-6775-01Z-00-DX1.38d3bc6d-8bb5-4126-8d61-d39e6a1d7bcf",
+    "slide_index": 217,
+    "dataset_index": 100217
+  },
+  "100218": {
+    "slide_id": "TCGA-85-8048-01Z-00-DX1.1a663caa-dff1-4f03-b06b-c8b8b5ce08c6",
+    "slide_index": 218,
+    "dataset_index": 100218
+  },
+  "100219": {
+    "slide_id": "TCGA-NJ-A4YQ-01Z-00-DX1.56C29975-77E9-4822-A9E1-83AD70D6C5F7",
+    "slide_index": 219,
+    "dataset_index": 100219
+  },
+  "100220": {
+    "slide_id": "TCGA-67-3772-01Z-00-DX1.CB05C5CC-2801-4BB9-94A0-83E9005BCA2E",
+    "slide_index": 220,
+    "dataset_index": 100220
+  },
+  "100221": {
+    "slide_id": "TCGA-97-7941-01Z-00-DX1.6845ef95-2231-44a2-aeae-004a117f1964",
+    "slide_index": 221,
+    "dataset_index": 100221
+  },
+  "100222": {
+    "slide_id": "TCGA-49-6742-01Z-00-DX5.74539ee6-0ac6-4663-89f1-c6a74a59a4cb",
+    "slide_index": 222,
+    "dataset_index": 100222
+  },
+  "100223": {
+    "slide_id": "TCGA-60-2710-01Z-00-DX1.45f8ef49-d5bb-404c-9ac5-c7882bc59b45",
+    "slide_index": 223,
+    "dataset_index": 100223
+  },
+  "100224": {
+    "slide_id": "TCGA-33-A4WN-01Z-00-DX2.0AC8FFA9-BD94-4B28-8066-5430D6053432",
+    "slide_index": 224,
+    "dataset_index": 100224
+  },
+  "100225": {
+    "slide_id": "TCGA-64-5774-01Z-00-DX1.5E3B95EB-BF45-4687-BCF7-AA2A41AA806C",
+    "slide_index": 225,
+    "dataset_index": 100225
+  },
+  "100226": {
+    "slide_id": "TCGA-98-8020-01Z-00-DX1.fcf8e956-c413-40ae-9f09-610403e70fb3",
+    "slide_index": 226,
+    "dataset_index": 100226
+  },
+  "100227": {
+    "slide_id": "TCGA-49-6742-01Z-00-DX3.789aa445-e63f-4e6e-900a-0f47f44af6b7",
+    "slide_index": 227,
+    "dataset_index": 100227
+  },
+  "100228": {
+    "slide_id": "TCGA-50-5068-01Z-00-DX1.13f1c31e-4d4c-4562-8447-c5bbfbf670a9",
+    "slide_index": 228,
+    "dataset_index": 100228
+  },
+  "100229": {
+    "slide_id": "TCGA-60-2712-01Z-00-DX1.97003dfc-4b37-4491-86e8-0801e6825aae",
+    "slide_index": 229,
+    "dataset_index": 100229
+  },
+  "100230": {
+    "slide_id": "TCGA-56-A5DR-01Z-00-DX1.F8F196F2-9380-490E-9D77-ABAC1E58BC5C",
+    "slide_index": 230,
+    "dataset_index": 100230
+  },
+  "100231": {
+    "slide_id": "TCGA-86-A4JF-01Z-00-DX1.22828B15-D68E-4300-A3A8-FBC11B319BC5",
+    "slide_index": 231,
+    "dataset_index": 100231
+  },
+  "100232": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX1.d688fae9-4daf-4b6e-b907-fb55e3983d62",
+    "slide_index": 232,
+    "dataset_index": 100232
+  },
+  "100233": {
+    "slide_id": "TCGA-62-A46V-01Z-00-DX1.631E54D0-9E57-4932-B4EF-81820E56A95B",
+    "slide_index": 233,
+    "dataset_index": 100233
+  },
+  "100234": {
+    "slide_id": "TCGA-56-8622-01Z-00-DX1.62B552C4-5CBE-4469-8DBB-E27497FF95F4",
+    "slide_index": 234,
+    "dataset_index": 100234
+  },
+  "100235": {
+    "slide_id": "TCGA-75-6211-01Z-00-DX1.3E7B5948-521E-48EE-9204-80F5713ECD25",
+    "slide_index": 235,
+    "dataset_index": 100235
+  },
+  "100236": {
+    "slide_id": "TCGA-63-A5MJ-01Z-00-DX1.4F060025-3A21-4FEB-8A63-F55A95BFBA30",
+    "slide_index": 236,
+    "dataset_index": 100236
+  },
+  "100237": {
+    "slide_id": "TCGA-52-7811-01Z-00-DX1.7093a626-0e8f-4e4c-80c6-6cf32a2f725e",
+    "slide_index": 237,
+    "dataset_index": 100237
+  },
+  "100238": {
+    "slide_id": "TCGA-67-6216-01Z-00-DX1.04da6a64-bd3a-48ed-bc99-d651e00a1aa4",
+    "slide_index": 238,
+    "dataset_index": 100238
+  },
+  "100239": {
+    "slide_id": "TCGA-55-7570-01Z-00-DX1.9020ae67-cf60-4bac-8c60-403c8891c4a3",
+    "slide_index": 239,
+    "dataset_index": 100239
+  },
+  "100240": {
+    "slide_id": "TCGA-22-4601-01Z-00-DX1.2EABA7B1-1E31-4AFE-B97B-D40EEAD66D85",
+    "slide_index": 240,
+    "dataset_index": 100240
+  },
+  "100241": {
+    "slide_id": "TCGA-22-1005-01Z-00-DX1.4A151CC3-E57F-4345-817A-2B9DBAF98477",
+    "slide_index": 241,
+    "dataset_index": 100241
+  },
+  "100242": {
+    "slide_id": "TCGA-44-A47G-01Z-00-DX1.810F67EC-3A0C-4056-B736-3331A11412CC",
+    "slide_index": 242,
+    "dataset_index": 100242
+  },
+  "100243": {
+    "slide_id": "TCGA-39-5019-01Z-00-DX1.FE0485DE-AEB3-443F-AFCA-C186C336F7EC",
+    "slide_index": 243,
+    "dataset_index": 100243
+  },
+  "100244": {
+    "slide_id": "TCGA-97-A4LX-01Z-00-DX1.B2334672-A626-4E74-B4D1-A79F70F65909",
+    "slide_index": 244,
+    "dataset_index": 100244
+  },
+  "100245": {
+    "slide_id": "TCGA-55-8205-01Z-00-DX1.6df6d499-f325-409d-acb1-9e13172f2bb4",
+    "slide_index": 245,
+    "dataset_index": 100245
+  },
+  "100246": {
+    "slide_id": "TCGA-60-2695-01Z-00-DX1.4cc6c566-d60d-4ff9-9ea8-18a9da46ae6b",
+    "slide_index": 246,
+    "dataset_index": 100246
+  },
+  "100247": {
+    "slide_id": "TCGA-39-5034-01Z-00-DX1.fb4191aa-07dc-4615-ac71-b9e4c67ed28b",
+    "slide_index": 247,
+    "dataset_index": 100247
+  },
+  "100248": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX3.2f6ec7bc-0dac-4be0-95fe-4071a93a856f",
+    "slide_index": 248,
+    "dataset_index": 100248
+  },
+  "100249": {
+    "slide_id": "TCGA-85-8350-01Z-00-DX1.F9A32453-2E24-4874-A1FA-67B4173ABF03",
+    "slide_index": 249,
+    "dataset_index": 100249
+  },
+  "100250": {
+    "slide_id": "TCGA-94-A5I4-01Z-00-DX1.F0CE4558-63A7-45FB-BA8C-1B20AB29A847",
+    "slide_index": 250,
+    "dataset_index": 100250
+  },
+  "100251": {
+    "slide_id": "TCGA-43-6771-01Z-00-DX1.445d4d3f-6a28-4ea7-b7ab-612366c7bb4b",
+    "slide_index": 251,
+    "dataset_index": 100251
+  },
+  "100252": {
+    "slide_id": "TCGA-49-4505-01Z-00-DX4.623c4278-fc3e-4c80-bb4d-000e24fbb1c2",
+    "slide_index": 252,
+    "dataset_index": 100252
+  },
+  "100253": {
+    "slide_id": "TCGA-77-7138-01Z-00-DX1.8c912762-0829-4692-92a2-545fea2b3e48",
+    "slide_index": 253,
+    "dataset_index": 100253
+  },
+  "100254": {
+    "slide_id": "TCGA-34-2600-01Z-00-DX1.CDCAAE91-3056-4952-B988-00F3722B520B",
+    "slide_index": 254,
+    "dataset_index": 100254
+  },
+  "100255": {
+    "slide_id": "TCGA-69-8253-01Z-00-DX1.631c741f-46bd-4d4b-8f6c-64787fb4c402",
+    "slide_index": 255,
+    "dataset_index": 100255
+  },
+  "100256": {
+    "slide_id": "TCGA-60-2724-01Z-00-DX1.98f9e48f-9c09-4969-aa34-05666616ee9a",
+    "slide_index": 256,
+    "dataset_index": 100256
+  },
+  "100257": {
+    "slide_id": "TCGA-44-2661-01Z-00-DX1.20cfa0f8-e3ca-4c26-9dfe-b9d416cd94b1",
+    "slide_index": 257,
+    "dataset_index": 100257
+  },
+  "100258": {
+    "slide_id": "TCGA-66-2773-01Z-00-DX1.70fe76fc-749d-4720-a97e-40cd097f2340",
+    "slide_index": 258,
+    "dataset_index": 100258
+  },
+  "100259": {
+    "slide_id": "TCGA-91-A4BD-01Z-00-DX1.2E575CAC-6AEB-4049-972A-EA43457A9C9D",
+    "slide_index": 259,
+    "dataset_index": 100259
+  },
+  "100260": {
+    "slide_id": "TCGA-58-A46M-01Z-00-DX1.DCC711DA-EB83-498E-9AFA-33E874EA537C",
+    "slide_index": 260,
+    "dataset_index": 100260
+  },
+  "100261": {
+    "slide_id": "TCGA-66-2800-01Z-00-DX1.19a7cec8-8894-4755-aa2c-ae5266800355",
+    "slide_index": 261,
+    "dataset_index": 100261
+  },
+  "100262": {
+    "slide_id": "TCGA-98-7454-01Z-00-DX1.2d81415b-5edd-4dd8-b17b-849d732da4cd",
+    "slide_index": 262,
+    "dataset_index": 100262
+  },
+  "100263": {
+    "slide_id": "TCGA-60-2704-01Z-00-DX1.e904afb3-7935-4df5-90dc-f7151e15b31b",
+    "slide_index": 263,
+    "dataset_index": 100263
+  },
+  "100264": {
+    "slide_id": "TCGA-63-7023-01Z-00-DX1.B2435594-037A-40F2-B90F-60B76D2C859D",
+    "slide_index": 264,
+    "dataset_index": 100264
+  },
+  "100265": {
+    "slide_id": "TCGA-22-0940-01Z-00-DX1.775CB101-6A55-40DD-B19F-7BFCA7820F5F",
+    "slide_index": 265,
+    "dataset_index": 100265
+  },
+  "100266": {
+    "slide_id": "TCGA-85-8355-01Z-00-DX1.146ECC8D-858B-4DDA-B7FE-DBC22CC8C24D",
+    "slide_index": 266,
+    "dataset_index": 100266
+  },
+  "100267": {
+    "slide_id": "TCGA-NJ-A7XG-01Z-00-DX1.4A876254-653C-410B-A36C-55FC41C1DD93",
+    "slide_index": 267,
+    "dataset_index": 100267
+  },
+  "100268": {
+    "slide_id": "TCGA-55-7910-01Z-00-DX1.041e15d5-4852-49f6-85d9-74b510497651",
+    "slide_index": 268,
+    "dataset_index": 100268
+  },
+  "100269": {
+    "slide_id": "TCGA-75-5125-01Z-00-DX1.2E419CAF-E248-4959-951E-498D8054433E",
+    "slide_index": 269,
+    "dataset_index": 100269
+  },
+  "100270": {
+    "slide_id": "TCGA-56-8308-01Z-00-DX1.48CAE02B-05B1-4681-B68C-DD32C414FD2D",
+    "slide_index": 270,
+    "dataset_index": 100270
+  },
+  "100271": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX6.3174fffa-c17c-44d1-8d21-1921a9ec1bee",
+    "slide_index": 271,
+    "dataset_index": 100271
+  },
+  "100272": {
+    "slide_id": "TCGA-77-A5GA-01Z-00-DX1.8A1605A0-A0FF-479C-BFAC-AD6BD7081AC9",
+    "slide_index": 272,
+    "dataset_index": 100272
+  },
+  "100273": {
+    "slide_id": "TCGA-44-7672-01Z-00-DX1.71f4a0c6-a9cc-481c-ace8-c8c314952aa1",
+    "slide_index": 273,
+    "dataset_index": 100273
+  },
+  "100274": {
+    "slide_id": "TCGA-64-1681-01Z-00-DX1.fb0244f6-51a8-4da2-b45c-38d8e02edab7",
+    "slide_index": 274,
+    "dataset_index": 100274
+  },
+  "100275": {
+    "slide_id": "TCGA-55-8204-01Z-00-DX1.30ba69f3-53f1-41cc-826c-20dce3cfe86b",
+    "slide_index": 275,
+    "dataset_index": 100275
+  },
+  "100276": {
+    "slide_id": "TCGA-22-A5C4-01Z-00-DX1.54058689-5CA5-4F92-B18A-86208C24C87D",
+    "slide_index": 276,
+    "dataset_index": 100276
+  },
+  "100277": {
+    "slide_id": "TCGA-49-6744-01Z-00-DX3.fa64d744-6caa-4f62-8689-33da9c312838",
+    "slide_index": 277,
+    "dataset_index": 100277
+  },
+  "100278": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX4.5161fcf5-62a3-4f7d-8a55-9a24a7d70efb",
+    "slide_index": 278,
+    "dataset_index": 100278
+  },
+  "100279": {
+    "slide_id": "TCGA-38-4628-01Z-00-DX1.eee4f100-142f-4d9c-8e38-b16aab123413",
+    "slide_index": 279,
+    "dataset_index": 100279
+  },
+  "100280": {
+    "slide_id": "TCGA-18-3406-01Z-00-DX1.8D07F006-425C-4724-BBB3-5BA099401234",
+    "slide_index": 280,
+    "dataset_index": 100280
+  },
+  "100281": {
+    "slide_id": "TCGA-55-7816-01Z-00-DX1.A58C6196-E1A0-48B3-9B77-2EDCD7A43CBA",
+    "slide_index": 281,
+    "dataset_index": 100281
+  },
+  "100282": {
+    "slide_id": "TCGA-94-7557-01Z-00-DX1.ac61f900-6f9f-44eb-91ad-98c98af8b741",
+    "slide_index": 282,
+    "dataset_index": 100282
+  },
+  "100283": {
+    "slide_id": "TCGA-55-6979-01Z-00-DX1.9238436e-3886-4a10-86fe-26658967dff2",
+    "slide_index": 283,
+    "dataset_index": 100283
+  },
+  "100284": {
+    "slide_id": "TCGA-97-8175-01Z-00-DX1.f7148cec-5e4b-46ac-b167-d41b36eb3ee5",
+    "slide_index": 284,
+    "dataset_index": 100284
+  },
+  "100285": {
+    "slide_id": "TCGA-49-4510-01Z-00-DX1.0b7c713f-6f72-42c3-967d-7e19a280e761",
+    "slide_index": 285,
+    "dataset_index": 100285
+  },
+  "100286": {
+    "slide_id": "TCGA-44-6774-01Z-00-DX1.f169485b-f863-4be0-9844-258d78170b64",
+    "slide_index": 286,
+    "dataset_index": 100286
+  },
+  "100287": {
+    "slide_id": "TCGA-95-7043-01Z-00-DX1.AE0FD8AA-9B88-45FE-B247-402BED1285EF",
+    "slide_index": 287,
+    "dataset_index": 100287
+  },
+  "100288": {
+    "slide_id": "TCGA-85-A513-01Z-00-DX1.9C4C6BA2-BBEB-4EC6-9A70-65B1F6198E1F",
+    "slide_index": 288,
+    "dataset_index": 100288
+  },
+  "100289": {
+    "slide_id": "TCGA-50-8459-01Z-00-DX1.24D876E7-5265-4C5D-A215-0BAE5450EEF3",
+    "slide_index": 289,
+    "dataset_index": 100289
+  },
+  "100290": {
+    "slide_id": "TCGA-60-2719-01Z-00-DX1.e834671a-7468-4517-bf95-4e100f87e9a3",
+    "slide_index": 290,
+    "dataset_index": 100290
+  },
+  "100291": {
+    "slide_id": "TCGA-56-7579-01Z-00-DX1.627f65b9-ac66-4f71-a6f4-394338b647f0",
+    "slide_index": 291,
+    "dataset_index": 100291
+  },
+  "100292": {
+    "slide_id": "TCGA-21-A5DI-01Z-00-DX1.E9123261-ADE7-468C-9E9A-334E131FFF97",
+    "slide_index": 292,
+    "dataset_index": 100292
+  },
+  "100293": {
+    "slide_id": "TCGA-86-8671-01Z-00-DX1.1fd0019c-df9d-48cc-9055-8de57759f273",
+    "slide_index": 293,
+    "dataset_index": 100293
+  },
+  "100294": {
+    "slide_id": "TCGA-56-8628-01Z-00-DX1.AAC57164-E0F9-4DF0-87EA-5C50FB201895",
+    "slide_index": 294,
+    "dataset_index": 100294
+  },
+  "100295": {
+    "slide_id": "TCGA-77-8136-01Z-00-DX1.15cdacc3-ee04-4323-b5e4-4f6d7085bd38",
+    "slide_index": 295,
+    "dataset_index": 100295
+  },
+  "100296": {
+    "slide_id": "TCGA-55-7726-01Z-00-DX1.37df197b-d4fb-41c4-ac6a-72dbaa31027b",
+    "slide_index": 296,
+    "dataset_index": 100296
+  },
+  "100297": {
+    "slide_id": "TCGA-63-A5MT-01Z-00-DX1.9F168173-804C-49CA-B157-7970CB55ED93",
+    "slide_index": 297,
+    "dataset_index": 100297
+  },
+  "100298": {
+    "slide_id": "TCGA-50-5045-01Z-00-DX2.0FCA12EA-572E-4A7D-900D-6E200892170E",
+    "slide_index": 298,
+    "dataset_index": 100298
+  },
+  "100299": {
+    "slide_id": "TCGA-55-6968-01Z-00-DX1.810e0fee-99ab-465b-8ae9-fb416e4dca3c",
+    "slide_index": 299,
+    "dataset_index": 100299
+  },
+  "100300": {
+    "slide_id": "TCGA-MP-A4T6-01Z-00-DX1.085C4F5A-DB1B-434A-9D62-E2187D133B0A",
+    "slide_index": 300,
+    "dataset_index": 100300
+  },
+  "100301": {
+    "slide_id": "TCGA-97-8179-01Z-00-DX1.5501338a-dd89-4c41-8267-5baaaea71643",
+    "slide_index": 301,
+    "dataset_index": 100301
+  },
+  "100302": {
+    "slide_id": "TCGA-69-8453-01Z-00-DX1.C472096B-95BA-42CD-ADEB-326C38F9DC95",
+    "slide_index": 302,
+    "dataset_index": 100302
+  },
+  "100303": {
+    "slide_id": "TCGA-L9-A444-01Z-00-DX1.88CF6F01-0C1F-4572-81E3-1A5790692861",
+    "slide_index": 303,
+    "dataset_index": 100303
+  },
+  "100304": {
+    "slide_id": "TCGA-97-7546-01Z-00-DX1.dad9871f-cdfb-424d-a5b2-4e0905c29137",
+    "slide_index": 304,
+    "dataset_index": 100304
+  },
+  "100305": {
+    "slide_id": "TCGA-50-5055-01Z-00-DX1.0c9d846b-89b4-4b18-a2eb-0f8d8e0a33c7",
+    "slide_index": 305,
+    "dataset_index": 100305
+  },
+  "100306": {
+    "slide_id": "TCGA-NC-A5HQ-01Z-00-DX1.E7FA7F88-2B81-4EBD-8A48-883BD6953428",
+    "slide_index": 306,
+    "dataset_index": 100306
+  },
+  "100307": {
+    "slide_id": "TCGA-66-2792-01Z-00-DX1.988d556c-f65e-4cae-892d-4dfe046ea626",
+    "slide_index": 307,
+    "dataset_index": 100307
+  },
+  "100308": {
+    "slide_id": "TCGA-95-A4VN-01Z-00-DX1.B997A80F-C396-40AB-808A-B70EB83A2B74",
+    "slide_index": 308,
+    "dataset_index": 100308
+  },
+  "100309": {
+    "slide_id": "TCGA-98-8021-01Z-00-DX1.2ab0e341-e248-4df3-84c4-df5e60dc0372",
+    "slide_index": 309,
+    "dataset_index": 100309
+  },
+  "100310": {
+    "slide_id": "TCGA-55-1595-01Z-00-DX1.6270c9cf-cd18-4fa5-b313-33350ad55f89",
+    "slide_index": 310,
+    "dataset_index": 100310
+  },
+  "100311": {
+    "slide_id": "TCGA-66-2791-01Z-00-DX1.7ae2b6ab-5284-4772-bc1e-fd608f70e583",
+    "slide_index": 311,
+    "dataset_index": 100311
+  },
+  "100312": {
+    "slide_id": "TCGA-77-8148-01Z-00-DX1.2066e518-636c-4917-9dd4-78ab3605e8f6",
+    "slide_index": 312,
+    "dataset_index": 100312
+  },
+  "100313": {
+    "slide_id": "TCGA-78-7540-01Z-00-DX1.25c29857-0d5f-4e52-be0c-32c6686b653f",
+    "slide_index": 313,
+    "dataset_index": 100313
+  },
+  "100314": {
+    "slide_id": "TCGA-34-5241-01Z-00-DX1.7abc4737-9a9c-4270-8297-58ea167cea63",
+    "slide_index": 314,
+    "dataset_index": 100314
+  },
+  "100315": {
+    "slide_id": "TCGA-78-7148-01Z-00-DX1.aac94f79-77f2-45e6-b0c3-0b103fecbb22",
+    "slide_index": 315,
+    "dataset_index": 100315
+  },
+  "100316": {
+    "slide_id": "TCGA-55-8620-01Z-00-DX1.6591EEC4-D696-4826-80BD-99BE1D99EBB8",
+    "slide_index": 316,
+    "dataset_index": 100316
+  },
+  "100317": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX6.3791a027-7ddb-429c-99a5-bb84a4307550",
+    "slide_index": 317,
+    "dataset_index": 100317
+  },
+  "100318": {
+    "slide_id": "TCGA-58-A46K-01Z-00-DX1.A293339A-A592-4CA2-AE49-CDDD0810C624",
+    "slide_index": 318,
+    "dataset_index": 100318
+  },
+  "100319": {
+    "slide_id": "TCGA-56-A62T-01Z-00-DX1.05B9E747-DF22-4FFB-A79A-C023AB667CA0",
+    "slide_index": 319,
+    "dataset_index": 100319
+  },
+  "100320": {
+    "slide_id": "TCGA-MP-A4TF-01Z-00-DX1.F98B0438-6D32-4EA3-ABA8-E624457EA658",
+    "slide_index": 320,
+    "dataset_index": 100320
+  },
+  "100321": {
+    "slide_id": "TCGA-64-1678-01Z-00-DX1.92C851BD-37AC-4C4C-9920-DF394411CC2C",
+    "slide_index": 321,
+    "dataset_index": 100321
+  },
+  "100322": {
+    "slide_id": "TCGA-49-AARO-01Z-00-DX1.FB8C82DC-F823-43CF-A8EA-1208C767AF54",
+    "slide_index": 322,
+    "dataset_index": 100322
+  },
+  "100323": {
+    "slide_id": "TCGA-75-7030-01Z-00-DX1.5DDF24B5-00D1-4418-A067-A9B609E15314",
+    "slide_index": 323,
+    "dataset_index": 100323
+  },
+  "100324": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX7.4a9f5939-4299-4648-8f62-2a0909e8d3bd",
+    "slide_index": 324,
+    "dataset_index": 100324
+  },
+  "100325": {
+    "slide_id": "TCGA-95-7039-01Z-00-DX1.C191A46D-A667-4BF6-8E6B-3E5CBF9DF43F",
+    "slide_index": 325,
+    "dataset_index": 100325
+  },
+  "100326": {
+    "slide_id": "TCGA-92-8064-01Z-00-DX1.72c1a8db-146c-4408-8d31-43baba769fdf",
+    "slide_index": 326,
+    "dataset_index": 100326
+  },
+  "100327": {
+    "slide_id": "TCGA-NC-A5HP-01Z-00-DX1.655093A9-AAA7-4637-A33E-90FE3AE2FC43",
+    "slide_index": 327,
+    "dataset_index": 100327
+  },
+  "100328": {
+    "slide_id": "TCGA-95-7944-01Z-00-DX1.E66A3565-7B0D-412B-9C0C-81D7397E8B87",
+    "slide_index": 328,
+    "dataset_index": 100328
+  },
+  "100329": {
+    "slide_id": "TCGA-50-5044-01Z-00-DX1.7E0E651F-411B-4784-B0FA-6EB612527430",
+    "slide_index": 329,
+    "dataset_index": 100329
+  },
+  "100330": {
+    "slide_id": "TCGA-05-4434-01Z-00-DX1.f3f5c89c-306f-4876-98fa-f7bd231f2e10",
+    "slide_index": 330,
+    "dataset_index": 100330
+  },
+  "100331": {
+    "slide_id": "TCGA-J2-8192-01Z-00-DX1.A784F381-7906-480F-99A1-0B88005953A0",
+    "slide_index": 331,
+    "dataset_index": 100331
+  },
+  "100332": {
+    "slide_id": "TCGA-77-A5G1-01Z-00-DX1.ABE53201-3FAD-4F05-9F2B-91BA6257569C",
+    "slide_index": 332,
+    "dataset_index": 100332
+  },
+  "100333": {
+    "slide_id": "TCGA-37-4141-01Z-00-DX1.65256656-b0e0-4705-ad00-38f6c8922cfc",
+    "slide_index": 333,
+    "dataset_index": 100333
+  },
+  "100334": {
+    "slide_id": "TCGA-44-2665-01Z-00-DX1.d429e37e-3915-4da6-b5bc-bf2f09f4fbf7",
+    "slide_index": 334,
+    "dataset_index": 100334
+  },
+  "100335": {
+    "slide_id": "TCGA-85-8072-01Z-00-DX1.3a0ad5a6-c93e-428c-94e7-809ceaf01ef1",
+    "slide_index": 335,
+    "dataset_index": 100335
+  },
+  "100336": {
+    "slide_id": "TCGA-55-8092-01Z-00-DX1.04e44341-c4bb-4b0b-965c-7ec83f3877a6",
+    "slide_index": 336,
+    "dataset_index": 100336
+  },
+  "100337": {
+    "slide_id": "TCGA-43-6143-01Z-00-DX1.52d974a8-3f07-4e7f-8d3f-5d47f321298c",
+    "slide_index": 337,
+    "dataset_index": 100337
+  },
+  "100338": {
+    "slide_id": "TCGA-MP-A4T9-01Z-00-DX1.F7B341C4-EBCD-455F-BE90-3B77AC6B76EC",
+    "slide_index": 338,
+    "dataset_index": 100338
+  },
+  "100339": {
+    "slide_id": "TCGA-55-8091-01Z-00-DX1.0996c58a-6e93-4092-8cb8-014d548fe60c",
+    "slide_index": 339,
+    "dataset_index": 100339
+  },
+  "100340": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX1.2bf10e85-465a-4b17-abd7-3565f0e538a5",
+    "slide_index": 340,
+    "dataset_index": 100340
+  },
+  "100341": {
+    "slide_id": "TCGA-L3-A524-01Z-00-DX1.F3C6DE3B-C59E-4805-A03F-4A0CA3AB2A5E",
+    "slide_index": 341,
+    "dataset_index": 100341
+  },
+  "100342": {
+    "slide_id": "TCGA-56-A5DS-01Z-00-DX1.952C8777-4B8F-415A-9D27-C155D1623A86",
+    "slide_index": 342,
+    "dataset_index": 100342
+  },
+  "100343": {
+    "slide_id": "TCGA-55-6984-01Z-00-DX1.d53e387a-9618-4486-98f3-a75604f25a7d",
+    "slide_index": 343,
+    "dataset_index": 100343
+  },
+  "100344": {
+    "slide_id": "TCGA-39-5035-01Z-00-DX1.ad5d9143-f194-4cef-9a13-03190cf97ccf",
+    "slide_index": 344,
+    "dataset_index": 100344
+  },
+  "100345": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX6.4eef2215-0a0e-478d-81be-207d566e8788",
+    "slide_index": 345,
+    "dataset_index": 100345
+  },
+  "100346": {
+    "slide_id": "TCGA-78-7154-01Z-00-DX1.596c20c2-e811-4b5e-961c-98343afcccde",
+    "slide_index": 346,
+    "dataset_index": 100346
+  },
+  "100347": {
+    "slide_id": "TCGA-18-4083-01Z-00-DX1.337D4583-326F-4108-9441-DC74FAED6AE2",
+    "slide_index": 347,
+    "dataset_index": 100347
+  },
+  "100348": {
+    "slide_id": "TCGA-22-5492-01Z-00-DX1.A17DE349-CD76-4B12-9C5C-DB8DFB23C003",
+    "slide_index": 348,
+    "dataset_index": 100348
+  },
+  "100349": {
+    "slide_id": "TCGA-97-8171-01Z-00-DX1.a55cbfd1-6674-4206-b3e0-2a4f12a74e5d",
+    "slide_index": 349,
+    "dataset_index": 100349
+  },
+  "100350": {
+    "slide_id": "TCGA-44-2659-01Z-00-DX1.b33f40e6-bc18-48b0-8dad-bdb0a6a200b5",
+    "slide_index": 350,
+    "dataset_index": 100350
+  },
+  "100351": {
+    "slide_id": "TCGA-96-A4JL-01Z-00-DX1.AB297723-8AF1-418D-ADBE-46B5D7703C34",
+    "slide_index": 351,
+    "dataset_index": 100351
+  },
+  "100352": {
+    "slide_id": "TCGA-MP-A5C7-01Z-00-DX1.26E5FA5A-3E6D-4CD3-8FA2-F331B7012311",
+    "slide_index": 352,
+    "dataset_index": 100352
+  },
+  "100353": {
+    "slide_id": "TCGA-44-A4SS-01Z-00-DX1.F3D85B63-D963-42D2-815F-CB9D791A0F7B",
+    "slide_index": 353,
+    "dataset_index": 100353
+  },
+  "100354": {
+    "slide_id": "TCGA-78-8640-01Z-00-DX1.6F929E56-34D5-45A6-8A9E-ACB4B88A68B1",
+    "slide_index": 354,
+    "dataset_index": 100354
+  },
+  "100355": {
+    "slide_id": "TCGA-85-8277-01Z-00-DX1.ffad077e-e969-40ba-8504-2f2103911758",
+    "slide_index": 355,
+    "dataset_index": 100355
+  },
+  "100356": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX9.bf1e9d28-3ca2-4a62-bf3e-3e735c6a2885",
+    "slide_index": 356,
+    "dataset_index": 100356
+  },
+  "100357": {
+    "slide_id": "TCGA-55-7994-01Z-00-DX1.a0858080-c471-4337-bc57-7af57e9d92d8",
+    "slide_index": 357,
+    "dataset_index": 100357
+  },
+  "100358": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX1.6bf8a38c-5e3a-4b32-8870-03bc06c0db80",
+    "slide_index": 358,
+    "dataset_index": 100358
+  },
+  "100359": {
+    "slide_id": "TCGA-93-8067-01Z-00-DX1.325d0cd5-9bb5-4f51-a197-75d3c3d19aaf",
+    "slide_index": 359,
+    "dataset_index": 100359
+  },
+  "100360": {
+    "slide_id": "TCGA-05-4405-01Z-00-DX1.D57EC2B2-3A59-4954-86A7-61782938BCC5",
+    "slide_index": 360,
+    "dataset_index": 100360
+  },
+  "100361": {
+    "slide_id": "TCGA-39-5027-01Z-00-DX1.54a3e035-7178-4786-870b-1f6adfb82331",
+    "slide_index": 361,
+    "dataset_index": 100361
+  },
+  "100362": {
+    "slide_id": "TCGA-55-A493-01Z-00-DX1.1CF94B85-7A64-4213-9B04-16504512DE2E",
+    "slide_index": 362,
+    "dataset_index": 100362
+  },
+  "100363": {
+    "slide_id": "TCGA-77-8145-01Z-00-DX1.9d76de05-3cb7-4cd8-879b-11ea7f88d583",
+    "slide_index": 363,
+    "dataset_index": 100363
+  },
+  "100364": {
+    "slide_id": "TCGA-33-4583-01Z-00-DX1.c5e3071e-a941-46db-a987-74a059ee6d69",
+    "slide_index": 364,
+    "dataset_index": 100364
+  },
+  "100365": {
+    "slide_id": "TCGA-66-2770-01Z-00-DX2.58f25170-ac3a-471a-80a0-0586f2ae1669",
+    "slide_index": 365,
+    "dataset_index": 100365
+  },
+  "100366": {
+    "slide_id": "TCGA-55-6543-01Z-00-DX1.08806fe0-84d3-4fd6-8746-6cf557241958",
+    "slide_index": 366,
+    "dataset_index": 100366
+  },
+  "100367": {
+    "slide_id": "TCGA-49-6743-01Z-00-DX3.d391f3ab-e954-4f4f-996d-cd0420933ccf",
+    "slide_index": 367,
+    "dataset_index": 100367
+  },
+  "100368": {
+    "slide_id": "TCGA-69-7973-01Z-00-DX1.aefb015a-cb51-425f-a80f-cd51091a0ee3",
+    "slide_index": 368,
+    "dataset_index": 100368
+  },
+  "100369": {
+    "slide_id": "TCGA-78-7156-01Z-00-DX1.9f7c8eb9-73de-49be-a487-e1fd4411b7b5",
+    "slide_index": 369,
+    "dataset_index": 100369
+  },
+  "100370": {
+    "slide_id": "TCGA-49-6743-01Z-00-DX1.ddae5601-6ffa-4a70-8755-8645d5e45135",
+    "slide_index": 370,
+    "dataset_index": 100370
+  },
+  "100371": {
+    "slide_id": "TCGA-86-8074-01Z-00-DX1.0c34b434-8701-4060-a4ea-08a72371ee1e",
+    "slide_index": 371,
+    "dataset_index": 100371
+  },
+  "100372": {
+    "slide_id": "TCGA-63-6202-01Z-00-DX1.A0A13923-E41B-4A6D-BC55-532D8E90DE0F",
+    "slide_index": 372,
+    "dataset_index": 100372
+  },
+  "100373": {
+    "slide_id": "TCGA-86-8280-01Z-00-DX1.52627b97-1cfa-4382-819b-949b58c0f995",
+    "slide_index": 373,
+    "dataset_index": 100373
+  },
+  "100374": {
+    "slide_id": "TCGA-64-5779-01Z-00-DX1.B3268447-DCE0-4927-B5A9-EC4D61E9B17D",
+    "slide_index": 374,
+    "dataset_index": 100374
+  },
+  "100375": {
+    "slide_id": "TCGA-97-A4M5-01Z-00-DX1.283AFBA6-A349-425F-A18E-5CA186084C23",
+    "slide_index": 375,
+    "dataset_index": 100375
+  },
+  "100376": {
+    "slide_id": "TCGA-44-5644-01Z-00-DX1.7e4edaa7-25c6-49f4-81bc-f50d6c5fac38",
+    "slide_index": 376,
+    "dataset_index": 100376
+  },
+  "100377": {
+    "slide_id": "TCGA-L9-A5IP-01Z-00-DX1.E699D989-8BB8-41DF-9B95-A880858653E6",
+    "slide_index": 377,
+    "dataset_index": 100377
+  },
+  "100378": {
+    "slide_id": "TCGA-39-5030-01Z-00-DX1.09d96fb6-9a19-40ae-967e-49f378340f9b",
+    "slide_index": 378,
+    "dataset_index": 100378
+  },
+  "100379": {
+    "slide_id": "TCGA-94-A4VJ-01Z-00-DX1.FBC6E75E-80D8-42EA-9292-181EC4D5D170",
+    "slide_index": 379,
+    "dataset_index": 100379
+  },
+  "100380": {
+    "slide_id": "TCGA-99-8032-01Z-00-DX1.7380b78f-ea25-43e0-ac90-194b5c6b1432",
+    "slide_index": 380,
+    "dataset_index": 100380
+  },
+  "100381": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX9.f05eb71e-b511-4326-9097-5ca191f0100e",
+    "slide_index": 381,
+    "dataset_index": 100381
+  },
+  "100382": {
+    "slide_id": "TCGA-86-8076-01Z-00-DX1.e7378b2f-e20e-4d2f-a86c-3a8ead08a385",
+    "slide_index": 382,
+    "dataset_index": 100382
+  },
+  "100383": {
+    "slide_id": "TCGA-21-1083-01Z-00-DX1.8288ca92-b611-4acf-986e-0b8a3f620b94",
+    "slide_index": 383,
+    "dataset_index": 100383
+  },
+  "100384": {
+    "slide_id": "TCGA-22-4607-01Z-00-DX1.5C521672-8405-43A2-ACB5-16174A74BCB7",
+    "slide_index": 384,
+    "dataset_index": 100384
+  },
+  "100385": {
+    "slide_id": "TCGA-L9-A8F4-01Z-00-DX1.E2BBB8DE-94E2-4781-9B55-8A4CFBF8A69D",
+    "slide_index": 385,
+    "dataset_index": 100385
+  },
+  "100386": {
+    "slide_id": "TCGA-49-AAR4-01Z-00-DX1.EDB32358-AF23-4F81-A99F-15574A2DE28E",
+    "slide_index": 386,
+    "dataset_index": 100386
+  },
+  "100387": {
+    "slide_id": "TCGA-75-7031-01Z-00-DX1.B058D81B-E869-4AEA-8CAC-4B6264FB86A8",
+    "slide_index": 387,
+    "dataset_index": 100387
+  },
+  "100388": {
+    "slide_id": "TCGA-22-4604-01Z-00-DX1.C398D192-8564-42AB-89B8-461F0830D8A1",
+    "slide_index": 388,
+    "dataset_index": 100388
+  },
+  "100389": {
+    "slide_id": "TCGA-86-A456-01Z-00-DX1.5C7CBF9B-0AE3-4776-9434-296AA0C605CC",
+    "slide_index": 389,
+    "dataset_index": 100389
+  },
+  "100390": {
+    "slide_id": "TCGA-34-A5IX-01Z-00-DX1.E10EE7FC-91EA-4A39-8B1B-1312C8D9620B",
+    "slide_index": 390,
+    "dataset_index": 100390
+  },
+  "100391": {
+    "slide_id": "TCGA-18-3407-01Z-00-DX1.E7DDA7E3-45A2-4E06-A081-E6A81A672155",
+    "slide_index": 391,
+    "dataset_index": 100391
+  },
+  "100392": {
+    "slide_id": "TCGA-55-7227-01Z-00-DX1.e1a9e09c-4a50-4ee5-b1e4-2c7ae34dc913",
+    "slide_index": 392,
+    "dataset_index": 100392
+  },
+  "100393": {
+    "slide_id": "TCGA-55-6981-01Z-00-DX1.5fecd134-42a0-40a2-be75-1e8bd14c5b30",
+    "slide_index": 393,
+    "dataset_index": 100393
+  },
+  "100394": {
+    "slide_id": "TCGA-49-AARQ-01Z-00-DX1.3FA36419-1658-4602-9170-84A622787C3E",
+    "slide_index": 394,
+    "dataset_index": 100394
+  },
+  "100395": {
+    "slide_id": "TCGA-05-4245-01Z-00-DX1.36ff5403-d4bb-4415-b2c5-7c750d655cde",
+    "slide_index": 395,
+    "dataset_index": 100395
+  },
+  "100396": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX6.2bcc33c0-31f2-4354-b954-64bd646f40df",
+    "slide_index": 396,
+    "dataset_index": 100396
+  },
+  "100397": {
+    "slide_id": "TCGA-50-5045-01Z-00-DX1.ec50bbfc-1721-4e94-ac11-9ebd843e11ba",
+    "slide_index": 397,
+    "dataset_index": 100397
+  },
+  "100398": {
+    "slide_id": "TCGA-73-4668-01Z-00-DX1.3470b27e-210f-4ff3-9dde-69aa85faa9ee",
+    "slide_index": 398,
+    "dataset_index": 100398
+  },
+  "100399": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX4.038eb76c-beff-46f0-b0bb-b5c951305b52",
+    "slide_index": 399,
+    "dataset_index": 100399
+  },
+  "100400": {
+    "slide_id": "TCGA-MP-A4T4-01Z-00-DX1.5F72FF0B-59C0-4E95-A8C1-BF22A948F7AC",
+    "slide_index": 400,
+    "dataset_index": 100400
+  },
+  "100401": {
+    "slide_id": "TCGA-44-3918-01Z-00-DX1.6da70a8b-6307-423a-9d2d-380c16962855",
+    "slide_index": 401,
+    "dataset_index": 100401
+  },
+  "100402": {
+    "slide_id": "TCGA-66-2763-01Z-00-DX1.99bc6dec-4e57-45bb-8d94-4dc38657d852",
+    "slide_index": 402,
+    "dataset_index": 100402
+  },
+  "100403": {
+    "slide_id": "TCGA-22-5489-01Z-00-DX1.0518AF53-5642-40FB-A631-4C50D7707C8F",
+    "slide_index": 403,
+    "dataset_index": 100403
+  },
+  "100404": {
+    "slide_id": "TCGA-49-4505-01Z-00-DX3.d3f8d0c4-e4bc-4201-9b2f-e010f51dd8c3",
+    "slide_index": 404,
+    "dataset_index": 100404
+  },
+  "100405": {
+    "slide_id": "TCGA-21-1070-01Z-00-DX1.06363f8a-ef29-4d73-95da-a3172d7873c0",
+    "slide_index": 405,
+    "dataset_index": 100405
+  },
+  "100406": {
+    "slide_id": "TCGA-85-8049-01Z-00-DX1.59554c0f-d04a-41f2-b152-654a848b0443",
+    "slide_index": 406,
+    "dataset_index": 100406
+  },
+  "100407": {
+    "slide_id": "TCGA-39-5016-01Z-00-DX1.b568cdcd-f8bf-4917-ae40-dbd505c36d1e",
+    "slide_index": 407,
+    "dataset_index": 100407
+  },
+  "100408": {
+    "slide_id": "TCGA-55-7574-01Z-00-DX1.09639e6a-d85f-4d84-abbc-0f5a6d679683",
+    "slide_index": 408,
+    "dataset_index": 100408
+  },
+  "100409": {
+    "slide_id": "TCGA-49-4514-01Z-00-DX2.f1565a36-257d-432e-a84d-47c1d7a0185f",
+    "slide_index": 409,
+    "dataset_index": 100409
+  },
+  "100410": {
+    "slide_id": "TCGA-05-4432-01Z-00-DX1.90d00d62-402b-404a-85e2-0edf869193ab",
+    "slide_index": 410,
+    "dataset_index": 100410
+  },
+  "100411": {
+    "slide_id": "TCGA-49-4507-01Z-00-DX1.1df4e286-ea89-4c38-ad53-a26e5b7b0402",
+    "slide_index": 411,
+    "dataset_index": 100411
+  },
+  "100412": {
+    "slide_id": "TCGA-86-8055-01Z-00-DX1.546dc42e-3742-4da5-8f9b-80732180ce76",
+    "slide_index": 412,
+    "dataset_index": 100412
+  },
+  "100413": {
+    "slide_id": "TCGA-49-6744-01Z-00-DX2.1982e585-65a4-4330-9140-ccabcdd106f8",
+    "slide_index": 413,
+    "dataset_index": 100413
+  },
+  "100414": {
+    "slide_id": "TCGA-21-1076-01Z-00-DX1.533ca070-93e0-4d49-8770-8f42f341ca38",
+    "slide_index": 414,
+    "dataset_index": 100414
+  },
+  "100415": {
+    "slide_id": "TCGA-55-7907-01Z-00-DX1.f5a264f5-3926-4d09-82f3-cd38d554f3db",
+    "slide_index": 415,
+    "dataset_index": 100415
+  },
+  "100416": {
+    "slide_id": "TCGA-70-6722-01Z-00-DX1.2f8498bb-bbd9-4eae-bb9e-6fe939ca0551",
+    "slide_index": 416,
+    "dataset_index": 100416
+  },
+  "100417": {
+    "slide_id": "TCGA-85-7844-01Z-00-DX1.9035209b-75ae-4c9b-8edf-5851af490f29",
+    "slide_index": 417,
+    "dataset_index": 100417
+  },
+  "100418": {
+    "slide_id": "TCGA-55-7573-01Z-00-DX1.43a4bbd2-6a3b-4910-9356-2d750a736817",
+    "slide_index": 418,
+    "dataset_index": 100418
+  },
+  "100419": {
+    "slide_id": "TCGA-77-7142-01Z-00-DX1.699e0ebe-b37b-425f-a0a5-ddb0263da84c",
+    "slide_index": 419,
+    "dataset_index": 100419
+  },
+  "100420": {
+    "slide_id": "TCGA-98-A53B-01Z-00-DX1.5429DF3F-9F1C-4DEE-8A7A-CCB3E2BBDC8A",
+    "slide_index": 420,
+    "dataset_index": 100420
+  },
+  "100421": {
+    "slide_id": "TCGA-21-5783-01Z-00-DX1.3FAB28DF-5748-42D5-8257-3D440C4FB5FB",
+    "slide_index": 421,
+    "dataset_index": 100421
+  },
+  "100422": {
+    "slide_id": "TCGA-22-5480-01Z-00-DX1.A6E25FF1-9616-4F5F-97BD-BA1912C46008",
+    "slide_index": 422,
+    "dataset_index": 100422
+  },
+  "100423": {
+    "slide_id": "TCGA-86-8279-01Z-00-DX1.fd12b60e-d181-454b-a655-298a973a849d",
+    "slide_index": 423,
+    "dataset_index": 100423
+  },
+  "100424": {
+    "slide_id": "TCGA-99-8033-01Z-00-DX1.06f8ca81-c0a7-4ab5-b2fe-d5fc6671e29d",
+    "slide_index": 424,
+    "dataset_index": 100424
+  },
+  "100425": {
+    "slide_id": "TCGA-63-A5MW-01Z-00-DX1.DEDF1D36-BBFA-4B25-BE54-262025F9F571",
+    "slide_index": 425,
+    "dataset_index": 100425
+  },
+  "100426": {
+    "slide_id": "TCGA-43-6647-01Z-00-DX1.ac38a9bb-d5af-42c1-b96c-c1d6b958dd17",
+    "slide_index": 426,
+    "dataset_index": 100426
+  },
+  "100427": {
+    "slide_id": "TCGA-85-7699-01Z-00-DX1.418bb5e3-9721-41b0-82f6-21ce3cc29de2",
+    "slide_index": 427,
+    "dataset_index": 100427
+  },
+  "100428": {
+    "slide_id": "TCGA-55-8615-01Z-00-DX1.928CFCA6-059D-4901-8D6A-BC7D9486C29F",
+    "slide_index": 428,
+    "dataset_index": 100428
+  },
+  "100429": {
+    "slide_id": "TCGA-90-A59Q-01Z-00-DX1.9F4ABA20-E9F7-4524-874E-E8C42D84AFFE",
+    "slide_index": 429,
+    "dataset_index": 100429
+  },
+  "100430": {
+    "slide_id": "TCGA-21-1082-01Z-00-DX1.cae5bbaa-76f5-416d-b532-16cf773e017e",
+    "slide_index": 430,
+    "dataset_index": 100430
+  },
+  "100431": {
+    "slide_id": "TCGA-L9-A443-01Z-00-DX1.9F68A13A-2865-41BF-88A7-B0DF75961C6F",
+    "slide_index": 431,
+    "dataset_index": 100431
+  },
+  "100432": {
+    "slide_id": "TCGA-44-3398-01Z-00-DX1.74757c91-a0c6-4e7f-b2db-8748c68ffa44",
+    "slide_index": 432,
+    "dataset_index": 100432
+  },
+  "100433": {
+    "slide_id": "TCGA-NK-A7XE-01Z-00-DX1.47D9E488-0BB8-4611-A6BA-A6ABC32FA4C9",
+    "slide_index": 433,
+    "dataset_index": 100433
+  },
+  "100434": {
+    "slide_id": "TCGA-O2-A5IB-01Z-00-DX1.E34D0FEC-A9D3-4F7F-9977-C61FED37D2DE",
+    "slide_index": 434,
+    "dataset_index": 100434
+  },
+  "100435": {
+    "slide_id": "TCGA-43-2578-01Z-00-DX1.3314c57b-2875-4cb3-8fff-cb9cf65aa697",
+    "slide_index": 435,
+    "dataset_index": 100435
+  },
+  "100436": {
+    "slide_id": "TCGA-78-7158-01Z-00-DX1.74db3dcd-2715-4ce7-8e48-30c8b7946ba0",
+    "slide_index": 436,
+    "dataset_index": 100436
+  },
+  "100437": {
+    "slide_id": "TCGA-56-7223-01Z-00-DX1.dd01c478-6dfa-4757-85fd-d956d70ec372",
+    "slide_index": 437,
+    "dataset_index": 100437
+  },
+  "100438": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX4.17c00349-5908-4944-9dba-5efea9a5373a",
+    "slide_index": 438,
+    "dataset_index": 100438
+  },
+  "100439": {
+    "slide_id": "TCGA-L4-A4E5-01Z-00-DX1.C2A5EF71-1F40-4E34-AC30-58D7121C1338",
+    "slide_index": 439,
+    "dataset_index": 100439
+  },
+  "100440": {
+    "slide_id": "TCGA-99-8028-01Z-00-DX1.23de89b1-67f8-41fb-980a-010ea190d687",
+    "slide_index": 440,
+    "dataset_index": 100440
+  },
+  "100441": {
+    "slide_id": "TCGA-49-4506-01Z-00-DX4.9460a2c1-efe2-4095-9b0e-dfe0eda684ba",
+    "slide_index": 441,
+    "dataset_index": 100441
+  },
+  "100442": {
+    "slide_id": "TCGA-69-7760-01Z-00-DX1.7fc295e3-5bfc-4017-801c-491489d0eb34",
+    "slide_index": 442,
+    "dataset_index": 100442
+  },
+  "100443": {
+    "slide_id": "TCGA-22-4591-01Z-00-DX1.8C89ABEB-A1E3-47D1-B247-02539EF3F959",
+    "slide_index": 443,
+    "dataset_index": 100443
+  },
+  "100444": {
+    "slide_id": "TCGA-75-6212-01Z-00-DX1.FCB36956-DF6C-485D-8E7A-922A2BDAE669",
+    "slide_index": 444,
+    "dataset_index": 100444
+  },
+  "100445": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX3.40cd3c60-889c-4eaa-be55-36ab5d8b2400",
+    "slide_index": 445,
+    "dataset_index": 100445
+  },
+  "100446": {
+    "slide_id": "TCGA-55-8206-01Z-00-DX1.1216f330-c4e9-41b5-a2b7-9cafd960fa11",
+    "slide_index": 446,
+    "dataset_index": 100446
+  },
+  "100447": {
+    "slide_id": "TCGA-18-3411-01Z-00-DX1.D9228674-5B13-44CB-A7AE-C64FD97A3BBB",
+    "slide_index": 447,
+    "dataset_index": 100447
+  },
+  "100448": {
+    "slide_id": "TCGA-66-2794-01Z-00-DX1.933c35d1-b63f-44ba-928a-1f49c7fbc452",
+    "slide_index": 448,
+    "dataset_index": 100448
+  },
+  "100449": {
+    "slide_id": "TCGA-66-2755-01Z-00-DX1.ccc904f0-4cd3-44a5-8b68-7272f2a7558f",
+    "slide_index": 449,
+    "dataset_index": 100449
+  },
+  "100450": {
+    "slide_id": "TCGA-52-7622-01Z-00-DX1.cb3bb056-27dd-4c15-9004-b06cc8923663",
+    "slide_index": 450,
+    "dataset_index": 100450
+  },
+  "100451": {
+    "slide_id": "TCGA-21-1077-01Z-00-DX1.e7d0d3ca-b24c-4b2b-bb8f-13cc6991fb78",
+    "slide_index": 451,
+    "dataset_index": 100451
+  },
+  "100452": {
+    "slide_id": "TCGA-97-8172-01Z-00-DX1.812ab977-692e-42f8-af57-7ce9084ab045",
+    "slide_index": 452,
+    "dataset_index": 100452
+  },
+  "100453": {
+    "slide_id": "TCGA-52-7810-01Z-00-DX1.54fcdfff-c1ac-4427-bb33-54959695134f",
+    "slide_index": 453,
+    "dataset_index": 100453
+  },
+  "100454": {
+    "slide_id": "TCGA-85-A4CL-01Z-00-DX1.05BC31FF-3B88-489F-9BD2-5B2B31C72EDB",
+    "slide_index": 454,
+    "dataset_index": 100454
+  },
+  "100455": {
+    "slide_id": "TCGA-34-7107-01Z-00-DX1.c72202e6-740d-4891-945c-f360f7c56bc9",
+    "slide_index": 455,
+    "dataset_index": 100455
+  },
+  "100456": {
+    "slide_id": "TCGA-MN-A4N1-01Z-00-DX1.07CD10C3-73A7-47E5-AD45-45458CE33107",
+    "slide_index": 456,
+    "dataset_index": 100456
+  },
+  "100457": {
+    "slide_id": "TCGA-60-2721-01Z-00-DX1.8ea139d5-018b-4a66-915e-4784c808742e",
+    "slide_index": 457,
+    "dataset_index": 100457
+  },
+  "100458": {
+    "slide_id": "TCGA-66-2793-01Z-00-DX1.133bc2be-1407-422c-a356-2477f1020c50",
+    "slide_index": 458,
+    "dataset_index": 100458
+  },
+  "100459": {
+    "slide_id": "TCGA-49-4507-01Z-00-DX2.a7bfbeee-00ea-4301-ace4-ce591807e2d3",
+    "slide_index": 459,
+    "dataset_index": 100459
+  },
+  "100460": {
+    "slide_id": "TCGA-56-A4ZJ-01Z-00-DX1.6BB25D9D-75E7-4B44-8560-8A3C3EC9F118",
+    "slide_index": 460,
+    "dataset_index": 100460
+  },
+  "100461": {
+    "slide_id": "TCGA-05-4250-01Z-00-DX1.90f67fdf-dff9-46ca-af71-0978d7c221ba",
+    "slide_index": 461,
+    "dataset_index": 100461
+  },
+  "100462": {
+    "slide_id": "TCGA-85-8664-01Z-00-DX1.d83b183e-4cc6-4608-93fb-46e69d36a2fa",
+    "slide_index": 462,
+    "dataset_index": 100462
+  },
+  "100463": {
+    "slide_id": "TCGA-L9-A50W-01Z-00-DX1.21FAAB58-58EF-4A6A-8F0A-16D9AB9B1056",
+    "slide_index": 463,
+    "dataset_index": 100463
+  },
+  "100464": {
+    "slide_id": "TCGA-67-3774-01Z-00-DX1.FE85FDCB-91D2-47C5-8D13-D622A51A7BE0",
+    "slide_index": 464,
+    "dataset_index": 100464
+  },
+  "100465": {
+    "slide_id": "TCGA-49-6742-01Z-00-DX4.a11201e1-9eeb-40ea-9c88-28de847ef7d8",
+    "slide_index": 465,
+    "dataset_index": 100465
+  },
+  "100466": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX1.ced0bda8-f2d6-4bcb-b2d6-b122846a3079",
+    "slide_index": 466,
+    "dataset_index": 100466
+  },
+  "100467": {
+    "slide_id": "TCGA-63-A5M9-01Z-00-DX1.4E04AC12-6DAC-4DA2-A991-AFCD42FA1CF2",
+    "slide_index": 467,
+    "dataset_index": 100467
+  },
+  "100468": {
+    "slide_id": "TCGA-69-7763-01Z-00-DX1.33203e8a-43e9-4e3e-98ba-1ac08b80a44f",
+    "slide_index": 468,
+    "dataset_index": 100468
+  },
+  "100469": {
+    "slide_id": "TCGA-97-A4M2-01Z-00-DX1.5C72522C-1538-4D68-B517-5FB05A9D401A",
+    "slide_index": 469,
+    "dataset_index": 100469
+  },
+  "100470": {
+    "slide_id": "TCGA-78-7166-01Z-00-DX1.d19ad2d9-b006-4a13-ba54-2fec234c2373",
+    "slide_index": 470,
+    "dataset_index": 100470
+  },
+  "100471": {
+    "slide_id": "TCGA-MP-A4SY-01Z-00-DX1.9535274F-C850-409E-80A1-B933B2F1A110",
+    "slide_index": 471,
+    "dataset_index": 100471
+  },
+  "100472": {
+    "slide_id": "TCGA-60-2714-01Z-00-DX1.13f280a8-c8d3-48bb-8a38-49ce9ad9e1a2",
+    "slide_index": 472,
+    "dataset_index": 100472
+  },
+  "100473": {
+    "slide_id": "TCGA-49-6744-01Z-00-DX1.40f8f751-b756-4576-b1ee-8dd2e8f89ff7",
+    "slide_index": 473,
+    "dataset_index": 100473
+  },
+  "100474": {
+    "slide_id": "TCGA-38-6178-01Z-00-DX1.5932337D-BA2B-455D-9E34-22961EFA2170",
+    "slide_index": 474,
+    "dataset_index": 100474
+  },
+  "100475": {
+    "slide_id": "TCGA-97-7938-01Z-00-DX1.d774d0a2-ee34-43ba-9d9d-34bf9718292e",
+    "slide_index": 475,
+    "dataset_index": 100475
+  },
+  "100476": {
+    "slide_id": "TCGA-98-A53C-01Z-00-DX1.1E06B7B5-32C3-436C-AD66-27E5829ADA85",
+    "slide_index": 476,
+    "dataset_index": 100476
+  },
+  "100477": {
+    "slide_id": "TCGA-44-2655-01Z-00-DX1.ee255271-780c-461c-ab23-5cd3504b5e4a",
+    "slide_index": 477,
+    "dataset_index": 100477
+  },
+  "100478": {
+    "slide_id": "TCGA-49-6761-01Z-00-DX1.10c577a2-f65c-4517-8a25-83d44e380f8f",
+    "slide_index": 478,
+    "dataset_index": 100478
+  },
+  "100479": {
+    "slide_id": "TCGA-85-A4JB-01Z-00-DX1.3CEC3662-68C1-4874-8273-540459B8F138",
+    "slide_index": 479,
+    "dataset_index": 100479
+  },
+  "100480": {
+    "slide_id": "TCGA-56-7731-01Z-00-DX1.e205943f-cb2e-4006-b3be-b07d95fea663",
+    "slide_index": 480,
+    "dataset_index": 100480
+  },
+  "100481": {
+    "slide_id": "TCGA-NJ-A55O-01Z-00-DX1.8E23C821-B8BB-4D89-9E38-E97424A685CE",
+    "slide_index": 481,
+    "dataset_index": 100481
+  },
+  "100482": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX2.a864126e-e46c-4ce4-a3d5-792f35ccaa80",
+    "slide_index": 482,
+    "dataset_index": 100482
+  },
+  "100483": {
+    "slide_id": "TCGA-56-7580-01Z-00-DX1.dc642f9d-20ed-411b-8697-4e33bf7db57e",
+    "slide_index": 483,
+    "dataset_index": 100483
+  },
+  "100484": {
+    "slide_id": "TCGA-85-7710-01Z-00-DX1.8bcfe326-1c19-4ebe-879d-83e77739f006",
+    "slide_index": 484,
+    "dataset_index": 100484
+  },
+  "100485": {
+    "slide_id": "TCGA-86-7953-01Z-00-DX1.847865ce-df59-4677-bac2-ee88a258fe4e",
+    "slide_index": 485,
+    "dataset_index": 100485
+  },
+  "100486": {
+    "slide_id": "TCGA-97-A4M6-01Z-00-DX1.01D83621-3D8E-4339-9F9B-CBD3083D5AE0",
+    "slide_index": 486,
+    "dataset_index": 100486
+  },
+  "100487": {
+    "slide_id": "TCGA-62-A46S-01Z-00-DX1.7A8A6F38-76EA-4F43-BC03-1C42E6787E33",
+    "slide_index": 487,
+    "dataset_index": 100487
+  },
+  "100488": {
+    "slide_id": "TCGA-46-3766-01Z-00-DX1.5870b2ed-78f0-4f68-b01e-2ef6d5353b57",
+    "slide_index": 488,
+    "dataset_index": 100488
+  },
+  "100489": {
+    "slide_id": "TCGA-L3-A4E7-01Z-00-DX1.69F3B1AF-F6DA-41FE-A72E-609F9D42E766",
+    "slide_index": 489,
+    "dataset_index": 100489
+  },
+  "100490": {
+    "slide_id": "TCGA-39-5021-01Z-00-DX1.4d22d3ca-cb06-43d0-aba7-583f1d706105",
+    "slide_index": 490,
+    "dataset_index": 100490
+  },
+  "100491": {
+    "slide_id": "TCGA-77-8138-01Z-00-DX1.fac6dcf9-7367-4345-a764-38e5471763c0",
+    "slide_index": 491,
+    "dataset_index": 100491
+  },
+  "100492": {
+    "slide_id": "TCGA-85-A4PA-01Z-00-DX1.00AF818F-39BA-4EA7-8873-9B6C4F2D2141",
+    "slide_index": 492,
+    "dataset_index": 100492
+  },
+  "100493": {
+    "slide_id": "TCGA-62-A46O-01Z-00-DX1.39B361AD-ED1D-4C0C-8611-0E8CCBDBD252",
+    "slide_index": 493,
+    "dataset_index": 100493
+  },
+  "100494": {
+    "slide_id": "TCGA-67-3771-01Z-00-DX1.7B54D132-6AB7-4F2D-8BFF-33AFE83CF204",
+    "slide_index": 494,
+    "dataset_index": 100494
+  },
+  "100495": {
+    "slide_id": "TCGA-MP-A4TK-01Z-00-DX1.57494698-D9D9-4C04-AAB2-16616CCFDCC9",
+    "slide_index": 495,
+    "dataset_index": 100495
+  },
+  "100496": {
+    "slide_id": "TCGA-85-8354-01Z-00-DX1.C9188133-08F4-43DD-BB60-6F7293CDB5B9",
+    "slide_index": 496,
+    "dataset_index": 100496
+  },
+  "100497": {
+    "slide_id": "TCGA-86-7714-01Z-00-DX1.8ee03c3b-013e-4dd5-aa0e-9c1a771cbdc5",
+    "slide_index": 497,
+    "dataset_index": 100497
+  },
+  "100498": {
+    "slide_id": "TCGA-60-2697-01Z-00-DX1.e11a5b5b-c4be-4fe1-b7db-08879e55d552",
+    "slide_index": 498,
+    "dataset_index": 100498
+  },
+  "100499": {
+    "slide_id": "TCGA-58-A46J-01Z-00-DX1.4BF4AAC3-2020-41EA-A181-5E90A23DA024",
+    "slide_index": 499,
+    "dataset_index": 100499
+  },
+  "100500": {
+    "slide_id": "TCGA-66-2754-01Z-00-DX1.3cd19122-06f3-420e-9c3f-362225ff49eb",
+    "slide_index": 500,
+    "dataset_index": 100500
+  },
+  "100501": {
+    "slide_id": "TCGA-44-2656-01Z-00-DX1.5f247f31-4bb5-460d-a1f7-7dcdba33c835",
+    "slide_index": 501,
+    "dataset_index": 100501
+  },
+  "100502": {
+    "slide_id": "TCGA-97-7552-01Z-00-DX1.a5ab8959-ff7a-4287-b014-87439957fb67",
+    "slide_index": 502,
+    "dataset_index": 100502
+  },
+  "100503": {
+    "slide_id": "TCGA-94-7943-01Z-00-DX1.361fc645-89ae-4934-8c27-12907bc2a9ee",
+    "slide_index": 503,
+    "dataset_index": 100503
+  },
+  "100504": {
+    "slide_id": "TCGA-86-6851-01Z-00-DX1.0b13e600-fd7b-44a2-9ec2-26e9938fb7bc",
+    "slide_index": 504,
+    "dataset_index": 100504
+  },
+  "100505": {
+    "slide_id": "TCGA-78-7155-01Z-00-DX1.32258467-7550-4a1b-8df9-a869fb83e559",
+    "slide_index": 505,
+    "dataset_index": 100505
+  },
+  "100506": {
+    "slide_id": "TCGA-33-4533-01Z-00-DX4.b7cd127e-4d9c-45dc-bd5e-e95343819e4c",
+    "slide_index": 506,
+    "dataset_index": 100506
+  },
+  "100507": {
+    "slide_id": "TCGA-78-7147-01Z-00-DX1.a9fd2c5d-b8f3-4524-bd64-6c3362ce373b",
+    "slide_index": 507,
+    "dataset_index": 100507
+  },
+  "100508": {
+    "slide_id": "TCGA-68-A59I-01Z-00-DX1.6EE9E466-AE08-449D-A830-98667E6D48C7",
+    "slide_index": 508,
+    "dataset_index": 100508
+  },
+  "100509": {
+    "slide_id": "TCGA-MP-A4TH-01Z-00-DX1.E89D2C19-F9B2-4BF2-AA5F-6104CBC076D1",
+    "slide_index": 509,
+    "dataset_index": 100509
+  },
+  "100510": {
+    "slide_id": "TCGA-92-7341-01Z-00-DX1.6ecbb768-fde4-4f41-8e28-bc5be860825f",
+    "slide_index": 510,
+    "dataset_index": 100510
+  },
+  "100511": {
+    "slide_id": "TCGA-50-6597-01Z-00-DX1.ec7fc0b2-78a1-4384-bddd-e89f02ee5eb6",
+    "slide_index": 511,
+    "dataset_index": 100511
+  },
+  "100512": {
+    "slide_id": "TCGA-66-2790-01Z-00-DX1.86f436e3-e233-4986-90bb-aaa2adc4596f",
+    "slide_index": 512,
+    "dataset_index": 100512
+  },
+  "100513": {
+    "slide_id": "TCGA-55-7914-01Z-00-DX1.875bffe1-8c56-4c29-ab11-6840ee3a643c",
+    "slide_index": 513,
+    "dataset_index": 100513
+  },
+  "100514": {
+    "slide_id": "TCGA-63-A5MV-01Z-00-DX1.72B97C7E-0AE9-468B-9E85-C98BA40CBBCB",
+    "slide_index": 514,
+    "dataset_index": 100514
+  },
+  "100515": {
+    "slide_id": "TCGA-55-8514-01Z-00-DX1.499CF563-B404-4061-9D1A-57954BBE2CE7",
+    "slide_index": 515,
+    "dataset_index": 100515
+  },
+  "100516": {
+    "slide_id": "TCGA-78-7161-01Z-00-DX1.646cf15a-5961-4728-b9fe-fe3fff11831f",
+    "slide_index": 516,
+    "dataset_index": 100516
+  },
+  "100517": {
+    "slide_id": "TCGA-86-8073-01Z-00-DX1.33c016fc-5c9e-4ad6-8de2-a7f8521d205c",
+    "slide_index": 517,
+    "dataset_index": 100517
+  },
+  "100518": {
+    "slide_id": "TCGA-55-8619-01Z-00-DX1.46C7678A-6032-4C95-B535-85C87B92B6ED",
+    "slide_index": 518,
+    "dataset_index": 100518
+  },
+  "100519": {
+    "slide_id": "TCGA-44-7671-01Z-00-DX1.00297baa-00e7-4894-a7b8-c9ac2a9d42d8",
+    "slide_index": 519,
+    "dataset_index": 100519
+  },
+  "100520": {
+    "slide_id": "TCGA-63-A5MU-01Z-00-DX1.C80B700E-D924-4A6F-AC8E-D9C91D452A57",
+    "slide_index": 520,
+    "dataset_index": 100520
+  },
+  "100521": {
+    "slide_id": "TCGA-05-4402-01Z-00-DX1.c653ddc2-88c1-45ac-88e7-4e512b8e8d53",
+    "slide_index": 521,
+    "dataset_index": 100521
+  },
+  "100522": {
+    "slide_id": "TCGA-55-8203-01Z-00-DX1.f530d261-be19-4ff0-98d0-27b789dffb23",
+    "slide_index": 522,
+    "dataset_index": 100522
+  },
+  "100523": {
+    "slide_id": "TCGA-33-4586-01Z-00-DX1.3b7dbb34-4bb4-4de5-a67f-1b6260fd8f15",
+    "slide_index": 523,
+    "dataset_index": 100523
+  },
+  "100524": {
+    "slide_id": "TCGA-63-A5MB-01Z-00-DX1.BA2648E1-4683-4992-A00C-96179C51A002",
+    "slide_index": 524,
+    "dataset_index": 100524
+  },
+  "100525": {
+    "slide_id": "TCGA-71-6725-01Z-00-DX1.b9e1d4aa-439d-481f-b24b-134c4e470f28",
+    "slide_index": 525,
+    "dataset_index": 100525
+  },
+  "100526": {
+    "slide_id": "TCGA-66-2778-01Z-00-DX1.5806ab4d-fdde-45b6-a131-fd5f71bcde0b",
+    "slide_index": 526,
+    "dataset_index": 100526
+  },
+  "100527": {
+    "slide_id": "TCGA-55-A491-01Z-00-DX1.E5F3B4E5-18EA-4067-AE28-119DABCE739A",
+    "slide_index": 527,
+    "dataset_index": 100527
+  },
+  "100528": {
+    "slide_id": "TCGA-75-6214-01Z-00-DX1.00424C13-65B8-4872-81EB-EE207AB3F78C",
+    "slide_index": 528,
+    "dataset_index": 100528
+  },
+  "100529": {
+    "slide_id": "TCGA-05-4427-01Z-00-DX1.36CF4E93-3FBB-4346-A26B-85F0D9D0575D",
+    "slide_index": 529,
+    "dataset_index": 100529
+  },
+  "100530": {
+    "slide_id": "TCGA-75-6207-01Z-00-DX1.837B7B0F-424C-423B-9045-A905E7C1C54C",
+    "slide_index": 530,
+    "dataset_index": 100530
+  },
+  "100531": {
+    "slide_id": "TCGA-43-5670-01Z-00-DX1.1b5d262e-1f39-4f6f-883c-52101b57791f",
+    "slide_index": 531,
+    "dataset_index": 100531
+  },
+  "100532": {
+    "slide_id": "TCGA-18-3417-01Z-00-DX1.B424DA03-9007-4FD0-9A92-BCB40319711C",
+    "slide_index": 532,
+    "dataset_index": 100532
+  },
+  "100533": {
+    "slide_id": "TCGA-77-8008-01Z-00-DX1.29c3c1c6-7602-40c6-bc86-b40132df9309",
+    "slide_index": 533,
+    "dataset_index": 100533
+  },
+  "100534": {
+    "slide_id": "TCGA-22-1017-01Z-00-DX1.9562FE79-A261-42D3-B394-F3E0E2FF7DDA",
+    "slide_index": 534,
+    "dataset_index": 100534
+  },
+  "100535": {
+    "slide_id": "TCGA-44-7669-01Z-00-DX1.34d0c9ac-d3dc-4a5e-b99c-a8c1c1e120d1",
+    "slide_index": 535,
+    "dataset_index": 100535
+  },
+  "100536": {
+    "slide_id": "TCGA-68-7757-01Z-00-DX1.4eece254-a119-436a-af3c-fad8e8b7f74b",
+    "slide_index": 536,
+    "dataset_index": 100536
+  },
+  "100537": {
+    "slide_id": "TCGA-22-1012-01Z-00-DX1.053F81FA-F91A-42B0-8F12-CD2495FA9E99",
+    "slide_index": 537,
+    "dataset_index": 100537
+  },
+  "100538": {
+    "slide_id": "TCGA-64-5775-01Z-00-DX1.9A338C1A-CDB6-41AF-B6D5-EDE608B5E3E1",
+    "slide_index": 538,
+    "dataset_index": 100538
+  },
+  "100539": {
+    "slide_id": "TCGA-39-5031-01Z-00-DX1.f9264b3b-9fdf-4fb7-8752-2d3ffd3de3ea",
+    "slide_index": 539,
+    "dataset_index": 100539
+  },
+  "100540": {
+    "slide_id": "TCGA-J2-A4AD-01Z-00-DX1.C3C3B0C6-0666-4CCF-8422-345560B237DA",
+    "slide_index": 540,
+    "dataset_index": 100540
+  },
+  "100541": {
+    "slide_id": "TCGA-62-A46U-01Z-00-DX1.5129535F-8B6A-4647-8A88-3EE125642874",
+    "slide_index": 541,
+    "dataset_index": 100541
+  },
+  "100542": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX1.bde106d9-1494-4775-b77d-11c86bb09b72",
+    "slide_index": 542,
+    "dataset_index": 100542
+  },
+  "100543": {
+    "slide_id": "TCGA-18-3416-01Z-00-DX1.EDAD3DEB-8A86-4F34-82EC-6691BFDE900D",
+    "slide_index": 543,
+    "dataset_index": 100543
+  },
+  "100544": {
+    "slide_id": "TCGA-60-2707-01Z-00-DX1.4aafd76b-eb0e-4ab9-a740-682c169a3c3d",
+    "slide_index": 544,
+    "dataset_index": 100544
+  },
+  "100545": {
+    "slide_id": "TCGA-90-7964-01Z-00-DX1.25D2CC5D-2383-41FE-B5D5-0ACFC0F8209B",
+    "slide_index": 545,
+    "dataset_index": 100545
+  },
+  "100546": {
+    "slide_id": "TCGA-60-2720-01Z-00-DX1.5ff16714-210d-44c3-856a-5877fd06e986",
+    "slide_index": 546,
+    "dataset_index": 100546
+  },
+  "100547": {
+    "slide_id": "TCGA-53-7813-01Z-00-DX1.97c5eff3-ceeb-499b-b2e1-bcd3cd60c5e7",
+    "slide_index": 547,
+    "dataset_index": 100547
+  },
+  "100548": {
+    "slide_id": "TCGA-94-7033-01Z-00-DX1.43146ed9-30a5-420d-bd92-b1acdce11103",
+    "slide_index": 548,
+    "dataset_index": 100548
+  },
+  "100549": {
+    "slide_id": "TCGA-05-4430-01Z-00-DX1.95659bbb-3091-4370-bc1d-6c6c1baa7b3d",
+    "slide_index": 549,
+    "dataset_index": 100549
+  },
+  "100550": {
+    "slide_id": "TCGA-69-8255-01Z-00-DX1.75d1666c-c088-405c-80da-52d84b990361",
+    "slide_index": 550,
+    "dataset_index": 100550
+  },
+  "100551": {
+    "slide_id": "TCGA-86-8281-01Z-00-DX1.02237263-003b-4de1-8a2f-0f3ad14768c7",
+    "slide_index": 551,
+    "dataset_index": 100551
+  },
+  "100552": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX7.9f722476-622e-4374-9fda-ef35184f01e0",
+    "slide_index": 552,
+    "dataset_index": 100552
+  },
+  "100553": {
+    "slide_id": "TCGA-22-5481-01Z-00-DX1.6BB77BD0-92FF-43FF-A86C-9EF41B2921DA",
+    "slide_index": 553,
+    "dataset_index": 100553
+  },
+  "100554": {
+    "slide_id": "TCGA-22-5479-01Z-00-DX1.3DCD4654-459D-4046-87C3-E59C61A1E7FA",
+    "slide_index": 554,
+    "dataset_index": 100554
+  },
+  "100555": {
+    "slide_id": "TCGA-85-8479-01Z-00-DX1.28fef288-9691-47dd-ad51-b2dc0cd84832",
+    "slide_index": 555,
+    "dataset_index": 100555
+  },
+  "100556": {
+    "slide_id": "TCGA-55-6642-01Z-00-DX1.0487cfc6-8216-4da3-aae1-a35452e9e4f6",
+    "slide_index": 556,
+    "dataset_index": 100556
+  },
+  "100557": {
+    "slide_id": "TCGA-80-5607-01Z-00-DX1.94C9CF78-2F79-4A0B-8939-1CD9B915222D",
+    "slide_index": 557,
+    "dataset_index": 100557
+  },
+  "100558": {
+    "slide_id": "TCGA-60-2703-01Z-00-DX1.13cdede5-0135-4e05-9478-3b728cad247e",
+    "slide_index": 558,
+    "dataset_index": 100558
+  },
+  "100559": {
+    "slide_id": "TCGA-18-4086-01Z-00-DX1.1D06B771-F978-4763-8D4E-7B540E02C55A",
+    "slide_index": 559,
+    "dataset_index": 100559
+  },
+  "100560": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX5.1e9e22d6-a4c9-40d1-aedb-b6cd404fe16f",
+    "slide_index": 560,
+    "dataset_index": 100560
+  },
+  "100561": {
+    "slide_id": "TCGA-39-5029-01Z-00-DX1.74c5cb38-650e-4fe7-bc63-f6e88761346d",
+    "slide_index": 561,
+    "dataset_index": 100561
+  },
+  "100562": {
+    "slide_id": "TCGA-69-7761-01Z-00-DX1.aa7ef5ef-8162-4961-a923-3a29646efba3",
+    "slide_index": 562,
+    "dataset_index": 100562
+  },
+  "100563": {
+    "slide_id": "TCGA-MP-A4TA-01Z-00-DX1.11DDADA4-B7A2-4216-9B18-7AD993AE12E4",
+    "slide_index": 563,
+    "dataset_index": 100563
+  },
+  "100564": {
+    "slide_id": "TCGA-21-1079-01Z-00-DX1.fb8e44cd-f73f-48a4-82d2-34f334d79f53",
+    "slide_index": 564,
+    "dataset_index": 100564
+  },
+  "100565": {
+    "slide_id": "TCGA-69-A59K-01Z-00-DX1.01EAF520-9AC1-4ECC-8EF3-B9122924A1E3",
+    "slide_index": 565,
+    "dataset_index": 100565
+  },
+  "100566": {
+    "slide_id": "TCGA-85-A511-01Z-00-DX1.24345C5F-BDC2-4D9D-BAE5-686B4C8C66DE",
+    "slide_index": 566,
+    "dataset_index": 100566
+  },
+  "100567": {
+    "slide_id": "TCGA-NC-A5HT-01Z-00-DX1.9295B0E3-37FE-4914-AFB3-78B56C893B6D",
+    "slide_index": 567,
+    "dataset_index": 100567
+  },
+  "100568": {
+    "slide_id": "TCGA-77-8153-01Z-00-DX1.E8E40968-E7AD-4EA2-A832-8EC04D5CB7A1",
+    "slide_index": 568,
+    "dataset_index": 100568
+  },
+  "100569": {
+    "slide_id": "TCGA-NC-A5HK-01Z-00-DX1.9CC2445A-D1EA-4E6E-96CF-710D2CDA073B",
+    "slide_index": 569,
+    "dataset_index": 100569
+  },
+  "100570": {
+    "slide_id": "TCGA-43-6770-01Z-00-DX1.466dd07f-b147-48bb-9349-fe1f5f3bcae5",
+    "slide_index": 570,
+    "dataset_index": 100570
+  },
+  "100571": {
+    "slide_id": "TCGA-77-7140-01Z-00-DX1.e75db0f0-839e-4ade-aa52-aa4736318d6c",
+    "slide_index": 571,
+    "dataset_index": 100571
+  },
+  "100572": {
+    "slide_id": "TCGA-85-8276-01Z-00-DX1.6306624d-e197-4744-a872-0a20413bd9fa",
+    "slide_index": 572,
+    "dataset_index": 100572
+  },
+  "100573": {
+    "slide_id": "TCGA-33-AASI-01Z-00-DX1.71BC119D-9916-4214-9294-26301F2E430F",
+    "slide_index": 573,
+    "dataset_index": 100573
+  },
+  "100574": {
+    "slide_id": "TCGA-43-5668-01Z-00-DX1.0d024872-fbcc-4e91-948b-acc96a00d5eb",
+    "slide_index": 574,
+    "dataset_index": 100574
+  },
+  "100575": {
+    "slide_id": "TCGA-49-AAR0-01Z-00-DX1.1635383C-0FB3-4CF9-BABC-08AC19CCE501",
+    "slide_index": 575,
+    "dataset_index": 100575
+  },
+  "100576": {
+    "slide_id": "TCGA-78-7159-01Z-00-DX1.399d865f-f4f9-4602-b15b-908be0afe459",
+    "slide_index": 576,
+    "dataset_index": 100576
+  },
+  "100577": {
+    "slide_id": "TCGA-44-2664-01Z-00-DX1.35c75ae5-eee0-4e69-a13a-31b5fad9869a",
+    "slide_index": 577,
+    "dataset_index": 100577
+  },
+  "100578": {
+    "slide_id": "TCGA-77-6843-01Z-00-DX1.5ced4995-81a1-4dfd-82b2-0cabf4538bc5",
+    "slide_index": 578,
+    "dataset_index": 100578
+  },
+  "100579": {
+    "slide_id": "TCGA-77-8133-01Z-00-DX1.fcc117be-cc86-437a-8500-edb045d4195a",
+    "slide_index": 579,
+    "dataset_index": 100579
+  },
+  "100580": {
+    "slide_id": "TCGA-44-7662-01Z-00-DX1.2f0b6cea-795a-40ad-93a9-319858e6fb3b",
+    "slide_index": 580,
+    "dataset_index": 100580
+  },
+  "100581": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX3.0949a10a-0a1f-49dc-9296-ab4d4f0bf988",
+    "slide_index": 581,
+    "dataset_index": 100581
+  },
+  "100582": {
+    "slide_id": "TCGA-98-A53H-01Z-00-DX1.B05E6339-440C-4F2E-95B5-F2C96413D488",
+    "slide_index": 582,
+    "dataset_index": 100582
+  },
+  "100583": {
+    "slide_id": "TCGA-38-4625-01Z-00-DX1.ffdbfc1d-7a21-4e67-a54f-89597bd14a7f",
+    "slide_index": 583,
+    "dataset_index": 100583
+  },
+  "100584": {
+    "slide_id": "TCGA-66-2781-01Z-00-DX1.ed9ff5b7-7c66-4bf7-bfb5-ca48b9e1a54e",
+    "slide_index": 584,
+    "dataset_index": 100584
+  },
+  "100585": {
+    "slide_id": "TCGA-56-A4BY-01Z-00-DX1.DCA0D153-7DB7-44FB-A87A-20931D36856A",
+    "slide_index": 585,
+    "dataset_index": 100585
+  },
+  "100586": {
+    "slide_id": "TCGA-49-AARN-01Z-00-DX1.E13AA041-978E-427D-AFA5-D3180224A03A",
+    "slide_index": 586,
+    "dataset_index": 100586
+  },
+  "100587": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX2.62dcecc8-576b-406b-81db-1651e5ea589e",
+    "slide_index": 587,
+    "dataset_index": 100587
+  },
+  "100588": {
+    "slide_id": "TCGA-43-3920-01Z-00-DX1.33ab7101-e3e6-4156-9c16-efae940c8156",
+    "slide_index": 588,
+    "dataset_index": 100588
+  },
+  "100589": {
+    "slide_id": "TCGA-56-8629-01Z-00-DX1.6F79BFD6-36B0-46F4-918B-2F4FF083E3E3",
+    "slide_index": 589,
+    "dataset_index": 100589
+  },
+  "100590": {
+    "slide_id": "TCGA-77-7139-01Z-00-DX1.b8b79b0c-4ea0-4f6c-8e6e-29ad76eca78f",
+    "slide_index": 590,
+    "dataset_index": 100590
+  },
+  "100591": {
+    "slide_id": "TCGA-69-7765-01Z-00-DX1.ac389366-febb-488c-9190-fe00bc07cd20",
+    "slide_index": 591,
+    "dataset_index": 100591
+  },
+  "100592": {
+    "slide_id": "TCGA-MP-A4SW-01Z-00-DX1.A6651B25-A35A-4BDE-9EBF-D264A02003C8",
+    "slide_index": 592,
+    "dataset_index": 100592
+  },
+  "100593": {
+    "slide_id": "TCGA-98-8022-01Z-00-DX1.870ca00a-d779-4948-80b2-0f19d0f36b16",
+    "slide_index": 593,
+    "dataset_index": 100593
+  },
+  "100594": {
+    "slide_id": "TCGA-51-4080-01Z-00-DX1.fd660ce3-3e30-4907-b54a-81002ec071f2",
+    "slide_index": 594,
+    "dataset_index": 100594
+  },
+  "100595": {
+    "slide_id": "TCGA-NC-A5HD-01Z-00-DX1.881DF35E-F816-4705-9589-6FB72784A905",
+    "slide_index": 595,
+    "dataset_index": 100595
+  },
+  "100596": {
+    "slide_id": "TCGA-78-7160-01Z-00-DX1.f40f6c04-74b1-4cef-aabc-cbafadbdf39f",
+    "slide_index": 596,
+    "dataset_index": 100596
+  },
+  "100597": {
+    "slide_id": "TCGA-77-7337-01Z-00-DX1.e15727e3-e9c8-44a0-87bb-caeaeb00840c",
+    "slide_index": 597,
+    "dataset_index": 100597
+  },
+  "100598": {
+    "slide_id": "TCGA-66-2788-01Z-00-DX1.1a57324a-5b00-44ed-912d-9522d0141500",
+    "slide_index": 598,
+    "dataset_index": 100598
+  },
+  "100599": {
+    "slide_id": "TCGA-56-6546-01Z-00-DX1.4fecf41b-6757-4c0d-98c4-24b9a65144f1",
+    "slide_index": 599,
+    "dataset_index": 100599
+  },
+  "100600": {
+    "slide_id": "TCGA-55-6978-01Z-00-DX1.2ef6d6aa-2a19-4bce-b845-cc83ac81a1c3",
+    "slide_index": 600,
+    "dataset_index": 100600
+  },
+  "100601": {
+    "slide_id": "TCGA-44-3919-01Z-00-DX1.41144972-46a1-4b25-9faa-ed1b9d1996d2",
+    "slide_index": 601,
+    "dataset_index": 100601
+  },
+  "100602": {
+    "slide_id": "TCGA-34-8455-01Z-00-DX1.9B7A1CBA-0B53-4F2A-9AEC-D72FDB6553F7",
+    "slide_index": 602,
+    "dataset_index": 100602
+  },
+  "100603": {
+    "slide_id": "TCGA-66-2734-01Z-00-DX1.2c23bc49-e2be-480a-b6a8-d3259a584930",
+    "slide_index": 603,
+    "dataset_index": 100603
+  },
+  "100604": {
+    "slide_id": "TCGA-O2-A52N-01Z-00-DX1.FF1DD149-4DBE-44C7-872D-FA7E8FE770A8",
+    "slide_index": 604,
+    "dataset_index": 100604
+  },
+  "100605": {
+    "slide_id": "TCGA-44-3396-01Z-00-DX1.187b0a68-ad51-4fcd-819c-b74a8599dbe9",
+    "slide_index": 605,
+    "dataset_index": 100605
+  },
+  "100606": {
+    "slide_id": "TCGA-78-7536-01Z-00-DX1.6b066140-8b82-40a5-bd48-430eeb4463fe",
+    "slide_index": 606,
+    "dataset_index": 100606
+  },
+  "100607": {
+    "slide_id": "TCGA-44-6144-01Z-00-DX1.604b3c7c-92e8-474a-bae8-e48415ea6196",
+    "slide_index": 607,
+    "dataset_index": 100607
+  },
+  "100608": {
+    "slide_id": "TCGA-50-5055-01Z-00-DX2.446EC3BB-2ED7-4253-8A39-AC68331F08E7",
+    "slide_index": 608,
+    "dataset_index": 100608
+  },
+  "100609": {
+    "slide_id": "TCGA-55-6969-01Z-00-DX1.713df9f6-1a91-4e0e-ad43-42e66dcca191",
+    "slide_index": 609,
+    "dataset_index": 100609
+  },
+  "100610": {
+    "slide_id": "TCGA-86-A4P7-01Z-00-DX1.37026DCF-5A81-4098-B444-C8A40CA168D0",
+    "slide_index": 610,
+    "dataset_index": 100610
+  },
+  "100611": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX7.1f758560-85e2-4cf9-a81a-317536d96bcc",
+    "slide_index": 611,
+    "dataset_index": 100611
+  },
+  "100612": {
+    "slide_id": "TCGA-22-4609-01Z-00-DX1.35112DF6-5AD4-4EF5-8D00-41AEED41C246",
+    "slide_index": 612,
+    "dataset_index": 100612
+  },
+  "100613": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX4.4c6a4560-adee-4fc9-8fd8-feb7f89e51e3",
+    "slide_index": 613,
+    "dataset_index": 100613
+  },
+  "100614": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX3.341ea7ac-ee5f-4ad2-9d01-d81a4d2e9b13",
+    "slide_index": 614,
+    "dataset_index": 100614
+  },
+  "100615": {
+    "slide_id": "TCGA-39-5040-01Z-00-DX1.F314DFF3-AEBE-4171-8F04-5D2A61FDE208",
+    "slide_index": 615,
+    "dataset_index": 100615
+  },
+  "100616": {
+    "slide_id": "TCGA-78-7163-01Z-00-DX1.42880bdf-271d-41dd-aada-e7ec1156ff31",
+    "slide_index": 616,
+    "dataset_index": 100616
+  },
+  "100617": {
+    "slide_id": "TCGA-46-3769-01Z-00-DX1.97260244-fe08-42da-b5db-80da7f7d8766",
+    "slide_index": 617,
+    "dataset_index": 100617
+  },
+  "100618": {
+    "slide_id": "TCGA-97-8552-01Z-00-DX1.69631717-0E05-49C1-B112-15C2E36BC2F8",
+    "slide_index": 618,
+    "dataset_index": 100618
+  },
+  "100619": {
+    "slide_id": "TCGA-66-2758-01Z-00-DX1.23611c66-bd21-47d1-abb0-2f3da38c377f",
+    "slide_index": 619,
+    "dataset_index": 100619
+  },
+  "100620": {
+    "slide_id": "TCGA-MP-A4TD-01Z-00-DX1.937DEBC9-F5D5-4682-AA9A-13D8226EE06C",
+    "slide_index": 620,
+    "dataset_index": 100620
+  },
+  "100621": {
+    "slide_id": "TCGA-86-7713-01Z-00-DX1.23f9e213-b566-47bb-beb8-7d12b2f0508b",
+    "slide_index": 621,
+    "dataset_index": 100621
+  },
+  "100622": {
+    "slide_id": "TCGA-55-7283-01Z-00-DX1.0f716216-0a46-404e-a4d4-5bb6d7e3f0d1",
+    "slide_index": 622,
+    "dataset_index": 100622
+  },
+  "100623": {
+    "slide_id": "TCGA-55-8513-01Z-00-DX1.E21776FE-DF49-48D1-90D6-6F71D0764492",
+    "slide_index": 623,
+    "dataset_index": 100623
+  },
+  "100624": {
+    "slide_id": "TCGA-18-3410-01Z-00-DX1.DB186D75-4AEE-4E1B-83D5-5A1970F03581",
+    "slide_index": 624,
+    "dataset_index": 100624
+  },
+  "100625": {
+    "slide_id": "TCGA-70-6723-01Z-00-DX1.1e6468e8-0d39-48a9-af32-9968f9207810",
+    "slide_index": 625,
+    "dataset_index": 100625
+  },
+  "100626": {
+    "slide_id": "TCGA-44-2668-01Z-00-DX1.f66fa464-dad1-4a9f-8486-3d7579ca42b6",
+    "slide_index": 626,
+    "dataset_index": 100626
+  },
+  "100627": {
+    "slide_id": "TCGA-85-6175-01Z-00-DX1.102f9bad-4084-4e3a-99e9-91e026ad9a62",
+    "slide_index": 627,
+    "dataset_index": 100627
+  },
+  "100628": {
+    "slide_id": "TCGA-86-8672-01Z-00-DX1.94ca1954-921d-4ef6-a078-4e0fcb09157f",
+    "slide_index": 628,
+    "dataset_index": 100628
+  },
+  "100629": {
+    "slide_id": "TCGA-35-3615-01Z-00-DX1.585128eb-6652-4b05-9a83-dc8f242904a6",
+    "slide_index": 629,
+    "dataset_index": 100629
+  },
+  "100630": {
+    "slide_id": "TCGA-50-6590-01Z-00-DX1.B08B2656-3DC7-4D35-A54D-9C57A7A773B3",
+    "slide_index": 630,
+    "dataset_index": 100630
+  },
+  "100631": {
+    "slide_id": "TCGA-O1-A52J-01Z-00-DX1.26F6ECCA-D614-4950-98E6-4D76E82F71B4",
+    "slide_index": 631,
+    "dataset_index": 100631
+  },
+  "100632": {
+    "slide_id": "TCGA-MP-A4T7-01Z-00-DX1.C74D7A5B-1D1A-423B-85CA-C11E0CCF5873",
+    "slide_index": 632,
+    "dataset_index": 100632
+  },
+  "100633": {
+    "slide_id": "TCGA-66-2744-01Z-00-DX1.e67796a0-fc9e-4137-8cbf-fae91ea90a7c",
+    "slide_index": 633,
+    "dataset_index": 100633
+  },
+  "100634": {
+    "slide_id": "TCGA-MN-A4N5-01Z-00-DX1.D0FBA0D2-6245-4EFD-AF2B-849215600DBE",
+    "slide_index": 634,
+    "dataset_index": 100634
+  },
+  "100635": {
+    "slide_id": "TCGA-66-2795-01Z-00-DX1.4141cb69-b675-49c4-85c5-21d630b5143d",
+    "slide_index": 635,
+    "dataset_index": 100635
+  },
+  "100636": {
+    "slide_id": "TCGA-66-2742-01Z-00-DX1.8fdd6990-a08c-457b-80e4-586c619a784e",
+    "slide_index": 636,
+    "dataset_index": 100636
+  },
+  "100637": {
+    "slide_id": "TCGA-55-A48Y-01Z-00-DX1.D8735347-E060-439F-B5A1-1E47A958A392",
+    "slide_index": 637,
+    "dataset_index": 100637
+  },
+  "100638": {
+    "slide_id": "TCGA-60-2711-01Z-00-DX1.186b9a92-fcae-45b6-a52c-e8da0c1a419c",
+    "slide_index": 638,
+    "dataset_index": 100638
+  },
+  "100639": {
+    "slide_id": "TCGA-95-8494-01Z-00-DX1.716299EF-71BB-4095-8F4D-F0C2252CE594",
+    "slide_index": 639,
+    "dataset_index": 100639
+  },
+  "100640": {
+    "slide_id": "TCGA-37-A5EM-01Z-00-DX1.FF7B9A1C-9D2C-43E4-9AE9-711214ACF77D",
+    "slide_index": 640,
+    "dataset_index": 100640
+  },
+  "100641": {
+    "slide_id": "TCGA-63-A5MI-01Z-00-DX1.D9A91E42-FF46-4A88-90A0-2A0214634EB4",
+    "slide_index": 641,
+    "dataset_index": 100641
+  },
+  "100642": {
+    "slide_id": "TCGA-MN-A4N4-01Z-00-DX1.7D8352EF-7A4B-4084-9612-CF92D9D16041",
+    "slide_index": 642,
+    "dataset_index": 100642
+  },
+  "100643": {
+    "slide_id": "TCGA-44-A47A-01Z-00-DX1.62448803-3A7B-41EC-9794-67916DA0792E",
+    "slide_index": 643,
+    "dataset_index": 100643
+  },
+  "100644": {
+    "slide_id": "TCGA-97-A4M3-01Z-00-DX1.16330A66-2501-48D2-AF6A-713698BF6918",
+    "slide_index": 644,
+    "dataset_index": 100644
+  },
+  "100645": {
+    "slide_id": "TCGA-55-8621-01Z-00-DX1.7C519007-D59D-432A-BF4D-23D14A1C8BB6",
+    "slide_index": 645,
+    "dataset_index": 100645
+  },
+  "100646": {
+    "slide_id": "TCGA-67-6217-01Z-00-DX1.3fa5c69b-60d1-41fb-a86f-48f77d81285f",
+    "slide_index": 646,
+    "dataset_index": 100646
+  },
+  "100647": {
+    "slide_id": "TCGA-56-7822-01Z-00-DX1.c387e241-ff4c-44ef-af45-12a85066f0ce",
+    "slide_index": 647,
+    "dataset_index": 100647
+  },
+  "100648": {
+    "slide_id": "TCGA-56-7222-01Z-00-DX1.f932abe9-4f5c-46d8-908b-29669681d2db",
+    "slide_index": 648,
+    "dataset_index": 100648
+  },
+  "100649": {
+    "slide_id": "TCGA-MP-A4T8-01Z-00-DX1.3ECB340F-66C7-4F64-8E00-463BF82AAD83",
+    "slide_index": 649,
+    "dataset_index": 100649
+  },
+  "100650": {
+    "slide_id": "TCGA-85-8353-01Z-00-DX1.2A333CFA-3D8A-41B2-9D08-8AAF431BFE54",
+    "slide_index": 650,
+    "dataset_index": 100650
+  },
+  "100651": {
+    "slide_id": "TCGA-44-2662-01Z-00-DX1.398f3f84-fd48-4454-b789-a3e90cd36d73",
+    "slide_index": 651,
+    "dataset_index": 100651
+  },
+  "100652": {
+    "slide_id": "TCGA-33-4533-01Z-00-DX1.ee36717d-0571-40b3-8ab5-5465d2cca920",
+    "slide_index": 652,
+    "dataset_index": 100652
+  },
+  "100653": {
+    "slide_id": "TCGA-55-8506-01Z-00-DX1.A908E3D2-91F7-4DE2-98C9-95D1038B9F49",
+    "slide_index": 653,
+    "dataset_index": 100653
+  },
+  "100654": {
+    "slide_id": "TCGA-05-4382-01Z-00-DX1.76b49a4c-dbbb-48b0-b677-6d3037e5ce88",
+    "slide_index": 654,
+    "dataset_index": 100654
+  },
+  "100655": {
+    "slide_id": "TCGA-44-A47B-01Z-00-DX1.177D0531-E037-435B-BFD4-382B2150B10D",
+    "slide_index": 655,
+    "dataset_index": 100655
+  },
+  "100656": {
+    "slide_id": "TCGA-85-A4JC-01Z-00-DX1.6B4ED63F-ADF9-49F4-A30B-AB3A5EEFDDB7",
+    "slide_index": 656,
+    "dataset_index": 100656
+  },
+  "100657": {
+    "slide_id": "TCGA-92-8063-01Z-00-DX1.692a8000-846e-4ed7-b790-b3281acb9dec",
+    "slide_index": 657,
+    "dataset_index": 100657
+  },
+  "100658": {
+    "slide_id": "TCGA-69-7980-01Z-00-DX1.8bbf8cc0-eca7-49e5-a022-c22e3e6ed6dc",
+    "slide_index": 658,
+    "dataset_index": 100658
+  },
+  "100659": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX4.4e94aeb6-f616-4bdd-82bc-2ca2f2b5a5c4",
+    "slide_index": 659,
+    "dataset_index": 100659
+  },
+  "100660": {
+    "slide_id": "TCGA-05-4424-01Z-00-DX1.4892016C-1A96-4A72-ACB8-FFD282FC4E69",
+    "slide_index": 660,
+    "dataset_index": 100660
+  },
+  "100661": {
+    "slide_id": "TCGA-60-2716-01Z-00-DX1.28642302-a114-4e80-b9db-c04eee7d92d8",
+    "slide_index": 661,
+    "dataset_index": 100661
+  },
+  "100662": {
+    "slide_id": "TCGA-LA-A7SW-01Z-00-DX1.A65863F5-EA8F-46F5-A4D1-52FAD3D93E26",
+    "slide_index": 662,
+    "dataset_index": 100662
+  },
+  "100663": {
+    "slide_id": "TCGA-69-8254-01Z-00-DX1.83a81d08-8c70-4f07-b4da-cbd17c4fe4d4",
+    "slide_index": 663,
+    "dataset_index": 100663
+  },
+  "100664": {
+    "slide_id": "TCGA-77-A5G6-01Z-00-DX1.5AE97930-9554-40BD-A24A-17CA4273F2ED",
+    "slide_index": 664,
+    "dataset_index": 100664
+  },
+  "100665": {
+    "slide_id": "TCGA-85-A4QR-01Z-00-DX1.B5E18F89-D5B4-4F51-BC7E-9FA868A6A443",
+    "slide_index": 665,
+    "dataset_index": 100665
+  },
+  "100666": {
+    "slide_id": "TCGA-05-4397-01Z-00-DX1.00e9cdb3-b50e-439c-86b0-d7b73b802c0d",
+    "slide_index": 666,
+    "dataset_index": 100666
+  },
+  "100667": {
+    "slide_id": "TCGA-66-2789-01Z-00-DX1.93719e52-7dd4-4bbb-b908-c91db1d99b76",
+    "slide_index": 667,
+    "dataset_index": 100667
+  },
+  "100668": {
+    "slide_id": "TCGA-05-4396-01Z-00-DX1.49DD5F68-7473-4945-B384-EA6D5AE383CB",
+    "slide_index": 668,
+    "dataset_index": 100668
+  },
+  "100669": {
+    "slide_id": "TCGA-78-7152-01Z-00-DX1.a04f9d84-3304-402c-9c0c-f64545c14781",
+    "slide_index": 669,
+    "dataset_index": 100669
+  },
+  "100670": {
+    "slide_id": "TCGA-33-AASD-01Z-00-DX1.DAB3D05A-A6CE-47D1-90B6-79EBABAC3454",
+    "slide_index": 670,
+    "dataset_index": 100670
+  },
+  "100671": {
+    "slide_id": "TCGA-73-7498-01Z-00-DX1.5313bba9-7f6a-49b4-8d6e-a0f46a04f189",
+    "slide_index": 671,
+    "dataset_index": 100671
+  },
+  "100672": {
+    "slide_id": "TCGA-44-7660-01Z-00-DX1.f96c114b-f0fc-498a-97cc-e262344de357",
+    "slide_index": 672,
+    "dataset_index": 100672
+  },
+  "100673": {
+    "slide_id": "TCGA-NC-A5HR-01Z-00-DX1.B8B85EDD-96A6-40DF-B3BF-C97311A7E552",
+    "slide_index": 673,
+    "dataset_index": 100673
+  },
+  "100674": {
+    "slide_id": "TCGA-85-8584-01Z-00-DX1.859bb615-578f-4aad-b1e3-8c92b7e3ef2d",
+    "slide_index": 674,
+    "dataset_index": 100674
+  },
+  "100675": {
+    "slide_id": "TCGA-64-5778-01Z-00-DX1.96C39819-8A65-4651-BE83-39959F6FAD05",
+    "slide_index": 675,
+    "dataset_index": 100675
+  },
+  "100676": {
+    "slide_id": "TCGA-34-5929-01Z-00-DX1.a461aed7-0ba9-44dc-8f5b-941cb57aa855",
+    "slide_index": 676,
+    "dataset_index": 100676
+  },
+  "100677": {
+    "slide_id": "TCGA-22-5474-01Z-00-DX1.8736FB24-7E65-4ACB-9325-382D7F864F62",
+    "slide_index": 677,
+    "dataset_index": 100677
+  },
+  "100678": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX4.a340ca7a-a732-482c-8df6-bcdcf14890cd",
+    "slide_index": 678,
+    "dataset_index": 100678
+  },
+  "100679": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX2.3a2fa17d-0297-4b0c-8a5f-aa18c5342ef4",
+    "slide_index": 679,
+    "dataset_index": 100679
+  },
+  "100680": {
+    "slide_id": "TCGA-49-AAR2-01Z-00-DX1.1F09F896-446E-4C55-8D01-6C34A98AB1D2",
+    "slide_index": 680,
+    "dataset_index": 100680
+  },
+  "100681": {
+    "slide_id": "TCGA-XC-AA0X-01Z-00-DX1.61A34BE0-F16B-4EC1-8E7F-7BF94F6629F4",
+    "slide_index": 681,
+    "dataset_index": 100681
+  },
+  "100682": {
+    "slide_id": "TCGA-66-2783-01Z-00-DX1.34df2ea9-f8d8-448e-bd54-02364f434355",
+    "slide_index": 682,
+    "dataset_index": 100682
+  },
+  "100683": {
+    "slide_id": "TCGA-50-5931-01Z-00-DX1.34261ED6-7815-487C-A50C-2DAD587187B9",
+    "slide_index": 683,
+    "dataset_index": 100683
+  },
+  "100684": {
+    "slide_id": "TCGA-44-4112-01Z-00-DX1.5380b3b4-0e24-4c6c-aa8c-298c5fbe068f",
+    "slide_index": 684,
+    "dataset_index": 100684
+  },
+  "100685": {
+    "slide_id": "TCGA-O2-A52W-01Z-00-DX1.3D388EB0-8402-4540-9E50-7C3757FA5D83",
+    "slide_index": 685,
+    "dataset_index": 100685
+  },
+  "100686": {
+    "slide_id": "TCGA-46-3767-01Z-00-DX1.1f1899f9-7d6e-438c-b7ac-701ea088734d",
+    "slide_index": 686,
+    "dataset_index": 100686
+  },
+  "100687": {
+    "slide_id": "TCGA-44-6777-01Z-00-DX1.aca7b23d-a601-4476-8bfd-eb46f0b6a96e",
+    "slide_index": 687,
+    "dataset_index": 100687
+  },
+  "100688": {
+    "slide_id": "TCGA-78-7153-01Z-00-DX1.5190321a-f1aa-4c6e-b4b9-6767b779682b",
+    "slide_index": 688,
+    "dataset_index": 100688
+  },
+  "100689": {
+    "slide_id": "TCGA-21-1081-01Z-00-DX1.fce8927a-2c5f-4a64-8414-da66424b3859",
+    "slide_index": 689,
+    "dataset_index": 100689
+  },
+  "100690": {
+    "slide_id": "TCGA-60-2723-01Z-00-DX1.1c12de5a-5d31-468e-9169-feb23d24e7d6",
+    "slide_index": 690,
+    "dataset_index": 100690
+  },
+  "100691": {
+    "slide_id": "TCGA-MN-A4N4-01Z-00-DX2.9550732D-8FB1-43D9-B094-7C0CD310E9C0",
+    "slide_index": 691,
+    "dataset_index": 100691
+  },
+  "100692": {
+    "slide_id": "TCGA-55-A48X-01Z-00-DX1.A46C6373-8458-4D55-88C3-4C70A05F9F47",
+    "slide_index": 692,
+    "dataset_index": 100692
+  },
+  "100693": {
+    "slide_id": "TCGA-22-1016-01Z-00-DX1.807510FD-222D-4E65-B261-3EB0815F8A50",
+    "slide_index": 693,
+    "dataset_index": 100693
+  },
+  "100694": {
+    "slide_id": "TCGA-22-5471-01Z-00-DX1.AACEB098-E9B8-4A2B-905E-7D66BE962922",
+    "slide_index": 694,
+    "dataset_index": 100694
+  },
+  "100695": {
+    "slide_id": "TCGA-97-A4M7-01Z-00-DX2.9D0A8A7E-5A84-439B-B3D1-DFA22BC6ED87",
+    "slide_index": 695,
+    "dataset_index": 100695
+  },
+  "100696": {
+    "slide_id": "TCGA-05-4433-01Z-00-DX1.5843D3CC-CB24-4A0A-BB65-78A5DAA11D84",
+    "slide_index": 696,
+    "dataset_index": 100696
+  },
+  "100697": {
+    "slide_id": "TCGA-43-7657-01Z-00-DX1.d8a5d257-c5ca-4192-b6a7-4698b8390fca",
+    "slide_index": 697,
+    "dataset_index": 100697
+  },
+  "100698": {
+    "slide_id": "TCGA-55-6712-01Z-00-DX1.8cd4b879-294e-4da0-8636-704f61b510dc",
+    "slide_index": 698,
+    "dataset_index": 100698
+  },
+  "100699": {
+    "slide_id": "TCGA-85-A510-01Z-00-DX1.F51CBC2D-EAD4-48B8-9444-C864012562F4",
+    "slide_index": 699,
+    "dataset_index": 100699
+  },
+  "100700": {
+    "slide_id": "TCGA-86-8585-01Z-00-DX1.bc0b1c69-f71d-46fc-8195-2d205002e6e5",
+    "slide_index": 700,
+    "dataset_index": 100700
+  },
+  "100701": {
+    "slide_id": "TCGA-69-7974-01Z-00-DX1.e4282067-fc3d-4fee-bae7-fe99000979d4",
+    "slide_index": 701,
+    "dataset_index": 100701
+  },
+  "100702": {
+    "slide_id": "TCGA-96-8169-01Z-00-DX1.d2e29d5e-abd4-4f36-958c-d9d22b836a34",
+    "slide_index": 702,
+    "dataset_index": 100702
+  },
+  "100703": {
+    "slide_id": "TCGA-55-8510-01Z-00-DX1.BB1EAC72-6215-400B-BCBF-E3D51A60182D",
+    "slide_index": 703,
+    "dataset_index": 100703
+  },
+  "100704": {
+    "slide_id": "TCGA-86-7954-01Z-00-DX1.0a063ee6-18b7-4b66-9726-04fb452156cb",
+    "slide_index": 704,
+    "dataset_index": 100704
+  },
+  "100705": {
+    "slide_id": "TCGA-66-2786-01Z-00-DX1.5fd5c25f-cb17-4650-b59e-122c6ddafe86",
+    "slide_index": 705,
+    "dataset_index": 100705
+  },
+  "100706": {
+    "slide_id": "TCGA-86-8358-01Z-00-DX1.C50100F8-9414-4A06-BEDF-93E7B01B24D6",
+    "slide_index": 706,
+    "dataset_index": 100706
+  },
+  "100707": {
+    "slide_id": "TCGA-49-4510-01Z-00-DX2.e0552b15-6bd7-4660-8a60-9edd0d638e7e",
+    "slide_index": 707,
+    "dataset_index": 100707
+  },
+  "100708": {
+    "slide_id": "TCGA-50-8457-01Z-00-DX1.F4B6ECCE-F22B-43FC-9A08-4366A24A67A4",
+    "slide_index": 708,
+    "dataset_index": 100708
+  },
+  "100709": {
+    "slide_id": "TCGA-33-4532-01Z-00-DX3.a9eb5d3f-e5e4-45e0-8fca-3e50396445eb",
+    "slide_index": 709,
+    "dataset_index": 100709
+  },
+  "100710": {
+    "slide_id": "TCGA-NK-A5CR-01Z-00-DX1.A7C57B30-E2C6-4A23-AE71-7E4D7714F8EA",
+    "slide_index": 710,
+    "dataset_index": 100710
+  },
+  "100711": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX3.27b62beb-d3c4-493b-8663-73f128c0ad77",
+    "slide_index": 711,
+    "dataset_index": 100711
+  },
+  "100712": {
+    "slide_id": "TCGA-44-6779-01Z-00-DX1.40f10ad8-55f3-4043-a89b-37d33a26dd8c",
+    "slide_index": 712,
+    "dataset_index": 100712
+  },
+  "100713": {
+    "slide_id": "TCGA-44-A4SU-01Z-00-DX1.AE2607C1-B208-4557-ADB4-6AAF03C6D3A9",
+    "slide_index": 713,
+    "dataset_index": 100713
+  },
+  "100714": {
+    "slide_id": "TCGA-86-8669-01Z-00-DX1.845b8b4e-6445-4da1-8275-42b765c024cc",
+    "slide_index": 714,
+    "dataset_index": 100714
+  },
+  "100715": {
+    "slide_id": "TCGA-67-3773-01Z-00-DX1.3E9DFC22-E962-4C18-BF5B-27EBEA089F5D",
+    "slide_index": 715,
+    "dataset_index": 100715
+  },
+  "100716": {
+    "slide_id": "TCGA-33-4532-01Z-00-DX2.cd6e3f47-14fd-46e4-baf8-2e682ade44d1",
+    "slide_index": 716,
+    "dataset_index": 100716
+  },
+  "100717": {
+    "slide_id": "TCGA-86-A4D0-01Z-00-DX1.165461AD-A8DA-4B7B-87CE-F5DBDBD2C0A7",
+    "slide_index": 717,
+    "dataset_index": 100717
+  },
+  "100718": {
+    "slide_id": "TCGA-55-A4DF-01Z-00-DX1.C945E1AD-BEF4-403F-BB11-BAC831D24CDA",
+    "slide_index": 718,
+    "dataset_index": 100718
+  },
+  "100719": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX5.7198ce36-1fae-4da1-9f26-b7f43cf01133",
+    "slide_index": 719,
+    "dataset_index": 100719
+  },
+  "100720": {
+    "slide_id": "TCGA-97-A4M1-01Z-00-DX1.1C4B8247-BA3F-4841-BC9D-554F03F7894C",
+    "slide_index": 720,
+    "dataset_index": 100720
+  },
+  "100721": {
+    "slide_id": "TCGA-49-6767-01Z-00-DX1.53459c0e-b8ec-4893-9910-87b63c503134",
+    "slide_index": 721,
+    "dataset_index": 100721
+  },
+  "100722": {
+    "slide_id": "TCGA-98-A53A-01Z-00-DX1.CB328332-8AA9-483D-8BBF-5FD752A2A6B6",
+    "slide_index": 722,
+    "dataset_index": 100722
+  },
+  "100723": {
+    "slide_id": "TCGA-49-AAR3-01Z-00-DX1.B4D85F13-CEB4-46DA-BF39-0200B9E55835",
+    "slide_index": 723,
+    "dataset_index": 100723
+  },
+  "100724": {
+    "slide_id": "TCGA-60-2708-01Z-00-DX1.3b59f6dc-02f8-4118-9037-f18ebb9bd539",
+    "slide_index": 724,
+    "dataset_index": 100724
+  },
+  "100725": {
+    "slide_id": "TCGA-50-6593-01Z-00-DX1.a63e298c-cbe7-44e8-8d8e-34ebb93530ca",
+    "slide_index": 725,
+    "dataset_index": 100725
+  },
+  "100726": {
+    "slide_id": "TCGA-50-6591-01Z-00-DX1.12e1050b-75e9-4059-b945-291995b3e93c",
+    "slide_index": 726,
+    "dataset_index": 100726
+  },
+  "100727": {
+    "slide_id": "TCGA-43-A475-01Z-00-DX1.48694B33-6070-4D6E-9CE4-BDEF072500A1",
+    "slide_index": 727,
+    "dataset_index": 100727
+  },
+  "100728": {
+    "slide_id": "TCGA-63-A5MY-01Z-00-DX1.D3753889-13DC-40D4-8845-22A168F35256",
+    "slide_index": 728,
+    "dataset_index": 100728
+  },
+  "100729": {
+    "slide_id": "TCGA-86-8674-01Z-00-DX1.9fcaae4e-4062-45ab-a49d-7dba43040919",
+    "slide_index": 729,
+    "dataset_index": 100729
+  },
+  "100730": {
+    "slide_id": "TCGA-55-6986-01Z-00-DX1.ae52d41e-3cd6-4d36-b04b-2ea7d29bd8da",
+    "slide_index": 730,
+    "dataset_index": 100730
+  },
+  "100731": {
+    "slide_id": "TCGA-77-8154-01Z-00-DX1.5ca9afa5-e5d8-46d7-b542-c27649bd214e",
+    "slide_index": 731,
+    "dataset_index": 100731
+  },
+  "100732": {
+    "slide_id": "TCGA-63-5128-01Z-00-DX1.7D6C6ABF-D035-4F48-811B-629A0B4AD597",
+    "slide_index": 732,
+    "dataset_index": 100732
+  },
+  "100733": {
+    "slide_id": "TCGA-56-8304-01Z-00-DX1.F7A7975D-C8AB-49C0-B9CD-18CFD01A0655",
+    "slide_index": 733,
+    "dataset_index": 100733
+  },
+  "100734": {
+    "slide_id": "TCGA-60-2726-01Z-00-DX1.3c30934b-c93a-4dad-9c44-b417eae17137",
+    "slide_index": 734,
+    "dataset_index": 100734
+  },
+  "100735": {
+    "slide_id": "TCGA-94-8491-01Z-00-DX1.CC486AFA-3215-4CED-9000-EE4095FF7947",
+    "slide_index": 735,
+    "dataset_index": 100735
+  },
+  "100736": {
+    "slide_id": "TCGA-56-6545-01Z-00-DX1.24a6678b-2dbf-4539-844e-1e3786c3fac3",
+    "slide_index": 736,
+    "dataset_index": 100736
+  },
+  "100737": {
+    "slide_id": "TCGA-NK-A5D1-01Z-00-DX1.CE05BFD3-F0C6-4440-AD09-8569D2BB89FA",
+    "slide_index": 737,
+    "dataset_index": 100737
+  },
+  "100738": {
+    "slide_id": "TCGA-43-A56U-01Z-00-DX1.B60C921A-4EE4-4CAE-9E55-311C7D2DA9E4",
+    "slide_index": 738,
+    "dataset_index": 100738
+  },
+  "100739": {
+    "slide_id": "TCGA-94-8490-01Z-00-DX1.5A44A8C6-38F4-47A4-80C6-7BB805E9116C",
+    "slide_index": 739,
+    "dataset_index": 100739
+  },
+  "100740": {
+    "slide_id": "TCGA-49-AARR-01Z-00-DX1.9BCAFE3D-447C-40D6-85DD-AFABF6978376",
+    "slide_index": 740,
+    "dataset_index": 100740
+  },
+  "100741": {
+    "slide_id": "TCGA-63-A5ML-01Z-00-DX1.14703756-F6F7-4EEF-A462-7D40910AE04D",
+    "slide_index": 741,
+    "dataset_index": 100741
+  },
+  "100742": {
+    "slide_id": "TCGA-44-6147-01Z-00-DX1.a34a9f49-e86b-43ee-9e2d-7ef35da0aecf",
+    "slide_index": 742,
+    "dataset_index": 100742
+  },
+  "100743": {
+    "slide_id": "TCGA-85-8351-01Z-00-DX1.E3340212-A6C4-4CB4-89A3-E632D3481BE4",
+    "slide_index": 743,
+    "dataset_index": 100743
+  },
+  "100744": {
+    "slide_id": "TCGA-55-7727-01Z-00-DX1.0c7a4953-16dc-41e0-845b-b89167ec17d7",
+    "slide_index": 744,
+    "dataset_index": 100744
+  },
+  "100745": {
+    "slide_id": "TCGA-95-A4VK-01Z-00-DX1.D09778E0-285E-4593-84C8-B6009DDF4E41",
+    "slide_index": 745,
+    "dataset_index": 100745
+  },
+  "100746": {
+    "slide_id": "TCGA-56-7582-01Z-00-DX1.81e6c419-f6a1-49cf-9a83-7c1a679fbfc6",
+    "slide_index": 746,
+    "dataset_index": 100746
+  },
+  "100747": {
+    "slide_id": "TCGA-63-7020-01Z-00-DX1.33435AC2-9EBC-422C-89DB-962153E8F3F6",
+    "slide_index": 747,
+    "dataset_index": 100747
+  },
+  "100748": {
+    "slide_id": "TCGA-49-4501-01Z-00-DX2.07b7723d-136b-490c-9dd3-7f3aef78d3d9",
+    "slide_index": 748,
+    "dataset_index": 100748
+  },
+  "100749": {
+    "slide_id": "TCGA-55-7576-01Z-00-DX1.3a6142e9-c90a-4938-a1d1-061c2ac261f0",
+    "slide_index": 749,
+    "dataset_index": 100749
+  },
+  "100750": {
+    "slide_id": "TCGA-63-7021-01Z-00-DX1.568DD2DB-2196-4817-AA00-8843F9A24A62",
+    "slide_index": 750,
+    "dataset_index": 100750
+  },
+  "100751": {
+    "slide_id": "TCGA-56-7730-01Z-00-DX1.6f127663-c517-4b5d-99a6-a3cd314304b1",
+    "slide_index": 751,
+    "dataset_index": 100751
+  },
+  "100752": {
+    "slide_id": "TCGA-22-0944-01Z-00-DX1.3DC7624F-2D59-40D5-9E1F-95FCCD80D0C4",
+    "slide_index": 752,
+    "dataset_index": 100752
+  },
+  "100753": {
+    "slide_id": "TCGA-05-4422-01Z-00-DX1.4802093f-71ea-43d5-bd92-b4bd7fc8c5bf",
+    "slide_index": 753,
+    "dataset_index": 100753
+  },
+  "100754": {
+    "slide_id": "TCGA-18-3415-01Z-00-DX1.8C62F2CD-4A2F-4D1E-A662-D7D5AFE557AB",
+    "slide_index": 754,
+    "dataset_index": 100754
+  },
+  "100755": {
+    "slide_id": "TCGA-NC-A5HO-01Z-00-DX1.0DA8CF7E-0B14-44BA-BFA1-DC2E35B8A20C",
+    "slide_index": 755,
+    "dataset_index": 100755
+  },
+  "100756": {
+    "slide_id": "TCGA-77-6842-01Z-00-DX1.934f1e6a-9c30-40ad-a764-7d0b6fdb92e9",
+    "slide_index": 756,
+    "dataset_index": 100756
+  },
+  "100757": {
+    "slide_id": "TCGA-75-5147-01Z-00-DX1.3156FA5C-9737-4EAA-989C-FD578FBF15A1",
+    "slide_index": 757,
+    "dataset_index": 100757
+  },
+  "100758": {
+    "slide_id": "TCGA-77-8146-01Z-00-DX1.19213f57-1890-4e56-9909-86e506be1833",
+    "slide_index": 758,
+    "dataset_index": 100758
+  },
+  "100759": {
+    "slide_id": "TCGA-85-8052-01Z-00-DX1.26b66ae7-b73f-4263-85f7-e82dab5b657b",
+    "slide_index": 759,
+    "dataset_index": 100759
+  },
+  "100760": {
+    "slide_id": "TCGA-33-A4WN-01Z-00-DX1.438D0EF6-C329-41E5-A7D5-7F037DE34106",
+    "slide_index": 760,
+    "dataset_index": 100760
+  },
+  "100761": {
+    "slide_id": "TCGA-38-4627-01Z-00-DX1.fe406eb9-b38b-410d-aa1a-84ab8ac091c7",
+    "slide_index": 761,
+    "dataset_index": 100761
+  },
+  "100762": {
+    "slide_id": "TCGA-98-A539-01Z-00-DX1.420AA419-0146-4991-B98D-28E647E45F07",
+    "slide_index": 762,
+    "dataset_index": 100762
+  },
+  "100763": {
+    "slide_id": "TCGA-86-8056-01Z-00-DX1.eee7e03a-842c-4a44-bff8-f7b906725605",
+    "slide_index": 763,
+    "dataset_index": 100763
+  },
+  "100764": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX6.985c9088-ff83-4f13-8a95-cb55aa48682b",
+    "slide_index": 764,
+    "dataset_index": 100764
+  },
+  "100765": {
+    "slide_id": "TCGA-49-AARE-01Z-00-DX1.3559B3A9-6699-472F-B731-1BD9F93EE82A",
+    "slide_index": 765,
+    "dataset_index": 100765
+  },
+  "100766": {
+    "slide_id": "TCGA-97-7547-01Z-00-DX1.3563966f-21ee-4405-9106-9e0bf8df9f1a",
+    "slide_index": 766,
+    "dataset_index": 100766
+  },
+  "100767": {
+    "slide_id": "TCGA-22-4594-01Z-00-DX1.3FCEBC89-8473-4841-87A2-F84AF58A7793",
+    "slide_index": 767,
+    "dataset_index": 100767
+  },
+  "100768": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX3.9f19ec7f-6469-463a-a027-124c3fe5a06c",
+    "slide_index": 768,
+    "dataset_index": 100768
+  },
+  "100769": {
+    "slide_id": "TCGA-66-2777-01Z-00-DX1.78b3c4b0-e7e5-427b-b4d7-3ca9c5b7bbd6",
+    "slide_index": 769,
+    "dataset_index": 100769
+  },
+  "100770": {
+    "slide_id": "TCGA-78-7146-01Z-00-DX1.830209b2-94c5-4277-a7b6-b2f2634de0dc",
+    "slide_index": 770,
+    "dataset_index": 100770
+  },
+  "100771": {
+    "slide_id": "TCGA-55-6972-01Z-00-DX1.0b441ad0-c30f-4f63-849a-36c98d6e2d3b",
+    "slide_index": 771,
+    "dataset_index": 100771
+  },
+  "100772": {
+    "slide_id": "TCGA-73-4659-01Z-00-DX1.578400cd-d284-451b-8fdf-9f82c1458276",
+    "slide_index": 772,
+    "dataset_index": 100772
+  },
+  "100773": {
+    "slide_id": "TCGA-66-2768-01Z-00-DX1.02fadcc4-9d05-4b37-9114-d8e80c09ef1a",
+    "slide_index": 773,
+    "dataset_index": 100773
+  },
+  "100774": {
+    "slide_id": "TCGA-92-8065-01Z-00-DX1.cfadb520-1653-4082-9fc3-0680bf39253b",
+    "slide_index": 774,
+    "dataset_index": 100774
+  },
+  "100775": {
+    "slide_id": "TCGA-55-7815-01Z-00-DX1.288408e6-f6b3-4de4-a1ce-cb2498d9d46d",
+    "slide_index": 775,
+    "dataset_index": 100775
+  },
+  "100776": {
+    "slide_id": "TCGA-73-4670-01Z-00-DX1.a92a23d5-01aa-45a2-9f83-4784cd65fd58",
+    "slide_index": 776,
+    "dataset_index": 100776
+  },
+  "100777": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX5.4af96952-d323-4d2e-9871-e590b7c5f59d",
+    "slide_index": 777,
+    "dataset_index": 100777
+  },
+  "100778": {
+    "slide_id": "TCGA-43-7658-01Z-00-DX1.db69fbb6-59d7-49f5-adbf-f9c030b85b73",
+    "slide_index": 778,
+    "dataset_index": 100778
+  },
+  "100779": {
+    "slide_id": "TCGA-73-4658-01Z-00-DX1.d5beb44f-9d76-485a-8af4-407b0f1a610e",
+    "slide_index": 779,
+    "dataset_index": 100779
+  },
+  "100780": {
+    "slide_id": "TCGA-56-8305-01Z-00-DX1.2C1D792D-79E0-48D7-9938-DFD44428874E",
+    "slide_index": 780,
+    "dataset_index": 100780
+  },
+  "100781": {
+    "slide_id": "TCGA-34-2605-01Z-00-DX1.4DC249E9-26AD-4C0A-918C-3BC6C2DACDD0",
+    "slide_index": 781,
+    "dataset_index": 100781
+  },
+  "100782": {
+    "slide_id": "TCGA-73-4676-01Z-00-DX1.4d781bbc-a45e-4f9d-b6b6-2265282dff99",
+    "slide_index": 782,
+    "dataset_index": 100782
+  },
+  "100783": {
+    "slide_id": "TCGA-22-1011-01Z-00-DX1.A67E3D3F-4B94-4335-8199-03B7CB75608E",
+    "slide_index": 783,
+    "dataset_index": 100783
+  },
+  "100784": {
+    "slide_id": "TCGA-MN-A4N1-01Z-00-DX2.9B0852C4-16BF-4962-B86F-E2570E48A89E",
+    "slide_index": 784,
+    "dataset_index": 100784
+  },
+  "100785": {
+    "slide_id": "TCGA-58-A46L-01Z-00-DX1.DA77E0D9-23A2-4D54-81E9-36849E04FBC8",
+    "slide_index": 785,
+    "dataset_index": 100785
+  },
+  "100786": {
+    "slide_id": "TCGA-86-8359-01Z-00-DX1.11B8FDC3-4B84-4A22-B89D-46EA76345F13",
+    "slide_index": 786,
+    "dataset_index": 100786
+  },
+  "100787": {
+    "slide_id": "TCGA-39-5037-01Z-00-DX1.02636c3e-c843-4741-8fbf-406957fe9d87",
+    "slide_index": 787,
+    "dataset_index": 100787
+  },
+  "100788": {
+    "slide_id": "TCGA-44-2657-01Z-00-DX1.b7f608bd-2381-40a2-a757-ca4648a7de8a",
+    "slide_index": 788,
+    "dataset_index": 100788
+  },
+  "100789": {
+    "slide_id": "TCGA-NC-A5HN-01Z-00-DX1.51BA5504-7EFE-47F9-82A3-DCE0DCCF76D1",
+    "slide_index": 789,
+    "dataset_index": 100789
+  },
+  "100790": {
+    "slide_id": "TCGA-44-6146-01Z-00-DX1.8db8c567-690e-4df3-98a9-f241b6a8d811",
+    "slide_index": 790,
+    "dataset_index": 100790
+  },
+  "100791": {
+    "slide_id": "TCGA-55-7284-01Z-00-DX1.68b95b9b-1aab-4f03-aad3-1132467b7499",
+    "slide_index": 791,
+    "dataset_index": 100791
+  },
+  "100792": {
+    "slide_id": "TCGA-63-5131-01Z-00-DX1.C1C3724A-D9FC-46D6-9D7B-9357A58ACAEF",
+    "slide_index": 792,
+    "dataset_index": 100792
+  },
+  "100793": {
+    "slide_id": "TCGA-44-3917-01Z-00-DX1.cf5b5b49-de5e-4f2e-90b4-b138f55560a9",
+    "slide_index": 793,
+    "dataset_index": 100793
+  },
+  "100794": {
+    "slide_id": "TCGA-69-7979-01Z-00-DX1.c9bc265d-4889-4333-9852-b8b535887f1e",
+    "slide_index": 794,
+    "dataset_index": 100794
+  },
+  "100795": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX3.26deb8f3-f138-45e4-9765-f713030746e8",
+    "slide_index": 795,
+    "dataset_index": 100795
+  },
+  "100796": {
+    "slide_id": "TCGA-86-7955-01Z-00-DX1.ef4f4d94-5efb-4a07-97cf-b0ed69085827",
+    "slide_index": 796,
+    "dataset_index": 100796
+  },
+  "100797": {
+    "slide_id": "TCGA-18-3421-01Z-00-DX1.3777597A-8B36-48A9-B950-C8233392A6D5",
+    "slide_index": 797,
+    "dataset_index": 100797
+  },
+  "100798": {
+    "slide_id": "TCGA-18-3414-01Z-00-DX1.B76AF657-7A93-4F33-BC1A-2E8BF652FC17",
+    "slide_index": 798,
+    "dataset_index": 100798
+  },
+  "100799": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX2.3b8e947b-885e-486f-9edc-f2b247bdf95b",
+    "slide_index": 799,
+    "dataset_index": 100799
+  },
+  "100800": {
+    "slide_id": "TCGA-05-4426-01Z-00-DX1.4c9da782-f4aa-4c4f-b3aa-fae2259f236f",
+    "slide_index": 800,
+    "dataset_index": 100800
+  },
+  "100801": {
+    "slide_id": "TCGA-21-5787-01Z-00-DX1.FEE037E3-B9B0-4C2E-97EF-D6E4F64E1DF9",
+    "slide_index": 801,
+    "dataset_index": 100801
+  },
+  "100802": {
+    "slide_id": "TCGA-56-8309-01Z-00-DX1.5FC5FA81-405A-48AB-AA7D-2D38003A8942",
+    "slide_index": 802,
+    "dataset_index": 100802
+  },
+  "100803": {
+    "slide_id": "TCGA-05-4403-01Z-00-DX1.fee8e988-956c-42a2-a6c5-06b6d6736295",
+    "slide_index": 803,
+    "dataset_index": 100803
+  },
+  "100804": {
+    "slide_id": "TCGA-46-3765-01Z-00-DX1.f45e4e30-e60c-40e5-a0b7-4513c0c37fda",
+    "slide_index": 804,
+    "dataset_index": 100804
+  },
+  "100805": {
+    "slide_id": "TCGA-63-A5MP-01Z-00-DX1.BBA62567-2E99-4AE4-83DB-DCF044F21C5E",
+    "slide_index": 805,
+    "dataset_index": 100805
+  },
+  "100806": {
+    "slide_id": "TCGA-73-4677-01Z-00-DX1.b557785c-9ccc-42a7-bb54-7bb47638ddfc",
+    "slide_index": 806,
+    "dataset_index": 100806
+  },
+  "100807": {
+    "slide_id": "TCGA-43-A474-01Z-00-DX1.9BCC325D-875A-4285-85E9-2EA550A10949",
+    "slide_index": 807,
+    "dataset_index": 100807
+  },
+  "100808": {
+    "slide_id": "TCGA-MP-A4TC-01Z-00-DX1.C7DB4A7F-F6B8-4FA0-84C1-9B87D41C7749",
+    "slide_index": 808,
+    "dataset_index": 100808
+  },
+  "100809": {
+    "slide_id": "TCGA-75-6205-01Z-00-DX1.B75BC6BA-5196-4F62-BDA2-3F1D320ABD7C",
+    "slide_index": 809,
+    "dataset_index": 100809
+  },
+  "100810": {
+    "slide_id": "TCGA-78-7537-01Z-00-DX1.e5597e41-ebba-4d6f-8a1f-15cd81d8f026",
+    "slide_index": 810,
+    "dataset_index": 100810
+  },
+  "100811": {
+    "slide_id": "TCGA-64-1677-01Z-00-DX1.7720D42B-1F57-4C23-9BC5-87C456E7737B",
+    "slide_index": 811,
+    "dataset_index": 100811
+  },
+  "100812": {
+    "slide_id": "TCGA-63-A5MH-01Z-00-DX1.596077FF-9CE1-4EA7-9BB6-222C69872CA4",
+    "slide_index": 812,
+    "dataset_index": 100812
+  },
+  "100813": {
+    "slide_id": "TCGA-33-AAS8-01Z-00-DX1.774A64E2-17E4-468C-BFE9-85F0D4F52D0E",
+    "slide_index": 813,
+    "dataset_index": 100813
+  },
+  "100814": {
+    "slide_id": "TCGA-55-8208-01Z-00-DX1.6eccb7e2-16e4-4d25-9a1e-b370e016020f",
+    "slide_index": 814,
+    "dataset_index": 100814
+  },
+  "100815": {
+    "slide_id": "TCGA-38-4626-01Z-00-DX1.142bc018-bd79-4db9-84e2-f83a617ea92a",
+    "slide_index": 815,
+    "dataset_index": 100815
+  },
+  "100816": {
+    "slide_id": "TCGA-68-7755-01Z-00-DX1.62BC3770-5E81-4006-8F60-47BC66150AB3",
+    "slide_index": 816,
+    "dataset_index": 100816
+  },
+  "100817": {
+    "slide_id": "TCGA-78-7150-01Z-00-DX1.46e6e65c-521c-49de-b106-419dc840b235",
+    "slide_index": 817,
+    "dataset_index": 100817
+  },
+  "100818": {
+    "slide_id": "TCGA-55-5899-01Z-00-DX1.faa65b08-150c-4c74-95aa-1e8743f0152c",
+    "slide_index": 818,
+    "dataset_index": 100818
+  },
+  "100819": {
+    "slide_id": "TCGA-77-8130-01Z-00-DX1.e9f78b45-ed59-4e80-83c2-c6d5bb68e622",
+    "slide_index": 819,
+    "dataset_index": 100819
+  },
+  "100820": {
+    "slide_id": "TCGA-64-5815-01Z-00-DX1.1E3600B5-7E83-47BE-AC70-E0C2D623740B",
+    "slide_index": 820,
+    "dataset_index": 100820
+  },
+  "100821": {
+    "slide_id": "TCGA-60-2722-01Z-00-DX1.f3781266-e8dc-4386-9702-5b29e6f2cfa3",
+    "slide_index": 821,
+    "dataset_index": 100821
+  },
+  "100822": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX6.3ce306b2-1b00-48f7-8288-c24069037a9c",
+    "slide_index": 822,
+    "dataset_index": 100822
+  },
+  "100823": {
+    "slide_id": "TCGA-49-4494-01Z-00-DX3.e80b4534-4d6e-4d79-962e-017ffee24d67",
+    "slide_index": 823,
+    "dataset_index": 100823
+  },
+  "100824": {
+    "slide_id": "TCGA-52-7812-01Z-00-DX1.dd6fa49a-f9fe-40a1-80b2-0824b128f3b2",
+    "slide_index": 824,
+    "dataset_index": 100824
+  },
+  "100825": {
+    "slide_id": "TCGA-77-8144-01Z-00-DX1.5194d537-c942-45f3-967b-eb213646ff24",
+    "slide_index": 825,
+    "dataset_index": 100825
+  },
+  "100826": {
+    "slide_id": "TCGA-64-1680-01Z-00-DX1.9CB14F20-E7B0-49A1-A327-404B3160FD65",
+    "slide_index": 826,
+    "dataset_index": 100826
+  },
+  "100827": {
+    "slide_id": "TCGA-21-1078-01Z-00-DX1.12d4a290-04fa-413e-b274-7c143d42c266",
+    "slide_index": 827,
+    "dataset_index": 100827
+  },
+  "100828": {
+    "slide_id": "TCGA-63-A5MN-01Z-00-DX1.34F9BFA5-847A-456B-8159-7993A0F78543",
+    "slide_index": 828,
+    "dataset_index": 100828
+  },
+  "100829": {
+    "slide_id": "TCGA-21-1075-01Z-00-DX1.937872ae-4d6f-4d7a-b54f-b7e797cb84b0",
+    "slide_index": 829,
+    "dataset_index": 100829
+  },
+  "100830": {
+    "slide_id": "TCGA-49-4501-01Z-00-DX1.9c4bf212-5e32-449e-8710-cf7a3594156e",
+    "slide_index": 830,
+    "dataset_index": 100830
+  },
+  "100831": {
+    "slide_id": "TCGA-63-A5MM-01Z-00-DX1.F385687A-3741-4E73-87F1-D9B00B1B6186",
+    "slide_index": 831,
+    "dataset_index": 100831
+  },
+  "100832": {
+    "slide_id": "TCGA-77-A5G7-01Z-00-DX1.F1FECF5D-C940-43D0-B49B-66C95AD9C85A",
+    "slide_index": 832,
+    "dataset_index": 100832
+  },
+  "100833": {
+    "slide_id": "TCGA-85-A4QQ-01Z-00-DX1.321B5149-FC07-434D-9819-3F8821D77849",
+    "slide_index": 833,
+    "dataset_index": 100833
+  },
+  "100834": {
+    "slide_id": "TCGA-NC-A5HH-01Z-00-DX1.4138DC62-3487-4F4B-8D5C-D7693B303387",
+    "slide_index": 834,
+    "dataset_index": 100834
+  },
+  "100835": {
+    "slide_id": "TCGA-49-6745-01Z-00-DX5.9521a16f-d6a7-460c-b75c-7341d72ce727",
+    "slide_index": 835,
+    "dataset_index": 100835
+  },
+  "100836": {
+    "slide_id": "TCGA-66-2753-01Z-00-DX1.ae9d8372-adb8-46f9-a140-2f0a1ddff579",
+    "slide_index": 836,
+    "dataset_index": 100836
+  },
+  "100837": {
+    "slide_id": "TCGA-67-3770-01Z-00-DX1.4C14BE72-905C-4AAE-B07A-6437D98A23FA",
+    "slide_index": 837,
+    "dataset_index": 100837
+  },
+  "100838": {
+    "slide_id": "TCGA-50-6673-01Z-00-DX1.e24fb432-3fff-4f00-a316-16d05275c1e7",
+    "slide_index": 838,
+    "dataset_index": 100838
+  },
+  "100839": {
+    "slide_id": "TCGA-50-5066-02Z-00-DX1.A2CA045A-7956-4E04-9EC9-5856FC789110",
+    "slide_index": 839,
+    "dataset_index": 100839
+  },
+  "100840": {
+    "slide_id": "TCGA-49-4505-01Z-00-DX1.d49d603e-1f76-43a1-a803-9f2d6a6df715",
+    "slide_index": 840,
+    "dataset_index": 100840
+  },
+  "100841": {
+    "slide_id": "TCGA-53-7624-01Z-00-DX1.51b4de19-3531-4bcb-b822-fa966480f2ad",
+    "slide_index": 841,
+    "dataset_index": 100841
+  },
+  "100842": {
+    "slide_id": "TCGA-J2-A4AE-01Z-00-DX1.42C5DE4A-7787-4E59-8969-D12503262C96",
+    "slide_index": 842,
+    "dataset_index": 100842
+  },
+  "100843": {
+    "slide_id": "TCGA-37-A5EL-01Z-00-DX1.DFD49A5B-27F6-407E-8ADA-54EDACAA0788",
+    "slide_index": 843,
+    "dataset_index": 100843
+  },
+  "100844": {
+    "slide_id": "TCGA-86-8278-01Z-00-DX1.6500afef-f0f0-4e7c-a6c0-60da81993641",
+    "slide_index": 844,
+    "dataset_index": 100844
+  },
+  "100845": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX7.91be6f90-d9ab-4345-a3bd-91805d9761b9",
+    "slide_index": 845,
+    "dataset_index": 100845
+  },
+  "100846": {
+    "slide_id": "TCGA-39-5022-01Z-00-DX1.1bf6a4da-0b59-4478-bcf1-b004f0356342",
+    "slide_index": 846,
+    "dataset_index": 100846
+  },
+  "100847": {
+    "slide_id": "TCGA-66-2737-01Z-00-DX1.3c508c22-fadc-4b05-ada4-b447b21e098c",
+    "slide_index": 847,
+    "dataset_index": 100847
+  },
+  "100848": {
+    "slide_id": "TCGA-56-A4BW-01Z-00-DX1.8ED20788-092B-4C21-9D83-5423D853422F",
+    "slide_index": 848,
+    "dataset_index": 100848
+  },
+  "100849": {
+    "slide_id": "TCGA-33-6738-01Z-00-DX4.8a8b2411-f425-4181-82cc-0c8535055028",
+    "slide_index": 849,
+    "dataset_index": 100849
+  },
+  "100850": {
+    "slide_id": "TCGA-55-8097-01Z-00-DX1.2f847b65-a5dc-41be-9dd0-a1e11df3cd10",
+    "slide_index": 850,
+    "dataset_index": 100850
+  },
+  "100851": {
+    "slide_id": "TCGA-MP-A4T2-01Z-00-DX1.ADE8B45C-26F3-465E-ADB6-2C36E6326974",
+    "slide_index": 851,
+    "dataset_index": 100851
+  },
+  "100852": {
+    "slide_id": "TCGA-98-A53J-01Z-00-DX1.EEC6256E-D331-4731-B00C-08622C725F61",
+    "slide_index": 852,
+    "dataset_index": 100852
+  },
+  "100853": {
+    "slide_id": "TCGA-78-7633-01Z-00-DX1.f0cd4825-eb92-4098-954a-fbb1e4851660",
+    "slide_index": 853,
+    "dataset_index": 100853
+  },
+  "100854": {
+    "slide_id": "TCGA-78-7535-01Z-00-DX1.c4ca06f3-22d1-4e39-85c8-98d1fa2b0e60",
+    "slide_index": 854,
+    "dataset_index": 100854
+  },
+  "100855": {
+    "slide_id": "TCGA-39-5036-01Z-00-DX1.5a601fbd-a711-478e-a471-2046d2b63f7c",
+    "slide_index": 855,
+    "dataset_index": 100855
+  },
+  "100856": {
+    "slide_id": "TCGA-56-8623-01Z-00-DX1.119C11E2-16E4-48A9-B8BD-6F1E8CBFEBA1",
+    "slide_index": 856,
+    "dataset_index": 100856
+  },
+  "100857": {
+    "slide_id": "TCGA-86-7711-01Z-00-DX1.f64dd9d8-b9ca-4d1f-9783-d1042979132d",
+    "slide_index": 857,
+    "dataset_index": 100857
+  },
+  "100858": {
+    "slide_id": "TCGA-05-4249-01Z-00-DX1.9fce0297-cc19-4c04-872c-4466ee4024db",
+    "slide_index": 858,
+    "dataset_index": 100858
+  },
+  "100859": {
+    "slide_id": "TCGA-56-8503-01Z-00-DX1.87FEB654-FC88-4CDA-8F52-ACF0D9A19191",
+    "slide_index": 859,
+    "dataset_index": 100859
+  },
+  "100860": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX6.0a04ad8e-7f33-4496-bd9e-0110ec33f887",
+    "slide_index": 860,
+    "dataset_index": 100860
+  },
+  "100861": {
+    "slide_id": "TCGA-49-4514-01Z-00-DX4.79e9e14e-72ea-4e9f-9719-d1a791cf0b43",
+    "slide_index": 861,
+    "dataset_index": 100861
+  },
+  "100862": {
+    "slide_id": "TCGA-85-8580-01Z-00-DX1.1b942bbe-2c6e-4411-8609-1725e5cb93da",
+    "slide_index": 862,
+    "dataset_index": 100862
+  },
+  "100863": {
+    "slide_id": "TCGA-21-5782-01Z-00-DX1.E0C856C0-9055-4437-9393-695D699E4F57",
+    "slide_index": 863,
+    "dataset_index": 100863
+  },
+  "100864": {
+    "slide_id": "TCGA-NC-A5HF-01Z-00-DX1.6371242D-227A-4531-8BB3-FD1AABF770C9",
+    "slide_index": 864,
+    "dataset_index": 100864
+  },
+  "100865": {
+    "slide_id": "TCGA-62-A46R-01Z-00-DX1.AD823FBA-A63F-4D36-8B84-2C995DE5FC47",
+    "slide_index": 865,
+    "dataset_index": 100865
+  },
+  "100866": {
+    "slide_id": "TCGA-56-8626-01Z-00-DX1.C9836EAF-F005-40E9-B781-1D5586141F0D",
+    "slide_index": 866,
+    "dataset_index": 100866
+  },
+  "100867": {
+    "slide_id": "TCGA-43-2576-01Z-00-DX1.779df209-95e1-4303-9c32-4083e8088d8e",
+    "slide_index": 867,
+    "dataset_index": 100867
+  },
+  "100868": {
+    "slide_id": "TCGA-18-3409-01Z-00-DX1.3E32CC78-B066-4F85-A781-EDAF39DE0704",
+    "slide_index": 868,
+    "dataset_index": 100868
+  },
+  "100869": {
+    "slide_id": "TCGA-90-A4ED-01Z-00-DX1.4F9CF7EC-D7CC-4AF6-A9C2-6BA7A02A9F84",
+    "slide_index": 869,
+    "dataset_index": 100869
+  },
+  "100870": {
+    "slide_id": "TCGA-85-A4CN-01Z-00-DX1.051538DE-0F7E-4CE1-9D87-18155D9DCC8B",
+    "slide_index": 870,
+    "dataset_index": 100870
+  },
+  "100871": {
+    "slide_id": "TCGA-60-2715-01Z-00-DX1.22710dc4-eaf5-44c2-8438-c6dcfae1d452",
+    "slide_index": 871,
+    "dataset_index": 100871
+  },
+  "100872": {
+    "slide_id": "TCGA-33-4583-01Z-00-DX2.8fc10fa1-82b8-49c5-972b-e4303b4293a7",
+    "slide_index": 872,
+    "dataset_index": 100872
+  },
+  "100873": {
+    "slide_id": "TCGA-NJ-A55A-01Z-00-DX1.42C356FE-52A3-4A60-886B-75F84ADBC534",
+    "slide_index": 873,
+    "dataset_index": 100873
+  },
+  "100874": {
+    "slide_id": "TCGA-18-3408-01Z-00-DX1.B4AFC08A-7460-4EE6-B033-629C6A6CA6E8",
+    "slide_index": 874,
+    "dataset_index": 100874
+  },
+  "100875": {
+    "slide_id": "TCGA-44-6145-01Z-00-DX1.175ad655-b054-407d-bb22-3a4f85849488",
+    "slide_index": 875,
+    "dataset_index": 100875
+  },
+  "100876": {
+    "slide_id": "TCGA-LA-A446-01Z-00-DX1.0DC9ABAF-2FED-4F4E-B453-299441CEC607",
+    "slide_index": 876,
+    "dataset_index": 100876
+  },
+  "100877": {
+    "slide_id": "TCGA-55-6971-01Z-00-DX1.6c790768-8252-466a-95e1-97d2086a8132",
+    "slide_index": 877,
+    "dataset_index": 100877
+  },
+  "100878": {
+    "slide_id": "TCGA-MP-A4SV-01Z-00-DX1.5430F2CF-BE4B-42D6-9CD4-92E6FB3F6E99",
+    "slide_index": 878,
+    "dataset_index": 100878
+  },
+  "100879": {
+    "slide_id": "TCGA-77-7463-01Z-00-DX1.c255e325-1ba7-4108-b8b8-22c02241c83f",
+    "slide_index": 879,
+    "dataset_index": 100879
+  },
+  "100880": {
+    "slide_id": "TCGA-44-8119-01Z-00-DX1.1EBEBFA7-22DB-4365-9DF8-C4E679C11312",
+    "slide_index": 880,
+    "dataset_index": 100880
+  },
+  "100881": {
+    "slide_id": "TCGA-22-5483-01Z-00-DX1.79EF4B70-4703-4FF1-81CA-20014A932437",
+    "slide_index": 881,
+    "dataset_index": 100881
+  },
+  "100882": {
+    "slide_id": "TCGA-33-AASJ-01Z-00-DX1.0201CE2A-4DE6-4B4E-A010-37D773207F52",
+    "slide_index": 882,
+    "dataset_index": 100882
+  },
+  "100883": {
+    "slide_id": "TCGA-49-4512-01Z-00-DX8.c54237a3-93f4-432f-90f1-b930b7341741",
+    "slide_index": 883,
+    "dataset_index": 100883
+  },
+  "100884": {
+    "slide_id": "TCGA-55-6982-01Z-00-DX1.055aeec1-2fc1-4796-b5df-c159335e0300",
+    "slide_index": 884,
+    "dataset_index": 100884
+  },
+  "100885": {
+    "slide_id": "TCGA-21-1072-01Z-00-DX1.9e6c90ad-0529-4b8b-a4f8-1b05430600f9",
+    "slide_index": 885,
+    "dataset_index": 100885
+  },
+  "100886": {
+    "slide_id": "TCGA-22-1000-01Z-00-DX1.D2ACF3D3-6187-49A1-ABBC-8D8E611EEE55",
+    "slide_index": 886,
+    "dataset_index": 100886
+  },
+  "100887": {
+    "slide_id": "TCGA-NC-A5HE-01Z-00-DX1.57DE9D24-24C8-4EDF-942B-06777B003F68",
+    "slide_index": 887,
+    "dataset_index": 100887
+  },
+  "100888": {
+    "slide_id": "TCGA-33-4538-01Z-00-DX8.ec0d10ef-ec0e-4ad2-81fb-907754694e42",
+    "slide_index": 888,
+    "dataset_index": 100888
+  },
+  "100889": {
+    "slide_id": "TCGA-44-6776-01Z-00-DX1.551e200f-5f40-4b95-8b2f-7c6000a21be0",
+    "slide_index": 889,
+    "dataset_index": 100889
+  },
+  "100890": {
+    "slide_id": "TCGA-96-7544-01Z-00-DX1.44ce4169-c232-4a9b-ac40-55226179c4fa",
+    "slide_index": 890,
+    "dataset_index": 100890
+  },
+  "100891": {
+    "slide_id": "TCGA-93-A4JP-01Z-00-DX1.994E229B-5251-4F61-8C41-863047F3A136",
+    "slide_index": 891,
+    "dataset_index": 100891
+  },
+  "100892": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX2.1b491bd7-60d2-40a6-96cd-01385bce2b0f",
+    "slide_index": 892,
+    "dataset_index": 100892
+  },
+  "100893": {
+    "slide_id": "TCGA-55-8507-01Z-00-DX1.3C6198CF-3E13-4C4C-B851-5BDFF8552621",
+    "slide_index": 893,
+    "dataset_index": 100893
+  },
+  "100894": {
+    "slide_id": "TCGA-51-4079-01Z-00-DX1.111f7796-3797-4334-b543-918e374dbc22",
+    "slide_index": 894,
+    "dataset_index": 100894
+  },
+  "100895": {
+    "slide_id": "TCGA-NJ-A55R-01Z-00-DX1.2E2B3642-4E1C-47DB-AF7B-988D586C0986",
+    "slide_index": 895,
+    "dataset_index": 100895
+  },
+  "100896": {
+    "slide_id": "TCGA-05-4418-01Z-00-DX1.f3863ea5-564f-482f-9878-cc104cf69401",
+    "slide_index": 896,
+    "dataset_index": 100896
+  },
+  "100897": {
+    "slide_id": "TCGA-85-8287-01Z-00-DX1.3bd80053-5eb1-40f0-bdbd-9d4944c04328",
+    "slide_index": 897,
+    "dataset_index": 100897
+  },
+  "100898": {
+    "slide_id": "TCGA-56-8083-01Z-00-DX1.140c8d5b-f660-4fef-b8da-6bb2c119c021",
+    "slide_index": 898,
+    "dataset_index": 100898
+  },
+  "100899": {
+    "slide_id": "TCGA-56-A49D-01Z-00-DX1.1ECF40A0-1490-42B3-8924-A80E4ED35F93",
+    "slide_index": 899,
+    "dataset_index": 100899
+  },
+  "100900": {
+    "slide_id": "TCGA-94-8035-01Z-00-DX1.6962cc61-cb5f-44c9-95fe-1f382efec77a",
+    "slide_index": 900,
+    "dataset_index": 100900
+  },
+  "100901": {
+    "slide_id": "TCGA-22-4595-01Z-00-DX1.42F28D1E-7AC2-4113-B4EC-F1E7850EA14D",
+    "slide_index": 901,
+    "dataset_index": 100901
+  },
+  "100902": {
+    "slide_id": "TCGA-95-7947-01Z-00-DX1.44291078-2D8E-4E79-8FAB-439E52BAAD60",
+    "slide_index": 902,
+    "dataset_index": 100902
+  },
+  "100903": {
+    "slide_id": "TCGA-18-3419-01Z-00-DX1.69597BCF-2D4E-4D9B-B4E8-C03137445AF4",
+    "slide_index": 903,
+    "dataset_index": 100903
+  },
+  "100904": {
+    "slide_id": "TCGA-34-2604-01Z-00-DX1.C04E4FF6-6E62-432D-AD1E-D0AACAA66875",
+    "slide_index": 904,
+    "dataset_index": 100904
+  },
+  "100905": {
+    "slide_id": "TCGA-05-4420-01Z-00-DX1.2df0552e-87dc-491e-9be2-be8fbce2660d",
+    "slide_index": 905,
+    "dataset_index": 100905
+  },
+  "100906": {
+    "slide_id": "TCGA-75-5122-01Z-00-DX1.627FD712-3881-44CC-83E0-6C4DFC6C88C1",
+    "slide_index": 906,
+    "dataset_index": 100906
+  },
+  "100907": {
+    "slide_id": "TCGA-85-8070-01Z-00-DX1.54e7edf1-28d3-4fd5-bab3-951e58620386",
+    "slide_index": 907,
+    "dataset_index": 100907
+  },
+  "100908": {
+    "slide_id": "TCGA-86-6562-01Z-00-DX1.5dea3015-e606-4837-9f99-ac14f0aa091b",
+    "slide_index": 908,
+    "dataset_index": 100908
+  },
+  "100909": {
+    "slide_id": "TCGA-66-2767-01Z-00-DX1.7bcc7633-3e70-46e3-8689-542c23577ed1",
+    "slide_index": 909,
+    "dataset_index": 100909
+  },
+  "100910": {
+    "slide_id": "TCGA-33-4566-01Z-00-DX1.C256546D-D3EC-41DA-9681-06BA4B011DD2",
+    "slide_index": 910,
+    "dataset_index": 100910
+  },
+  "100911": {
+    "slide_id": "TCGA-22-4605-01Z-00-DX1.5B725941-80CE-497B-8A1E-856D16DD2870",
+    "slide_index": 911,
+    "dataset_index": 100911
+  },
+  "100912": {
+    "slide_id": "TCGA-85-A5B5-01Z-00-DX1.88097FC2-BAAD-4986-AECD-C07C9F3ED856",
+    "slide_index": 912,
+    "dataset_index": 100912
+  },
+  "100913": {
+    "slide_id": "TCGA-77-A5GF-01Z-00-DX1.8E70F660-4492-4BEB-A688-217DE27C1E6D",
+    "slide_index": 913,
+    "dataset_index": 100913
+  },
+  "100914": {
+    "slide_id": "TCGA-69-7764-01Z-00-DX1.be9fec48-68eb-4c27-a028-5315d7e368e0",
+    "slide_index": 914,
+    "dataset_index": 100914
+  },
+  "100915": {
+    "slide_id": "TCGA-22-5485-01Z-00-DX1.952DBCF0-08DA-49BD-B020-DEC1A77A1D81",
+    "slide_index": 915,
+    "dataset_index": 100915
+  },
+  "100916": {
+    "slide_id": "TCGA-21-5786-01Z-00-DX1.928370C0-0BD4-43D6-94EB-FE7CB172265E",
+    "slide_index": 916,
+    "dataset_index": 100916
+  },
+  "100917": {
+    "slide_id": "TCGA-44-2666-01Z-00-DX1.f81a89cf-6033-47ea-9a43-290a5d6a28c1",
+    "slide_index": 917,
+    "dataset_index": 100917
+  },
+  "100918": {
+    "slide_id": "TCGA-60-2698-01Z-00-DX1.738ae69e-5170-46d6-b691-9f761f9a794b",
+    "slide_index": 918,
+    "dataset_index": 100918
+  },
+  "100919": {
+    "slide_id": "TCGA-66-2785-01Z-00-DX1.b9439ee1-d22b-4ccd-b53b-ce7717a37a17",
+    "slide_index": 919,
+    "dataset_index": 100919
+  },
+  "100920": {
+    "slide_id": "TCGA-85-A53L-01Z-00-DX1.4B1C0D74-CF56-4B52-9EA0-9DC72EA07B1C",
+    "slide_index": 920,
+    "dataset_index": 100920
+  },
+  "100921": {
+    "slide_id": "TCGA-49-6743-01Z-00-DX2.f6b71e89-19ff-4d9b-a3f1-3a52949f1dc7",
+    "slide_index": 921,
+    "dataset_index": 100921
+  },
+  "100922": {
+    "slide_id": "TCGA-85-8582-01Z-00-DX1.ac10318b-f56e-4897-8355-076366fe8581",
+    "slide_index": 922,
+    "dataset_index": 100922
+  },
+  "100923": {
+    "slide_id": "TCGA-93-A4JN-01Z-00-DX1.ED4C9365-6CCF-4AEE-B4C9-3CC5EC57286C",
+    "slide_index": 923,
+    "dataset_index": 100923
+  },
+  "100924": {
+    "slide_id": "TCGA-85-A50Z-01Z-00-DX1.A8911EBB-EAB6-4787-9F6E-3E8A9F1078F3",
+    "slide_index": 924,
+    "dataset_index": 100924
+  },
+  "100925": {
+    "slide_id": "TCGA-66-2766-01Z-00-DX1.05729d5f-7c12-44e1-9a61-90296f555e89",
+    "slide_index": 925,
+    "dataset_index": 100925
+  },
+  "100926": {
+    "slide_id": "TCGA-34-2596-01Z-00-DX1.be778d17-d06c-4300-aaf1-c0acbef8fa41",
+    "slide_index": 926,
+    "dataset_index": 100926
+  },
+  "100927": {
+    "slide_id": "TCGA-75-6203-01Z-00-DX1.9796ACAB-9E1A-4BC5-B80C-4EC856FA14B7",
+    "slide_index": 927,
+    "dataset_index": 100927
+  },
+  "100928": {
+    "slide_id": "TCGA-49-6744-01Z-00-DX4.a3d7995d-399f-4c53-aab8-adc4ea4dbfa8",
+    "slide_index": 928,
+    "dataset_index": 100928
+  },
+  "100929": {
+    "slide_id": "TCGA-55-8090-01Z-00-DX1.83f86d5f-7cb9-443a-a812-b19ba4aea836",
+    "slide_index": 929,
+    "dataset_index": 100929
+  },
+  "100930": {
+    "slide_id": "TCGA-33-AASL-01Z-00-DX1.B6BE8062-EFB3-4615-8F9A-52E2C6D4617F",
+    "slide_index": 930,
+    "dataset_index": 100930
+  },
+  "100931": {
+    "slide_id": "TCGA-86-8673-01Z-00-DX1.21191041-c10e-4166-ad00-1243656feaa7",
+    "slide_index": 931,
+    "dataset_index": 100931
+  },
+  "100932": {
+    "slide_id": "TCGA-55-A48Z-01Z-00-DX1.0867DC6A-2A51-4CF1-AE3F-0526CE2DD740",
+    "slide_index": 932,
+    "dataset_index": 100932
+  },
+  "100933": {
+    "slide_id": "TCGA-55-6980-01Z-00-DX1.2f1d1858-42b9-4e3b-966d-2f3f429570a6",
+    "slide_index": 933,
+    "dataset_index": 100933
+  },
+  "100934": {
+    "slide_id": "TCGA-86-A4P8-01Z-00-DX1.D65E8855-F7A1-4584-A501-BBFBC61C2DEB",
+    "slide_index": 934,
+    "dataset_index": 100934
+  },
+  "100935": {
+    "slide_id": "TCGA-56-8307-01Z-00-DX1.20EE4B4C-403F-44AA-8B0E-711003E60B8F",
+    "slide_index": 935,
+    "dataset_index": 100935
+  },
+  "100936": {
+    "slide_id": "TCGA-66-2757-01Z-00-DX1.fa182184-fbf1-46ab-bdae-6f383441fd85",
+    "slide_index": 936,
+    "dataset_index": 100936
+  },
+  "100937": {
+    "slide_id": "TCGA-33-AASB-01Z-00-DX1.7AAF5628-3B4D-4230-8375-AB1A51054466",
+    "slide_index": 937,
+    "dataset_index": 100937
+  },
+  "100938": {
+    "slide_id": "TCGA-68-8250-01Z-00-DX1.a8669a85-9262-4c37-b61c-ca7019a3677c",
+    "slide_index": 938,
+    "dataset_index": 100938
+  },
+  "100939": {
+    "slide_id": "TCGA-64-1679-01Z-00-DX1.f9fd24ef-d51c-4530-9fb5-e8a8f09dba73",
+    "slide_index": 939,
+    "dataset_index": 100939
+  },
+  "100940": {
+    "slide_id": "TCGA-86-8668-01Z-00-DX1.d720d486-02c7-4f98-8feb-e0e50a12c158",
+    "slide_index": 940,
+    "dataset_index": 100940
+  },
+  "100941": {
+    "slide_id": "TCGA-55-7903-01Z-00-DX1.40fc5dcb-b5bb-46b4-90bd-2eeb3ea880f5",
+    "slide_index": 941,
+    "dataset_index": 100941
+  },
+  "100942": {
+    "slide_id": "TCGA-77-8156-01Z-00-DX1.9ed8c07d-61f3-4f6b-9c8b-312917c64e04",
+    "slide_index": 942,
+    "dataset_index": 100942
+  },
+  "100943": {
+    "slide_id": "TCGA-55-A57B-01Z-00-DX1.8D3C7063-3AF6-4839-A656-F844EC0AF9DB",
+    "slide_index": 943,
+    "dataset_index": 100943
+  },
+  "100944": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX10.930e7dc2-6073-4bf2-9b70-f17c0b26bdee",
+    "slide_index": 944,
+    "dataset_index": 100944
+  },
+  "100945": {
+    "slide_id": "TCGA-73-7499-01Z-00-DX1.81f5c1c1-3d40-4773-a1fb-e1f8eb9f6730",
+    "slide_index": 945,
+    "dataset_index": 100945
+  },
+  "100946": {
+    "slide_id": "TCGA-43-7656-01Z-00-DX1.6076ce10-fcb2-4f29-b3f3-c3f5649dc469",
+    "slide_index": 946,
+    "dataset_index": 100946
+  },
+  "100947": {
+    "slide_id": "TCGA-55-8505-01Z-00-DX1.D364C30D-BFB8-486B-A0D3-948FF8E90C3E",
+    "slide_index": 947,
+    "dataset_index": 100947
+  },
+  "100948": {
+    "slide_id": "TCGA-75-7025-01Z-00-DX1.284477D7-4F47-4084-A15C-0A7E9571E3DF",
+    "slide_index": 948,
+    "dataset_index": 100948
+  },
+  "100949": {
+    "slide_id": "TCGA-33-4533-01Z-00-DX3.5d3d54fc-2bee-4a9e-b9cd-d3ed84b55ef0",
+    "slide_index": 949,
+    "dataset_index": 100949
+  },
+  "100950": {
+    "slide_id": "TCGA-62-A472-01Z-00-DX1.C2F76C9A-C51A-4521-9B95-2A20063E9931",
+    "slide_index": 950,
+    "dataset_index": 100950
+  },
+  "100951": {
+    "slide_id": "TCGA-85-7843-01Z-00-DX1.0aa90a1d-6039-482c-a489-8ee41cc70161",
+    "slide_index": 951,
+    "dataset_index": 100951
+  },
+  "100952": {
+    "slide_id": "TCGA-85-6561-01Z-00-DX1.7bb9f936-00e1-4014-a6ae-8dc1c64d7f42",
+    "slide_index": 952,
+    "dataset_index": 100952
+  },
+  "100953": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX2.ce896a98-8b45-4606-8849-3a377b81e3de",
+    "slide_index": 953,
+    "dataset_index": 100953
+  },
+  "100954": {
+    "slide_id": "TCGA-77-7141-01Z-00-DX1.3263490a-cfba-43a8-8198-5139dbf00bf9",
+    "slide_index": 954,
+    "dataset_index": 100954
+  },
+  "100955": {
+    "slide_id": "TCGA-77-A5GB-01Z-00-DX1.5EB72C3D-40BE-4ABD-9CD6-ADF5769BC295",
+    "slide_index": 955,
+    "dataset_index": 100955
+  },
+  "100956": {
+    "slide_id": "TCGA-34-5928-01Z-00-DX1.d336efc9-3ebb-4457-a81b-1e448781f999",
+    "slide_index": 956,
+    "dataset_index": 100956
+  },
+  "100957": {
+    "slide_id": "TCGA-98-A538-01Z-00-DX1.42BC06E8-8E8F-4CF0-A757-B5201BB2794F",
+    "slide_index": 957,
+    "dataset_index": 100957
+  },
+  "100958": {
+    "slide_id": "TCGA-33-4582-01Z-00-DX1.629AEDB6-E9AA-4615-92E8-5DDAAFF6103E",
+    "slide_index": 958,
+    "dataset_index": 100958
+  },
+  "100959": {
+    "slide_id": "TCGA-21-1080-01Z-00-DX1.7afa55df-e460-406e-ae9a-43ac4a71d0b0",
+    "slide_index": 959,
+    "dataset_index": 100959
+  },
+  "100960": {
+    "slide_id": "TCGA-93-A4JO-01Z-00-DX1.314C53B6-603C-402B-8CF7-E3CE851A0A0F",
+    "slide_index": 960,
+    "dataset_index": 100960
+  },
+  "100961": {
+    "slide_id": "TCGA-NC-A5HI-01Z-00-DX1.7C40C0F4-E3A3-4B86-A54E-3347E8CB8BBA",
+    "slide_index": 961,
+    "dataset_index": 100961
+  },
+  "100962": {
+    "slide_id": "TCGA-37-3792-01Z-00-DX1.d95a9f5f-5bad-48fc-9f90-ed2580328b80",
+    "slide_index": 962,
+    "dataset_index": 100962
+  },
+  "100963": {
+    "slide_id": "TCGA-44-7670-01Z-00-DX1.2a981dd6-0063-438e-b20e-b180b16e2b23",
+    "slide_index": 963,
+    "dataset_index": 100963
+  },
+  "100964": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX1.7009df06-03f9-497a-b7bd-f8ef4244d152",
+    "slide_index": 964,
+    "dataset_index": 100964
+  },
+  "100965": {
+    "slide_id": "TCGA-50-6594-01Z-00-DX1.43b2005a-4245-4025-ad85-4a957f308a5c",
+    "slide_index": 965,
+    "dataset_index": 100965
+  },
+  "100966": {
+    "slide_id": "TCGA-63-7022-01Z-00-DX1.93EE6221-32E1-4E97-ABDB-E1814B655852",
+    "slide_index": 966,
+    "dataset_index": 100966
+  },
+  "100967": {
+    "slide_id": "TCGA-53-7626-01Z-00-DX1.FD4CAF75-07B5-4117-83DD-99233DAA3EBC",
+    "slide_index": 967,
+    "dataset_index": 100967
+  },
+  "100968": {
+    "slide_id": "TCGA-52-7809-01Z-00-DX1.91f184ce-e4e1-42da-bdbc-36d6781bbf31",
+    "slide_index": 968,
+    "dataset_index": 100968
+  },
+  "100969": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX7.a04b36c3-9cfd-4195-92c0-70046cd49d9a",
+    "slide_index": 969,
+    "dataset_index": 100969
+  },
+  "100970": {
+    "slide_id": "TCGA-67-4679-01Z-00-DX1.a3d84341-fed7-4235-a053-638ed5294954",
+    "slide_index": 970,
+    "dataset_index": 100970
+  },
+  "100971": {
+    "slide_id": "TCGA-58-A46N-01Z-00-DX1.5D51252C-5294-4E40-ABB2-31C3BE1039F8",
+    "slide_index": 971,
+    "dataset_index": 100971
+  },
+  "100972": {
+    "slide_id": "TCGA-78-8655-01Z-00-DX1.DC81D146-A4A6-411E-A5DC-C0689A8D445F",
+    "slide_index": 972,
+    "dataset_index": 100972
+  },
+  "100973": {
+    "slide_id": "TCGA-85-A512-01Z-00-DX1.154BBD51-803C-46F0-840E-D2597E648365",
+    "slide_index": 973,
+    "dataset_index": 100973
+  },
+  "100974": {
+    "slide_id": "TCGA-05-4398-01Z-00-DX1.269bc75f-492e-48b1-87ee-85924aa80e74",
+    "slide_index": 974,
+    "dataset_index": 100974
+  },
+  "100975": {
+    "slide_id": "TCGA-39-5024-01Z-00-DX1.b159135e-c9d5-4768-83a6-1de9961d20ad",
+    "slide_index": 975,
+    "dataset_index": 100975
+  },
+  "100976": {
+    "slide_id": "TCGA-73-4666-01Z-00-DX1.dd9c8922-ddd1-4674-8124-9e334532e47e",
+    "slide_index": 976,
+    "dataset_index": 100976
+  },
+  "100977": {
+    "slide_id": "TCGA-85-8288-01Z-00-DX1.0e68535f-a1f3-450c-b8fa-a859f2269da8",
+    "slide_index": 977,
+    "dataset_index": 100977
+  },
+  "100978": {
+    "slide_id": "TCGA-85-8071-01Z-00-DX1.876f6b0b-f615-43b2-8923-ee21f94568b7",
+    "slide_index": 978,
+    "dataset_index": 100978
+  },
+  "100979": {
+    "slide_id": "TCGA-93-A4JQ-01Z-00-DX1.24573112-917C-43E9-B0FD-763C290AA88A",
+    "slide_index": 979,
+    "dataset_index": 100979
+  },
+  "100980": {
+    "slide_id": "TCGA-60-2725-01Z-00-DX1.b9d038d6-c2fb-4e46-a4ef-80fdbfb56d0a",
+    "slide_index": 980,
+    "dataset_index": 100980
+  },
+  "100981": {
+    "slide_id": "TCGA-95-7562-01Z-00-DX1.C722891A-C5C6-4F0D-A73F-259FA8DB2394",
+    "slide_index": 981,
+    "dataset_index": 100981
+  },
+  "100982": {
+    "slide_id": "TCGA-53-A4EZ-01Z-00-DX1.5D155F0B-A677-4589-AF00-A4C451F5B6B6",
+    "slide_index": 982,
+    "dataset_index": 100982
+  },
+  "100983": {
+    "slide_id": "TCGA-77-A5GH-01Z-00-DX1.2F4C2F84-17AE-415A-BF6C-01A899BAAE68",
+    "slide_index": 983,
+    "dataset_index": 100983
+  },
+  "100984": {
+    "slide_id": "TCGA-77-8131-01Z-00-DX1.dcb8e2c7-0d2f-4b38-9db8-cc026a61699e",
+    "slide_index": 984,
+    "dataset_index": 100984
+  },
+  "100985": {
+    "slide_id": "TCGA-MP-A4TI-01Z-00-DX1.08AB4C0B-F953-41B5-A9BB-7452A8E34A54",
+    "slide_index": 985,
+    "dataset_index": 100985
+  },
+  "100986": {
+    "slide_id": "TCGA-66-2771-01Z-00-DX1.b84a28ec-2726-4386-9445-0f5ca351d985",
+    "slide_index": 986,
+    "dataset_index": 100986
+  },
+  "100987": {
+    "slide_id": "TCGA-55-6970-01Z-00-DX1.be042a9b-3eab-4b6c-9cd7-7486ffab037f",
+    "slide_index": 987,
+    "dataset_index": 100987
+  },
+  "100988": {
+    "slide_id": "TCGA-NJ-A4YI-01Z-00-DX1.C4111D01-27BF-486F-8E0E-C8053DB16133",
+    "slide_index": 988,
+    "dataset_index": 100988
+  },
+  "100989": {
+    "slide_id": "TCGA-49-4514-01Z-00-DX1.9c304807-2a0c-44f7-97cc-fbd30f2c740f",
+    "slide_index": 989,
+    "dataset_index": 100989
+  },
+  "100990": {
+    "slide_id": "TCGA-85-6798-01Z-00-DX1.c8ca3a56-b337-4345-b55a-83b0ae9a75f0",
+    "slide_index": 990,
+    "dataset_index": 100990
+  },
+  "100991": {
+    "slide_id": "TCGA-NC-A5HM-01Z-00-DX1.CBAF06E0-5185-4A9C-B005-F7D2C0945032",
+    "slide_index": 991,
+    "dataset_index": 100991
+  },
+  "100992": {
+    "slide_id": "TCGA-33-4547-01Z-00-DX5.0430003c-aa9c-4d8f-89fd-72fa63207740",
+    "slide_index": 992,
+    "dataset_index": 100992
+  },
+  "100993": {
+    "slide_id": "TCGA-39-5028-01Z-00-DX1.7994ec22-746d-4c30-8138-e6c9bc67c71f",
+    "slide_index": 993,
+    "dataset_index": 100993
+  },
+  "100994": {
+    "slide_id": "TCGA-50-5946-01Z-00-DX1.5076CACA-E3C0-4114-BA69-5B4896FF0C4B",
+    "slide_index": 994,
+    "dataset_index": 100994
+  },
+  "100995": {
+    "slide_id": "TCGA-49-4488-01Z-00-DX8.b9fb358a-9618-4956-9544-c2ffe2678095",
+    "slide_index": 995,
+    "dataset_index": 100995
+  },
+  "100996": {
+    "slide_id": "TCGA-66-2780-01Z-00-DX1.895b75f9-6127-49f9-8106-0161b5de18ec",
+    "slide_index": 996,
+    "dataset_index": 100996
+  },
+  "100997": {
+    "slide_id": "TCGA-75-5146-01Z-00-DX1.4958A631-7E6F-4FBB-A1C3-B8F8368D46C5",
+    "slide_index": 997,
+    "dataset_index": 100997
+  },
+  "100998": {
+    "slide_id": "TCGA-6A-AB49-01Z-00-DX1.FDF2EED7-57A3-4019-A382-21DED11780F6",
+    "slide_index": 998,
+    "dataset_index": 100998
+  },
+  "100999": {
+    "slide_id": "TCGA-78-7145-01Z-00-DX1.ecde66bf-2de8-4e31-b3ab-4fed4f055dda",
+    "slide_index": 999,
+    "dataset_index": 100999
+  },
+  "101000": {
+    "slide_id": "TCGA-99-8025-01Z-00-DX1.76d4e012-91a7-4f1d-ba0f-4cecd812ec49",
+    "slide_index": 1000,
+    "dataset_index": 101000
+  },
+  "101001": {
+    "slide_id": "TCGA-98-8023-01Z-00-DX1.d04d976f-0a9f-44c6-a5f1-4b06885847f8",
+    "slide_index": 1001,
+    "dataset_index": 101001
+  },
+  "101002": {
+    "slide_id": "TCGA-55-8616-01Z-00-DX1.4F53B2AB-8221-4E67-80D2-7A8E3815B730",
+    "slide_index": 1002,
+    "dataset_index": 101002
+  },
+  "101003": {
+    "slide_id": "TCGA-78-8660-01Z-00-DX1.11E923ED-C01B-439D-8796-08C9E3DC2D93",
+    "slide_index": 1003,
+    "dataset_index": 101003
+  },
+  "101004": {
+    "slide_id": "TCGA-38-A44F-01Z-00-DX1.B9958072-D8BB-40DD-B28E-2E83CE2B550B",
+    "slide_index": 1004,
+    "dataset_index": 101004
+  },
+  "101005": {
+    "slide_id": "TCGA-34-8454-01Z-00-DX1.A2308ED3-E430-4448-853F-B51412354279",
+    "slide_index": 1005,
+    "dataset_index": 101005
+  },
+  "101006": {
+    "slide_id": "TCGA-44-5645-01Z-00-DX1.8b0d89d7-7849-49a6-a2f5-a8faf2c5aab4",
+    "slide_index": 1006,
+    "dataset_index": 101006
+  },
+  "101007": {
+    "slide_id": "TCGA-MP-A4TJ-01Z-00-DX1.14EDBE5C-5D0C-4002-BE95-AF5C9D9F3D43",
+    "slide_index": 1007,
+    "dataset_index": 101007
+  },
+  "101008": {
+    "slide_id": "TCGA-77-7465-01Z-00-DX1.25e4b0b4-4948-432f-8010-a6c6e4652cab",
+    "slide_index": 1008,
+    "dataset_index": 101008
+  },
+  "101009": {
+    "slide_id": "TCGA-34-5240-01Z-00-DX1.03785f14-494a-4898-9ae0-59e64250c33b",
+    "slide_index": 1009,
+    "dataset_index": 101009
+  },
+  "101010": {
+    "slide_id": "TCGA-55-8512-01Z-00-DX1.FD4B9CF5-1955-420E-A955-6D284772D2BE",
+    "slide_index": 1010,
+    "dataset_index": 101010
+  },
+  "101011": {
+    "slide_id": "TCGA-49-4490-01Z-00-DX5.feea87ff-61c6-465e-8b36-4803f6af3d62",
+    "slide_index": 1011,
+    "dataset_index": 101011
+  },
+  "101012": {
+    "slide_id": "TCGA-73-4662-01Z-00-DX1.76e23a15-0917-44ad-9181-50100d318003",
+    "slide_index": 1012,
+    "dataset_index": 101012
+  },
+  "101013": {
+    "slide_id": "TCGA-38-7271-01Z-00-DX1.EF258BEB-8DEA-483E-823A-1E0B90AAA392",
+    "slide_index": 1013,
+    "dataset_index": 101013
+  },
+  "101014": {
+    "slide_id": "TCGA-55-7725-01Z-00-DX1.4d678777-63b1-4f4a-932a-7fccabf504c7",
+    "slide_index": 1014,
+    "dataset_index": 101014
+  },
+  "101015": {
+    "slide_id": "TCGA-77-8140-01Z-00-DX1.b35a0672-9f04-4c34-a894-0ccc38151639",
+    "slide_index": 1015,
+    "dataset_index": 101015
+  },
+  "101016": {
+    "slide_id": "TCGA-22-5473-01Z-00-DX1.C452FE31-443B-43AE-A5FA-451DF0127F8F",
+    "slide_index": 1016,
+    "dataset_index": 101016
+  },
+  "101017": {
+    "slide_id": "TCGA-73-A9RS-01Z-00-DX1.EDCEFE41-61E2-48C9-B8D5-28B55372E0CA",
+    "slide_index": 1017,
+    "dataset_index": 101017
+  },
+  "101018": {
+    "slide_id": "TCGA-77-A5FZ-01Z-00-DX1.1640E2BB-48CC-4CC0-923A-2EC730597EEF",
+    "slide_index": 1018,
+    "dataset_index": 101018
+  },
+  "101019": {
+    "slide_id": "TCGA-22-5478-01Z-00-DX1.6368788A-96D5-499B-A199-89BF1413AE43",
+    "slide_index": 1019,
+    "dataset_index": 101019
+  },
+  "101020": {
+    "slide_id": "TCGA-77-8009-01Z-00-DX1.54adaaba-ddce-4480-9b22-af8e8a85d1d9",
+    "slide_index": 1020,
+    "dataset_index": 101020
+  },
+  "101021": {
+    "slide_id": "TCGA-75-5126-01Z-00-DX1.164887F4-9986-415F-A94A-E40E92D80DA3",
+    "slide_index": 1021,
+    "dataset_index": 101021
+  },
+  "101022": {
+    "slide_id": "TCGA-67-6215-01Z-00-DX1.c014ffaf-6db8-42ef-a50c-9de98d6a5345",
+    "slide_index": 1022,
+    "dataset_index": 101022
+  },
+  "101023": {
+    "slide_id": "TCGA-21-1071-01Z-00-DX1.a9bba825-1c92-4101-9086-c4d1c91117af",
+    "slide_index": 1023,
+    "dataset_index": 101023
+  },
+  "101024": {
+    "slide_id": "TCGA-49-4506-01Z-00-DX2.81e180ae-bd9f-49cc-9a0f-297800cc7280",
+    "slide_index": 1024,
+    "dataset_index": 101024
+  },
+  "101025": {
+    "slide_id": "TCGA-85-8352-01Z-00-DX1.47426016-95BC-49C0-9844-06A3A7EAE5D6",
+    "slide_index": 1025,
+    "dataset_index": 101025
+  },
+  "101026": {
+    "slide_id": "TCGA-55-1592-01Z-00-DX1.ee15e261-2f9c-4a93-a19f-27cb1c3bae15",
+    "slide_index": 1026,
+    "dataset_index": 101026
+  },
+  "101027": {
+    "slide_id": "TCGA-18-5595-01Z-00-DX1.75235488-2F6F-42CE-8D7D-0E9A360E1C61",
+    "slide_index": 1027,
+    "dataset_index": 101027
+  },
+  "101028": {
+    "slide_id": "TCGA-77-8128-01Z-00-DX1.5831331a-8c82-4817-977e-1842250d9c7b",
+    "slide_index": 1028,
+    "dataset_index": 101028
+  },
+  "101029": {
+    "slide_id": "TCGA-91-A4BC-01Z-00-DX1.8D8783B1-D1BA-4970-B77B-3AED8506C487",
+    "slide_index": 1029,
+    "dataset_index": 101029
+  },
+  "101030": {
+    "slide_id": "TCGA-22-1002-01Z-00-DX1.A41CF987-B2E7-4ADE-8580-735631EEE963",
+    "slide_index": 1030,
+    "dataset_index": 101030
+  },
+  "101031": {
+    "slide_id": "TCGA-O2-A52S-01Z-00-DX1.65C217A1-6757-433D-AF35-7F0923023095",
+    "slide_index": 1031,
+    "dataset_index": 101031
+  },
+  "101032": {
+    "slide_id": "TCGA-49-4487-01Z-00-DX1.3a3a0720-463c-430e-849b-e2f8991bdfa5",
+    "slide_index": 1032,
+    "dataset_index": 101032
+  },
+  "101033": {
+    "slide_id": "TCGA-78-8648-01Z-00-DX1.D3EAEF8E-E739-490F-BF48-A4796B0C0E7A",
+    "slide_index": 1033,
+    "dataset_index": 101033
+  },
+  "101034": {
+    "slide_id": "TCGA-J1-A4AH-01Z-00-DX1.702A5CC6-0BFA-42F4-995B-8567A1DE0D09",
+    "slide_index": 1034,
+    "dataset_index": 101034
+  },
+  "101035": {
+    "slide_id": "TCGA-38-4630-01Z-00-DX1.d08d0193-c5ed-4db8-b236-1a4c3c3177b8",
+    "slide_index": 1035,
+    "dataset_index": 101035
+  },
+  "101036": {
+    "slide_id": "TCGA-51-4081-01Z-00-DX1.5971d87d-5181-4c7a-91ea-2dfad1bc5fca",
+    "slide_index": 1036,
+    "dataset_index": 101036
+  },
+  "101037": {
+    "slide_id": "TCGA-66-2769-01Z-00-DX1.101b6493-a7b3-42cf-ae2f-a90948f3fb8f",
+    "slide_index": 1037,
+    "dataset_index": 101037
+  },
+  "101038": {
+    "slide_id": "TCGA-55-8302-01Z-00-DX1.E0C2B152-BBA9-4AA7-9E6B-BD57B68163CB",
+    "slide_index": 1038,
+    "dataset_index": 101038
+  },
+  "101039": {
+    "slide_id": "TCGA-NK-A5CT-01Z-00-DX1.D41A2900-E398-434F-AAC4-5CEA1FDC0479",
+    "slide_index": 1039,
+    "dataset_index": 101039
+  },
+  "101040": {
+    "slide_id": "TCGA-85-7698-01Z-00-DX1.bc8a89a7-356e-4913-9632-627774730f48",
+    "slide_index": 1040,
+    "dataset_index": 101040
+  }
+}
